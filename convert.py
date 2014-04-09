@@ -79,15 +79,15 @@ _MAPPING_={
 }
 
 _INTERN_DICT={ 
-1   :(r'http://ntueawearesomatch3.wordpress.com/2014/03/28/%E9%AB%98%E6%A0%A1%E8%AA%8C%E5%AF%A6%E7%BF%92%E5%BF%83%E5%BE%97%EF%BC%8D%E6%99%AF%E6%96%87%E7%A7%91%E5%A4%A7%E6%A5%8A%E7%AB%8B%E6%A5%B7/',' 高校誌實習心得－景文科大楊立楷  '),
-14  :(r'http://ntueawearesomatch3.wordpress.com/2014/03/28/patisco%E5%AF%A6%E7%BF%92%E5%BF%83%E5%BE%97%EF%BC%8Dchayin/  ',' Patisco實習心得－Chayin '),
-20  :(r'http://ntueawearesomatch3.wordpress.com/2014/03/28/%E5%93%81%E5%94%84%E5%AF%A6%E7%BF%92%E5%BF%83%E5%BE%97%EF%BC%8D%E6%94%BF%E5%A4%A7%E4%B8%AD%E6%96%87%E5%AE%8B%E9%A8%8F%E5%9D%87/',' 品唄實習心得－政大中文宋騏均    '),
-23  :(r'http://ntueawearesomatch3.wordpress.com/2014/03/28/arpp%E7%90%85%E8%8C%B6%E5%AF%A6%E7%BF%92%E5%BF%83%E5%BE%97%EF%BC%8D%E5%8F%B0%E5%A4%A7%E7%B6%93%E6%BF%9F%E5%91%A8%E6%9B%89%E5%90%9F/',' ARPP(琅茶)實習心得－台大經濟周曉吟  '),
-25  :(r'http://ntueawearesomatch3.wordpress.com/2014/03/28/%E6%97%8B%E8%BD%89%E6%9C%A8%E9%A6%AC%E5%AF%A6%E7%BF%92%E7%94%9F%EF%BC%8D%E5%90%B3%E6%99%89%E5%AE%87/',' 旋轉木馬實習生－吳晉宇  '),
-32  :(r'http://ntueawearesomatch3.wordpress.com/2014/03/28/%E6%96%B9%E7%99%BD%E7%A7%91%E6%8A%80%E5%AF%A6%E7%BF%92%E5%BF%83%E5%BE%97%EF%BC%8D%E5%B0%8F%E6%8D%B2/',' 方白科技實習心得－小捲  '),
-41  :(r'http://intern.grazingcat.com/intern-highlights/intern-experience.html   ',' Grazingcat Intern 牧貓實習  '),
-43  :(r'http://ntueawearesomatch3.wordpress.com/2013/11/06/%E8%89%BE%E7%89%B9%E7%B6%B2%E8%B7%AF%E5%AF%A6%E7%BF%92%E5%BF%83%E5%BE%97%EF%BC%8D%E5%8C%97%E6%95%99%E5%A4%A7-%E7%8E%A9%E5%85%B7%E8%88%87%E9%81%8A%E6%88%B2%E8%A8%AD%E8%A8%88%E9%84%AD%E5%AF%B6%E7%90%B3/',' 艾特網路實習心得－北教大 鄭寶琳 '),
-46  :(r'http://ntueawearesomatch3.wordpress.com/2014/03/28/pobono%E5%AF%A6%E7%BF%92%E5%BF%83%E5%BE%97%EF%BC%8D%E9%BB%83%E6%9F%8F%E7%BF%B0/',' Pobono實習心得－黃柏翰  '),
+1.  :(r'http://ntueawearesomatch3.wordpress.com/2014/03/28/%E9%AB%98%E6%A0%A1%E8%AA%8C%E5%AF%A6%E7%BF%92%E5%BF%83%E5%BE%97%EF%BC%8D%E6%99%AF%E6%96%87%E7%A7%91%E5%A4%A7%E6%A5%8A%E7%AB%8B%E6%A5%B7/',' 高校誌實習心得－景文科大楊立楷  '),
+14. :(r'http://ntueawearesomatch3.wordpress.com/2014/03/28/patisco%E5%AF%A6%E7%BF%92%E5%BF%83%E5%BE%97%EF%BC%8Dchayin/  ',' Patisco實習心得－Chayin '),
+20. :(r'http://ntueawearesomatch3.wordpress.com/2014/03/28/%E5%93%81%E5%94%84%E5%AF%A6%E7%BF%92%E5%BF%83%E5%BE%97%EF%BC%8D%E6%94%BF%E5%A4%A7%E4%B8%AD%E6%96%87%E5%AE%8B%E9%A8%8F%E5%9D%87/',' 品唄實習心得－政大中文宋騏均    '),
+23. :(r'http://ntueawearesomatch3.wordpress.com/2014/03/28/arpp%E7%90%85%E8%8C%B6%E5%AF%A6%E7%BF%92%E5%BF%83%E5%BE%97%EF%BC%8D%E5%8F%B0%E5%A4%A7%E7%B6%93%E6%BF%9F%E5%91%A8%E6%9B%89%E5%90%9F/',' ARPP(琅茶)實習心得－台大經濟周曉吟  '),
+25. :(r'http://ntueawearesomatch3.wordpress.com/2014/03/28/%E6%97%8B%E8%BD%89%E6%9C%A8%E9%A6%AC%E5%AF%A6%E7%BF%92%E7%94%9F%EF%BC%8D%E5%90%B3%E6%99%89%E5%AE%87/',' 旋轉木馬實習生－吳晉宇  '),
+32. :(r'http://ntueawearesomatch3.wordpress.com/2014/03/28/%E6%96%B9%E7%99%BD%E7%A7%91%E6%8A%80%E5%AF%A6%E7%BF%92%E5%BF%83%E5%BE%97%EF%BC%8D%E5%B0%8F%E6%8D%B2/',' 方白科技實習心得－小捲  '),
+41. :(r'http://intern.grazingcat.com/intern-highlights/intern-experience.html   ',' Grazingcat Intern 牧貓實習  '),
+43. :(r'http://ntueawearesomatch3.wordpress.com/2013/11/06/%E8%89%BE%E7%89%B9%E7%B6%B2%E8%B7%AF%E5%AF%A6%E7%BF%92%E5%BF%83%E5%BE%97%EF%BC%8D%E5%8C%97%E6%95%99%E5%A4%A7-%E7%8E%A9%E5%85%B7%E8%88%87%E9%81%8A%E6%88%B2%E8%A8%AD%E8%A8%88%E9%84%AD%E5%AF%B6%E7%90%B3/',' 艾特網路實習心得－北教大 鄭寶琳 '),
+46.  :(r'http://ntueawearesomatch3.wordpress.com/2014/03/28/pobono%E5%AF%A6%E7%BF%92%E5%BF%83%E5%BE%97%EF%BC%8D%E9%BB%83%E6%9F%8F%E7%BF%B0/',' Pobono實習心得－黃柏翰  '),
 }
 
 _LOGO_DICT = {
@@ -124,6 +124,7 @@ _LOGO_DICT = {
 }
 
 
+_NDIS_LIST = [ 48.,49.,50.,51. ]
 
 
 _NKEY='B533C1C863AE4C'
@@ -155,15 +156,9 @@ def main():
     #len_ary=[]
     for i in range(1,max_range+1):
         temp_dict={}
-        if i in _INTERN_DICT.keys():
-            temp_dict.update({'intern_url':_INTERN_DICT[i][0]})    
-            temp_dict.update({'intern_title':_INTERN_DICT[i][1].decode('utf-8')})    
         for j in range(0,sh.ncols): 
             elem=sh.row(i)[j]
             if j%7==0 and j!=0:
-                #val=replace_multi(elem.value,[ ('(軟體開發、硬體開發、產品研發等)'.decode('utf-8'),''),
-                #                                ('(藝術設計、數位傳播、編輯採訪等)'.decode('utf-8'),''),
-                #                               ('(行銷、專案管理、產品企畫、業務等)'.decode('utf-8'),'') ])
                 val=replace_multi(elem.value,[(r'\([^\(\)]*\)','')],True)
             elif j==2:
                 val=urljoin('http:', elem.value).replace('///','//') 
@@ -173,10 +168,16 @@ def main():
                 val=elem.value
             #if val !="":
             temp_dict.update({_MAPPING_[j]:val})    
-
-        if float(temp_dict['id']) in _LOGO_DICT.keys():
-            temp_dict.update({'logo':_LOGO_DICT[float(temp_dict['id'])]})    
-        temp_dict.update({'display':'是'.decode('utf-8')})
+        this_id = float(temp_dict['id'])
+        if this_id in _INTERN_DICT.keys():
+            temp_dict.update({'intern_url':_INTERN_DICT[this_id][0]})    
+            temp_dict.update({'intern_title':_INTERN_DICT[this_id][1].decode('utf-8')})    
+        if this_id in _LOGO_DICT.keys():
+            temp_dict.update({'logo':_LOGO_DICT[this_id]})    
+        if this_id in _NDIS_LIST:
+            temp_dict.update({'display':'否'.decode('utf-8')})
+        else:
+            temp_dict.update({'display':'是'.decode('utf-8')})
         temp_ary.append({'company':temp_dict})
     result_s=dicttoxml.dicttoxml(temp_ary).encode('utf-8')
     #print [result_s]
