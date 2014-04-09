@@ -1,0 +1,202 @@
+/* Welcome to Compass.
+ * In this file you should write your main styles. (or centralize your imports)
+ * Import this file using the following HTML or equivalent:
+ * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
+/* line 17, ../../../../../compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font: inherit;
+  font-size: 100%;
+  vertical-align: baseline;
+}
+
+/* line 22, ../../../../../compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+html {
+  line-height: 1;
+}
+
+/* line 24, ../../../../../compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+ol, ul {
+  list-style: none;
+}
+
+/* line 26, ../../../../../compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+/* line 28, ../../../../../compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+caption, th, td {
+  text-align: left;
+  font-weight: normal;
+  vertical-align: middle;
+}
+
+/* line 30, ../../../../../compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+q, blockquote {
+  quotes: none;
+}
+/* line 103, ../../../../../compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+q:before, q:after, blockquote:before, blockquote:after {
+  content: "";
+  content: none;
+}
+
+/* line 32, ../../../../../compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+a img {
+  border: none;
+}
+
+/* line 116, ../../../../../compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary {
+  display: block;
+}
+
+/* line 9, ../sass/screen.sass */
+body {
+  font-family: "Helvetica", "微軟正黑體", "蘋果儷黑體", "Lihei Pro";
+}
+
+/* line 12, ../sass/screen.sass */
+#bottom-nav {
+  text-align: center;
+}
+/* line 14, ../sass/screen.sass */
+#bottom-nav ul {
+  float: none;
+  position: static;
+  display: inline-block;
+}
+
+/* line 19, ../sass/screen.sass */
+#intro {
+  background-image: url("../img/pattern_small.png");
+  padding-top: 50px;
+  padding-bottom: 50px;
+  min-height: 400px;
+  background-rotate: -10deg;
+  text-align: center;
+}
+
+/* line 28, ../sass/screen.sass */
+.navbar {
+  margin-bottom: 0px;
+}
+
+/* line 30, ../sass/screen.sass */
+#search {
+  background-image: url("../img/grid_noise.png");
+  min-height: 500px;
+  padding-top: 20px;
+}
+
+/* line 35, ../sass/screen.sass */
+.atr {
+  color: #3f6da0;
+  font-weight: bold;
+  font-size: 18px;
+  vertical-align: middle;
+}
+
+/* line 42, ../sass/screen.sass */
+.firmdata:nth-child(odd):hover, .firmdata:nth-child(even):hover, .firmdata:hover, .firmdata:nth-child(odd):hover td, .firmdata:nth-child(even):hover td {
+  background-color: #6baee1;
+  color: white;
+  cursor: pointer;
+}
+
+/* line 47, ../sass/screen.sass */
+#end {
+  height: 30px;
+  background-color: #161616;
+}
+
+/* line 52, ../sass/screen.sass */
+#inline_content {
+  background-image: url("../img/grid_noise.png");
+}
+/* line 54, ../sass/screen.sass */
+#inline_content span.h1 {
+  color: #3b7e9d;
+  font-size: 36px;
+}
+/* line 57, ../sass/screen.sass */
+#inline_content span.h1 img {
+  height: 41px;
+  vertical-align: bottom;
+  padding-left: 20px;
+}
+/* line 61, ../sass/screen.sass */
+#inline_content h2 {
+  color: #6baee1;
+  font-size: 24px;
+  margin-top: 25px;
+  margin-bottom: 15px;
+}
+/* line 66, ../sass/screen.sass */
+#inline_content p {
+  text-indent: 30px;
+  font-size: 15px;
+  color: #333333;
+  line-height: 20px;
+}
+
+/* line 72, ../sass/screen.sass */
+#search {
+  background-image: url("../img/grid_noise.png");
+  min-height: 500px;
+  padding-top: 20px;
+}
+
+/* line 77, ../sass/screen.sass */
+#map {
+  background-image: url("../img/debut_dark.png");
+  padding-top: 30px;
+  padding-bottom: 30px;
+  min-height: 700px;
+}
+/* line 82, ../sass/screen.sass */
+#map h1 {
+  line-height: 40px;
+  font-size: 40px;
+  margin-bottom: 10px;
+  color: #3b7e9d;
+}
+
+/* line 89, ../sass/screen.sass */
+#contact {
+  background-image: url("../img/grid_noise.png");
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+/* line 93, ../sass/screen.sass */
+#contact h1 {
+  line-height: 40px;
+  font-size: 40px;
+  margin-bottom: 10px;
+  color: #3b7e9d;
+}
+/* line 98, ../sass/screen.sass */
+#contact li {
+  line-height: 30px;
+  font-size: 18px;
+}
+/* line 99, ../sass/screen.sass */
+#contact li a {
+  color: #333333;
+}

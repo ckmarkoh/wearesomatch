@@ -1,0 +1,2971 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<companys xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<company><display>是</display>
+<name>Ragic</name>
+<website>www.ragic.com</website>
+<address>台北市大安區金華街187號東樓209</address>
+<type>資通訊產業</type>
+<desc>Ragic Builder是個開發多年而具有野心的產品,我們希望能夠改變傳統企業IT專案開發的痛苦,而能夠用更簡單、更輕型的方式,開發出專屬於該企業的資料庫系統。而我們的作法讓使用者就是在Web介面上,用類似Excel的介面,讓使用者開發資料庫系統,以及使用資料庫系統。
+
+我們有著效率的文化, 追求工作效率而不是加班時數, 每天晚上六點半以前公司就熄燈, 內部極少耗時沒效率的會議
+我們是產品導向的公司, 多年來專心開發單一產品, 深耕資料庫應用開發工具領域, 而不會看最近流行什麼就一窩蜂跳下去追隨潮流
+
+2009.9 率先推出試算表介面Ragic Builder
+2009.9 Ragic Builder入圍美國TC50 DemoPit決選
+2009.11 Ragic Builder獲美國知名媒體TechCrunch報導
+2009.12 立即科技獲選創投公會2009台灣十強
+2010.12 Ragic Builder獲美國知名IT雜誌eWeek選為Product to Watch
+2011.2 Ragic Builder獲知名媒體Tech Republic好評
+2011.9 Ragic入選Red Herring亞洲科技一百強決選
+2012.4 Ragic獲得Echelon Taiwan Satellite首獎</desc>
+<other>待遇面議
+客戶多為國外企業，需良好英文能力。</other>
+<job1type>行銷業務</job1type>
+<job1title>Product marketing</job1title>
+<job1duty>1. Editing English technical documents and videos to help user learn Ragic.
+2. Online / e-mail customer support to help users with problems they encounter.
+3. Plan and execute marketing campaigns.</job1duty>
+<job1cons>1. Fluent English writing and speaking.
+2. Basic understanding of database systems would be a plus. We will provide training to teach you how to create databases with Ragic.
+3. Experience with enterprise software marketing would be a plus.
+4. Part-time or internship is also acceptable.</job1cons>
+<job1hassal>是</job1hassal>
+<job1sal>面議</job1sal>
+<job2type>軟硬體開發</job2type>
+<job2title>前端開發工程師</job2title>
+<job2duty>產品前端模組開發</job2duty>
+<job2cons>個性隨和好相處
+熟Javascript，不需熟任何framework
+有能力開發模組化Javascript元件
+勇於挑戰解決困難問題，平台型的產品比一般專案複雜許多</job2cons>
+<job2hassal>是</job2hassal>
+<job2sal>面議</job2sal>
+<job3type>軟硬體開發</job3type>
+<job3title>後端開發工程師</job3title>
+<job3duty>產品後端模組開發</job3duty>
+<job3cons>個性隨和好相處
+熟Java，不需熟任何framework
+有能力閱讀英文文件快速上手使用新library
+勇於挑戰解決困難問題，平台型的產品比一般專案複雜許多</job3cons>
+<job3hassal>是</job3hassal>
+<job3sal>面議</job3sal>
+<logo>1.jpg</logo></company>
+<company><display>是</display>
+<name>威數意動股份有限公司</name>
+<website>www.waystorm.com/</website>
+<address>台北市大安區光復南路102號13樓</address>
+<type>行動行銷產業</type>
+<desc>威數意動(wayStorm)是領先的行動行銷科技(Mobile Target Marketing)公司，經營團隊來自美國及台灣知名的企業(IBM, Bell Labs, Morgan Stanley, MStar Semiconductor)。
+致力於行動行銷各項技術與服務開發(Mobile Marketing Technology)，將先進的技術用於行動廣告(Advertising) 、行銷(Marketing) 及新媒體(Emerging Media)。結合雲端技術(Big Data、Data Mining、Machine Learning)，手機端App軟體開發，威數意動在智慧型手機上已觸及超過9百萬的使用者，而且仍不斷地加強顛覆性創新技術。威數意動主要研發人員來自世界級的研究單位, 包括了Stanford大學, Michigan大學, Illinois大學(Urbana-Champaign), 南加大, 及Carnegie Mellon大學.
+威數意動長期與應用軟體開發商(iOS/Android/Windows App Developer)及廣告主合作，藉由手機媒體平台，創造三贏的市場，提供企業與個人多元化之行動媒體服務，持續帶領著合作夥伴創造優勢，建立更精準更具溝通性的互動情境，追求最佳行銷效益。</desc>
+<other>- 週休二日
+- 勞保，健保
+- 員工旅遊
+- 每季員工聚餐
+- 女性同仁生理假, 育嬰假。
+- 三節禮金
+- 工作績效獎金
+- 專案獎金</other>
+<job1type>軟硬體開發</job1type>
+<job1title>Python軟體工程師</job1title>
+<job1duty>1. 負責Python軟體開發，包括分析、設計以及程式撰寫，熟悉軟體Python測試與修改。
+2. 參與手機廣告平台系統設計，開發與維護。打造效率與穩定性兼顧的大型平台。
+3. 有Big Data分析經驗者(Machine Learning/Data Mining)為佳。
+4. 理工相關科系畢(若非資訊相關科系，需有程式開發經驗至少一年</job1duty>
+<job1cons>需擅長Python</job1cons>
+<job1inter>作品demo</job1inter>
+<job1hassal>是</job1hassal>
+<job1sal>面議</job1sal>
+<job2type>軟硬體開發</job2type>
+<job2title>HTML5動態網站前後台開發工程師</job2title>
+<job2duty>1. 負責網頁前端程式設計
+2. 具備AJAX，JavaScript，HTML5，CSS3
+3. 熟悉Facebook API，Google API，Weibo API等
+4. 熟悉jQuery Mobile及Phonegap 使用經驗尤佳。
+5. 熟使用者行為研究與設計、使用者介面者設計與視覺設計所需之原理與技術。
+6. 有 Database概念尤佳 (MSSQL / MySql) 
+7. 實作過任一程式語言尤佳 (Python / ASP / PHP / JSP)</job2duty>
+<job2cons>雲端應用軟體後台開發及相關Open source的整合應用開發與測試</job2cons>
+<job2inter>作品Demo</job2inter>
+<job2hassal>是</job2hassal>
+<job2sal>面議</job2sal>
+<job3type>軟硬體開發</job3type>
+<job3title>iOS/Android/Windows手機軟體工程師</job3title>
+<job3duty>1. 負責Apple iOS/Google Android/Microsoft Windows Phone平台手機軟體開發
+2. 參與手機廣告平台系統設計，開發與維護。打造效率與穩定性兼顧的大型平台。
+3. 有Big Data分析經驗者為佳。
+4. 理工相關科系畢(若非資訊相關科系，需有程式開發經驗至少一年)</job3duty>
+<job3cons>科系要求: 資訊工程相關、其他數學及電算機科學相關、數學及電算機科學學科類
+
+
+其他條件: 
+1. 資料庫管理及應用工程師 (熟Python, PHP, JSP, SQL)
+2. 有物件導向程式語言開發經驗者
+3. HTML程式工程師 (HTML程式撰寫, 熟HTML5尤佳)
+理工相關科系(若非資訊相關科系，需有程式開發經驗至少一年)</job3cons>
+<job3inter>作品Demo</job3inter>
+<job3hassal>是</job3hassal>
+<job3sal>面議</job3sal>
+<job4type>行銷業務</job4type>
+<job4title>專案管理</job4title>
+<job4duty>1. 部門目標規劃與訂定
+2. 部門人員工作分配與訓練
+3. 專案進度及結案程序掌控
+4. 成本控制
+5. 協助專案執行及問題追蹤解決
+6. 負責KPI(Key Performance Indicator)之管理
+7. SOP訂定到監控各階段之產出</job4duty>
+<job4cons>具相關工作經驗者尤佳</job4cons>
+<job4hassal>是</job4hassal>
+<job4sal>面議</job4sal>
+<job5type>行銷業務</job5type>
+<job5title>行動網路廣告業務/業務經理</job5title>
+<job5duty>1.熟悉行動數位媒體廣告市場
+2.瞭解自身產品優勢與行銷趨勢，富有創意。
+3.推廣及規劃專案，目標導向。</job5duty>
+<job5cons>1. 大學畢業
+2. 對行動廣告有興趣
+3. 勤奮, 積極, 有責任感
+4. 具抗壓性</job5cons>
+<job5hassal>是</job5hassal>
+<job5sal>面議</job5sal>
+<logo>2.jpg</logo></company>
+<company><display>是</display>
+<name>龍骨王有限公司</name>
+<website>longgood.com.tw/</website>
+<address>台北市信義區基隆路二段145號九樓之一</address>
+<type>生醫生農產業</type>
+<desc>龍骨王是以「促進銀髮族運動保健，建立專屬於銀髮族的健康平台」為目標而成立的企業，預計在十年內成為華人區首屈一指的運動復健平台。我們以「安全‧娛樂‧運動」為主要訴求，利用Kinect體感互動技術開發一套互動式體感保健系統，希望能藉由安全又有趣味的運動方式增加銀髮族及復健病患的運動動機而建立起運動習動，讓其身體更健康，降低罹患慢性病的機率以及減緩身體退化速率。
+
+龍骨王成立於2011年，主要成員為參與國家實驗研究院所執行的”台灣－史丹佛醫療器材產品設計之人才培訓計畫” 的學員，成員包含物理治療師、醫學工程、行銷、美術以及程式等各領域專才。</desc>
+<other>官網: http://longgood.com.tw/
+FB粉絲頁: https://www.facebook.com/longgood.com.tw</other>
+<job1type>軟硬體開發</job1type>
+<job1title>軟體程式開發實習生</job1title>
+<job1duty>利用kinect體感技術為年長者及復健病患設計互動式復健軟體</job1duty>
+<job1cons>1.從Kinect取得的資訊，開發動作判斷的演算法，會Unity3D (C#) 者佳。
+
+2.網路應用程式:PHP or Javascript</job1cons>
+<job1inter>履歷表</job1inter>
+<job1hassal>是</job1hassal>
+<job1sal>Unity專業培訓課程</job1sal>
+<job2type>編輯與設計</job2type>
+<job2title>互動美術設計</job2title>
+<job2duty>你將面對及學習的挑戰：
+長者在科技使用經驗及理解較少，對於體感互動經驗更少！也因此在互動及介面設計需要更多引導及預示性，如何提供一個不過度刺激，並有適當回餽的互動機制一直是龍骨王的挑戰！
+
+1. 體感互動流程、介面如何設計以符合體能較差的長者及病患？
+
+2. 如何在情境及視覺環境的建構上連結長者，補足長者對虛擬情境的不熟悉？
+
+3. 介面的視覺回饋、配色、對比等刺激如何優化來幫助認知及視覺較差的長者？
+
+你將會與我們一起探索長者的特殊性，並開創更多適合長者的體感互動可能性。</job2duty>
+<job2cons>我們期待你：
+
+  	對 Kinect 體感互動模式及對應軟體介面設計有高度興趣。
+
+   具有一顆想要幫助長者的心，願意深入觀察理解長者， 希望透過更好的經驗設計來幫助長者透過科技改善生活品質。
+
+   喜歡挑戰，對創業及進入新創團隊學習具有抱負！
+
+我們需要你：
+
+   參與過 資訊架構、互動設計 或 介面視覺 等相關設計、規劃經驗。
+
+   擅長進行概念溝通，能夠有效透過文字、草圖等工具溝通互動概念。
+
+   對 Adobe  Photoshop、illustrator 等視覺設計軟體有基礎掌握；若有 Unity遊戲設計、 Maya/3Dmax 角色及動畫相關設計經驗大加分！  
+
+   具備耐心與長者及程式設計師溝通，若有基礎程式概念尤佳。</job2cons>
+<job2inter>作品集,履歷表</job2inter>
+<job2hassal>是</job2hassal>
+<logo>3.jpg</logo></company>
+<company><display>是</display>
+<name>立達軟體科技股份有限公司</name>
+<website>www.leaderg.com</website>
+<address>台北市大安區信義路三段153號6樓</address>
+<type>資通訊產業</type>
+<desc>立達軟體科技是一個機器人設計公司 (Robot Design House)，主要提供「人工智慧機器人技術、雲端技術、及APP技術」解決各個產業所遇到的問題。
+我們是資策會重點培育的技術團隊。
+2011年榮獲經濟部工業局APP STAR高手爭霸戰最佳文創獎。
+2012年獲選進駐APP創意園區，並入圍IDEAS Show及創新中國DEMO CHINA大賽。
+2013由22個demo團隊中脫穎而出，晉級Ideas Show Plus前6名。並榮獲創投公會將立達軟體列為台灣APP/網路產業的8家優質團隊之一，要推薦給台灣天使投資協會的投資人們。
+2013下半年，受到資策會及KPMG安侯建業聯合會計師事務所的推薦，參加櫃買中心的「創櫃板」輔導活動，將募資目標訂為開發「Robot SDK」，目標成為每一台機器人的軟體核心。
+目前公司的解決方案分為三方面：虛擬商品銷售、線上整合線下實體商品銷售、以及軟硬整合。
+目前主要營收來源是B2B接案，提供「人工智慧機器人、雲端、APP」解決方案給其他組織，例如：廣播電台、圖庫公司、政府機關、電信公司、硬體製造商等。
+除了接案之外，2013年計畫推出機器人軟體服務平台-「火星總部」：提供影像、語音、人工智慧等雲端API服務，並推動開放原始碼「火星球」機器人專案。
+我們的專長是影音處理、巨量資料、及人工智慧方面。
+我們的目標是打造世界級的機器人軟體開發工具(Robot SDK)，讓全世界的人都可以從我們的軟體得到工作上及生活上的幫助。
+2014年Q1，即將推出新產品「L10 機器人管家」。只要在個人電腦安裝軟體後，電腦就會變成機器人管家，就可以透過網路及紅外線控制家裡的電器。使用者透過APP和機器人管家連線，可以遙控家中電器。當然，影像監控及語音控制是必備功能。</desc>
+<other>立達軟體科技享勞健保，按月提撥6%勞工退休金，年終獎金，員工旅遊。負責人堅持為公司同仁打造「幸福企業」的工作環境：準時上下班，加班都有加班費。提供安全、和諧的優質工作環境，並平衡同仁工作及家庭生活，提升生活品質，與公司共創經濟社會價值。
+公司同仁來上班，不但可以透過工作幫助自己得到幸福，還可以透過工作的成果，幫助世界上的其他人。</other>
+<job1type>軟硬體開發</job1type>
+<job1title>iOS/APP 軟體工程師</job1title>
+<job1duty>使用Objective C語言開發iOS APP軟體 或使用JAVA語言撰寫Android APP軟體. 需出差，一年累積時間約一個月以下</job1duty>
+<job1cons>工作經歷不拘，專科、大學、碩士學歷</job1cons>
+<job1hassal>是</job1hassal>
+<job1sal>全職, 月薪, 週休二日,</job1sal>
+<job2type>軟硬體開發</job2type>
+<job2title>人工智慧演算法工程師</job2title>
+<job2duty>以C語言開發人工智慧演算法：機器視覺、影像處理、語音辨識、自然語言、電腦語音、機器學習、類神經網路、機器人控制等</job2duty>
+<job2cons>需寫過相關程式及對人工智慧有高度興趣,專科、大學、碩士學歷</job2cons>
+<job2hassal>是</job2hassal>
+<job2sal>全職, 月薪, 週休二日</job2sal>
+<job3type>軟硬體開發</job3type>
+<job3title>兼職PHP網頁設計工程師</job3title>
+<job3duty>使用PHP, JSP, HTML5, CSS3, JAVA SCRIPT, MySQL開發網頁程式。</job3duty>
+<job3cons>上班族、應屆畢業生、日間就讀中、夜間就讀中、二度就業
+學生實習(歡迎台大、交大、中央、成大、政大、清大、中山、台科大學生應徵)</job3cons>
+<job3sal>薪資面議</job3sal>
+<job4type>軟硬體開發</job4type>
+<job4title>兼職人工智慧演算法工程師</job4title>
+<job4duty>以C語言開發人工智慧演算法：機器視覺、影像處理、語音辨識、自然語言、電腦語音、機器學習、類神經網路、機器人控制等。</job4duty>
+<job4cons>需寫過相關程式及對人工智慧有高度興趣, 可選擇正職、平日兼差、或是假日兼差，上班時間彈性可議</job4cons>
+<job4hassal>是</job4hassal>
+<job4sal>薪資面議</job4sal>
+<logo>4.jpg</logo></company>
+<company><display>是</display>
+<name>飛柏創意股份有限公司</name>
+<website>flipermag.com</website>
+<address>淡水線中山捷運站附近</address>
+<type>媒體出版業</type>
+<desc>FLiPER MAG 線上潮流雜誌成立於2012年，每日報導最新時尚、潮流資訊，並擁有自有品牌及品牌商城，報導內容包含潮流、街頭文化、時尚精品、夜店派對等等，提供獲取時尚潮流資訊的最佳管道。甫成立三個月內，便繼 Juksy 及 Overdope 後，為台灣第三大的時尚潮流資訊網站，並且於 2013 年 5 月底，於全球擁有公信力之評比網站 Alexa 台灣區排名正式躍升為三百名。
+
+2013 年上旬 FLiPER MAG 廣邀各界品牌主理人及文創部落客於站上撰寫專欄，未來將朝社群媒體的方向邁進，期望成為品味生活的資訊社群。</desc>
+<other>每周至少出勤固定兩天，每天至少四小時。
+
+歡迎加入 FLiPER MAG 舉辦每個月的品牌小聚、參加各大派對以及媒體招待會，無論是文字、採訪或攝影都可以在這邊發揮專長唷！</other>
+<job1type>編輯與設計</job1type>
+<job1title>實習編輯</job1title>
+<job1duty>編輯網站內容、參與各大媒體場合</job1duty>
+<job1cons>撰寫文案能力、個性外向好溝通，若有美工能力及攝影能力更佳。</job1cons>
+<job1hassal>是</job1hassal>
+<job1sal>若符合出勤時間要求則按月支薪</job1sal>
+<logo>5.jpg</logo><comment>goo.gl/m1RJHO</comment></company>
+<company><display>是</display>
+<name>iHealth 愛健康</name>
+<website>i-health.cc</website>
+<address>台北市基隆路一段180號7樓</address>
+<type>資通訊產業</type>
+<desc>要健康就來愛健康，最快速可愛的健康觀念！  。 文章來源以國外醫學期刊為主，或國內外公信媒體為主，部分文章由配合之醫師或營養師撰寫。 
+
+愛健康利用可愛的插畫傳達健康飲食、生活習慣給年輕人，並推廣健康食材，如天然果醬，以團購的方式給大眾最健康的知識，最健康、安全的商品，讓你輕鬆無負擔。自從2/18開站以來，粉絲以迅速成長至14000人。
+
+並和商周、東森57健康同學會等公司合作，共同推廣，歡迎對健康和食品電子商務有興趣的夥伴加入！</desc>
+<other>目前愛健康實習計畫分為二部分，1.行銷 2.設計，
+
+1.行銷部分，文章、文案撰寫，有人說一支筆可寫出一世界，文字的力量可呼風喚雨，文字如何設計，市場、時事的敏銳度都是必須的，招募對食品安全、台灣在地好食物有興趣的人。
+
+2.設計，利用插圖畫出可愛的訊息方便傳達給年輕人是愛健康的核心，設計需考慮到排版，風格等，我們有目前最厲害的設計師，等你來學習。</other>
+<job1type>行銷業務</job1type>
+<job1title>行銷企劃實習生</job1title>
+<job1duty>1.撰寫健康知識文章、團購文案
+2.負責醫師、營養師外稿的聯絡
+3.線上活動的企劃</job1duty>
+<job1cons>需對食品安全或是台灣在地好食物有熱忱</job1cons>
+<job1inter>作品皆可</job1inter>
+<job1hassal>否</job1hassal>
+<job1sal>案件計酬</job1sal>
+<job2type>編輯與設計</job2type>
+<job2title>平面設計實習生</job2title>
+<job2duty>1.文章、團購圖片設計
+2.了解 infographic 圖片傳達設計</job2duty>
+<job2cons>需具備 illustrator / photoshop 技能，有繪圖經驗</job2cons>
+<job2inter>作品集</job2inter>
+<job2hassal>是</job2hassal>
+<job2sal>按件計酬</job2sal>
+<logo>6.jpg</logo><comment>goo.gl/CekszB</comment></company>
+<company><display>是</display>
+<name>七大洋有限公司</name>
+<website>www.marine7.com</website>
+<address>新北市新店區寶中路94號4樓-7</address>
+<type>媒體出版業</type>
+<desc>Marine7 致力於網路廣告與使用者行為分析的核心技術開發，我們致力於提供客戶最先進、最完整的數位行銷核心技術，期望以技術導向來建立企業與用戶之間的溝通機制，協助企業的網路經營者，以最低的行銷成本投入競爭激烈的市場，創造最大的投資報酬率，達成提升使用者經驗，進而建立優良的網站流量、並提升企業的營收利潤目標 。 Marine7 深深了解到，網路對於現代企業而言，將是決勝的戰場，網路的應用是多變而快速的， 網路行銷也會面對同樣的挑戰，如何將網路的應用與行銷結合，將會是企業界未來最關鍵性的問題，所以正面的使用者經驗，發掘正確的使用者族群，是我們與客戶所要一起面對的挑戰 。 Marine7 透過優良的業界經驗與完善的技術並結合優良的廣告產品，能夠將企業的訊息準確的發佈給目標客群，使客戶的行銷預算獲得有效運用，實質上增加的客戶的線上收益，從2009年起，我們已經服務了超過70家以上的客戶，並獲得一致的肯定。</desc>
+<other>我們重視每一位員工，除了有良好工作環境、也提供學習及成長的空間，歡迎優秀的朋友一起加入! 正職與實習人員皆有職缺 請參閱http://marine7.com/%E5%BE%B5%E6%89%8D/ 待遇條件從優</other>
+<job1type>行銷業務</job1type>
+<job1title>網路廣告實習企劃</job1title>
+<job1duty>主要工作內容
+蒐集市場情報、商務營運資料分析、網路廣告專案策略規劃
+網路廣告專案效能行銷活動成效追蹤分析</job1duty>
+<job1cons>需求條件:
+網路行銷企劃案撰寫、規劃、籌備與執行。
+具備網路議題行銷能力，且能獨立完成網路行銷專案與執行能力。
+非必備但加分條件:
+google adwords certification
+google analytics certification
+對於Facebook廣告操作熟悉
+某種程式語言有一定程度
+統計相關背景
+數學相關背景</job1cons>
+<job1hassal>是</job1hassal>
+<job1sal>110/hr</job1sal>
+<job2type>軟硬體開發</job2type>
+<job2title>軟體開發實習生</job2title>
+<job2duty>職務說明：	
+1.模擬、修正現有網路系統程式。
+2.設計、開發新的網路程式及界面。
+3.負責整體網路架構之維護管理與監控、流量控制、安全規劃及問題協調追蹤與排除。
+4.進行網路程式的需求分析。
+5.開發以網路為基礎的應用程式（Web-based application）。</job2duty>
+<job2cons>其他條件與說明：	
+最少須俱備Ruby 、Rails、JS相關經驗
+最好有開發過網路應用程式經驗 看得懂原文API文件
+但沒有經驗亦可 只要有熱誠與興趣 我們會教你
+這邊高手與學習資源很多 只要你願意學</job2cons>
+<job2hassal>是</job2hassal>
+<job2sal>面議</job2sal>
+<logo>7.jpg</logo></company>
+<company><display>是</display>
+<name>好書服文創</name>
+<website>www.soohoobook.com</website>
+<address>台北市松江路204巷52號2樓</address>
+<type>文化創意產業</type>
+<desc>好書服有豐富 iOS、Android app、後端系統整合開發經驗
+我們希望找到對 app程式、後端系統開發或對行銷企劃有興趣的夥伴
+可以跟我們一起學習成長。
+
+聽。旅行 是好書服非常重要的一項服務 
+http://www.hearhere.com.tw/
+我們蒐集了這塊土地上的你不知道的小故事
+聽我們說，淡水阿婆鐵蛋的故事
+聽我們說，那裡的月老最靈驗
+聽我們說，中正紀念堂的階段為什麼是 89 階
+聽我們說，萬華龍山寺的金爐上為什麼有荷蘭人
+聽我們說，台南孔廟上有著唯一僅存的清朝歷代牌匾
+聽。旅行
+要豐富你的旅行，讓你聽遍這塊土地上，每一個小角落裡，有溫度的小故事
+
+目前我們已經超過 10位台大、政大、師大、輔大、中正...等正職、實習的學生，歡迎你（妳）一起加入我們 ~~</desc>
+<other>我們要招募的人才：
+http://blog.soohoobook.com/2013/04/we-want-u-intern-event.html
+
+實習生心得分享：
+http://blog.soohoobook.com/2013/07/ases-appworks-soohoobook.html
+http://blog.soohoobook.com/2013/08/why-dont-you-google-it.html
+http://blog.soohoobook.com/2013/08/time-to-say-good-bye.html
+
+更多分享請到：
+http://blog.soohoobook.com/
+
+待遇是：時薪 125 ，每週工作至少兩個天。
+
+工作地點
+台北市中山區松江路204巷52號2F。（捷運行天宮站一號出口三分鐘）
+
+加分項目
+1.	態度。態度。態度。
+2.	女生。
+3.	有經驗佳。</other>
+<job1type>行銷業務</job1type>
+<job1title>行銷企畫實習生</job1title>
+<job1duty>行銷企劃工作內容：
+規劃 聽。旅行 內容主題、展演接洽、行銷活動規劃、企劃書撰寫、各大競賽、活動參與
+** 每週至少要來公司 1天 or 兩個半天。**</job1duty>
+<job1cons>1.旅遊、古蹟、展覽內容編輯，有觀光、旅遊、藝術、歷史、文學相關學科或經驗者佳
+2.對旅行跟文字有高度興趣，喜歡接觸人結交新朋友
+3.瞭解網站、論壇基本操作並具有企劃能力與良好文筆
+4.溝通能力與抗壓性佳，責任感強，能配合公司規定
+5.如有過往與旅遊相關的個人作品或遊記等，請隨應徵履歷與自傳一併附上
+6.徵人文藝術相關系所畢業生.在校生.博碩士生.或藝文素養佳.略有網頁美編基礎者。
+7.年輕團隊.氣氛愉悅.工作穩定.人性化管理。
+8.專兼皆可(初期每周至少上班16小時.熟悉作業流程後可按件計酬.寒假.暑假.長短期工讀皆可)
+
+歡迎大學生.研究生.延畢生.....文化氣息濃.學習環境優.注重團體協作分享.同儕相處愉快</job1cons>
+<job1inter>這個...（很想寫照片一張）</job1inter>
+<job1hassal>是</job1hassal>
+<job1sal>125/hr</job1sal>
+<job2type>軟硬體開發</job2type>
+<job2title>.NET 軟體工程師</job2title>
+<job2duty>開發 聽。旅行 相關前、後端系統，如API、後端CMS、前端JQuery等。 
+
+1.負責軟體之分析、設計以及程式撰寫，對手機app開發有興趣者佳。
+2.規劃執行軟體架構及模組之設計，並控管軟體設計進度。
+3.進行軟體之測試與修改。
+4.規劃、執行與維護量產的產品。
+5.協助研發軟體新技術與新工具。
+6.Android, iOS 智慧型手機及平板行動軟體研發- 開發Windows 8 多媒體應用程式。
+7.Social Network 資料分享與整合。
+8.Web Service資料整合應用服務。
+9.熟悉 .NET, C#/VB.NET，懂 MVC 架構。
+10.可撰寫成元件供.NET使用優先錄用。
+11.具獨立工作，主動解決問題能力，對進度負責，具熱情佳，有經驗讚，無經驗可。</job2duty>
+<job2cons>1.C#
+2..NET MVC3、MVC4
+3.	有Windows Azure  經驗佳。</job2cons>
+<job2inter>有作品最好~</job2inter>
+<job2hassal>是</job2hassal>
+<job2sal>125/hr</job2sal>
+<job3type>軟硬體開發</job3type>
+<job3title>iOS 軟體工程師</job3title>
+<job3duty>1.負責軟體之分析、設計以及程式撰寫。
+2.規劃執行軟體架構及模組之設計，並控管軟體設計進度。
+3.進行軟體之測試與修改。
+4.規劃、執行與維護量產的產品。
+5.協助研發軟體新技術與新工具。
+6.負責iOS APP 開發。
+7.整合後端 API 開發。
+8.UI、UX 設計開發。
+
+哈，什麼都要作 ...</job3duty>
+<job3cons>熟悉 Xcode。</job3cons>
+<job3inter>有作品很棒喔！</job3inter>
+<job3hassal>是</job3hassal>
+<job3sal>125/hr</job3sal>
+<job4type>編輯與設計</job4type>
+<job4title>聽。旅行 無敵小精靈</job4title>
+<job4duty>協助 聽。旅行 錄音、剪接、攝影與負責管理部落格、粉絲團等任務。</job4duty>
+<job4cons>有熱情、不怕苦、不怕難、勇敢又強壯，大家都稱讚 無敵小精靈</job4cons>
+<job4inter>健康檢查表</job4inter>
+<job4hassal>是</job4hassal>
+<job4sal>125/hr</job4sal>
+<logo>8.jpg</logo><comment>goo.gl/g1XRKn</comment></company>
+<company><display>是</display>
+<name>DoItWell.tw</name>
+<website>DoItWell.tw</website>
+<address>基隆路一段180 號7F</address>
+<type>資通訊產業</type>
+<desc>我們致力於開發更友善的移動式服務，比如「下一班高鐵」、「股海快訊」、「批踢踢快訊」等 App。
+
+其中，「股海快訊」App 提供隨手可得的股海資訊，讓您可以輸入任何要關注的關鍵字，當有任何新聞來源有相關關鍵字的新聞更新時，即會推播通知給您。若所關注的關鍵字，「完全符合」特定台灣個股名稱 (比如台股、中華電、宏達電等) 者，則另外提供股價警示推播以及每日個股收盤價等功能。</desc>
+<other>目前還屬於草創初期，希望能找到一起創業的夥伴.
+
+iOS/Android App 開發 （創業夥伴/正職/實習生）</other>
+<job1type>軟硬體開發</job1type>
+<job1title>iOS/Android App 開發創業夥伴/正職/實習生</job1title>
+<job1duty>企劃，開發APP</job1duty>
+<job1cons>有學習過相關開發經驗，有開發 App 上架過，尤佳.</job1cons>
+<job1hassal>是</job1hassal>
+<job1sal>110元/hr 起.</job1sal>
+<logo>9.jpg</logo></company>
+<company><display>是</display>
+<name>悠邁股份有限公司</name>
+<website>www.youmeb.com/</website>
+<address>台北市信義區基隆路一段180號7樓</address>
+<type>資通訊產業</type>
+<desc>YouMeb is a leader in providing innovative web solutions on mobile devices. We have a very technically skilled team of developers and programmers with great technical experience in web services development.</desc>
+<other>無</other>
+<job1type>行銷業務</job1type>
+<job1title>社群經營實習生</job1title>
+<job1duty>經營公司所屬的技術社群，舉辦定期聚會與課程安排，並需進行相關的市場調查與部落格文章撰寫等相關事務</job1duty>
+<job1cons>1. 個性活潑大方善於溝通
+2. 有補習班班導經驗為佳
+3. 樂於學習 接受挑戰
+4. 對網路相關技術有興趣
+5. 外語能力佳為優先</job1cons>
+<job1inter>經歷或blog文章</job1inter>
+<job1hassal>是</job1hassal>
+<job1sal>面議</job1sal>
+<job2type>軟硬體開發</job2type>
+<job2title>前端工程實習生</job2title>
+<job2duty>對Nodejs or PHP/MySQL/Javascript具有熟悉度，熱愛學習與溝通，願意挑戰自我極限。</job2duty>
+<job2cons>1. 熟悉HTML, CSS
+2. 熟悉Javascript/jQuery
+3. 熟悉Linux環境
+3. 對網頁技術有興趣
+4. 熱愛學習, 勇於接受挑戰</job2cons>
+<job2inter>作品或blog文章</job2inter>
+<job2hassal>是</job2hassal>
+<job2sal>面議</job2sal>
+<logo>10.jpg</logo></company>
+<company><display>是</display>
+<name>約書亞文化事業有限公司</name>
+<website>www.facebook.com/pages/%E9%AB%98%E6%A0%A1%E8%AA%8C/358196977673</website>
+<address>台北市中正區青島西路11號12樓</address>
+<type>媒體出版業</type>
+<desc>Koobii高校誌乃是全台唯一為高中生量身訂作的互動式媒體平台，同時也是最完整的校園整合行銷公司！旗下擁有《Koobii高校誌》實體雜誌與網站，每年都會舉辦各類學生活動與講座，媒體報導價值近數百萬，未來更將數位化，與趨勢潮流接上軌道。</desc>
+<other>相關事宜面議</other>
+<job1type>軟硬體開發</job1type>
+<job1title>網站工程師</job1title>
+<job1duty>網站建置、修改與維護</job1duty>
+<job1cons>網站建構、修改與維護能力</job1cons>
+<job1inter>網站Demo</job1inter>
+<job1hassal>是</job1hassal>
+<job1sal>面議</job1sal>
+<job2type>編輯與設計</job2type>
+<job2title>採訪編輯</job2title>
+<job2duty>1.《Koobii高校誌》雜誌單元採訪撰稿
+2.《Koobii高校誌》雜誌單元企劃發想
+3.《Koobii高校誌》相關行銷活動企劃執行
+4.《Koobii高校誌》相關網站更新與管理
+5.《Koobii高校誌》相關活動支援</job2duty>
+<job2cons>1.採訪與撰稿能力
+2.配合度高、抗壓性高、態度佳
+3.活動企劃與執行力</job2cons>
+<job2inter>文字作品集</job2inter>
+<job2hassal>是</job2hassal>
+<job2sal>面議</job2sal>
+<job3type>行銷業務</job3type>
+<job3title>廣告業務</job3title>
+<job3duty>1.客戶服務與維護客戶關係
+2.廣告業務銷售與推廣
+3.廣告業務企劃案撰寫、規劃與執行
+4.廣告媒體採購規劃
+5.跨部門專案整合執行作業
+7.客戶名單搜尋，陌生市場開發</job3duty>
+<job3cons>1.抗壓性高
+2.活潑開朗
+3.細心耐心</job3cons>
+<job3hassal>是</job3hassal>
+<job3sal>面議</job3sal>
+<job4title>各部門實習生</job4title>
+<job4duty>業務部
+1.《Koobii高校誌》雜誌單元採訪撰稿
+2.《Koobii高校誌》雜誌單元企劃發想
+3.《Koobii高校誌》相關行銷活動企劃執行
+4.《Koobii高校誌》相關網站更新與管理
+5.《Koobii高校誌》相關活動支援
+
+編輯部
+1.客戶服務與維護客戶關係
+2.廣告業務銷售與推廣
+3.廣告業務企劃案撰寫、規劃與執行
+4.廣告媒體採購規劃
+5.跨部門專案整合執行作業
+7.客戶名單搜尋，陌生市場開發
+
+設計部
+1.修圖
+2.平面排版
+3.攝影</job4duty>
+<job4cons>1.配合度高、抗壓性高
+2.主動學習、積極
+3.謙虛有禮，態度佳</job4cons>
+<job4hassal>是</job4hassal>
+<job4sal>面議</job4sal>
+<logo>11.jpg</logo></company>
+<company><display>是</display>
+<name>綠藤生物科技股份有限公司</name>
+<website>www.greenvines.com.tw</website>
+<address>桃園縣八德市東泰新村168號 / 台北市大安區復興南路二段337巷6弄2號2樓</address>
+<type>生醫生農產業</type>
+<desc>
+「生活永遠可以有更好的選擇，不一樣的思考可以帶來改變」三位台大財金系同學鄭涵睿、廖怡雯、與許偉哲抱持著這樣的初衷開始了綠藤的故事。
+綠藤致力每日生活飲食的革命與創新，在顧問台大園藝系鄭正勇教授和林碧霞博士的指導下，進行有機活體芽菜的研發、生產、與銷售，透過特殊壓力管理與省水90%的水份管理系統，種出了富含營養精華、充滿酵素作用、零硝酸鹽的活芽菜，在消費者家中冰箱還能持續生長，這是台灣第一個活著的芽菜、也是綠藤心目中最好的芽菜。
+2010年7月至今，綠藤生產的芽菜盒達到50棟101高度，進駐頂級生鮮超市以及重要有機通路主婦聯盟、里仁等超過150間通路的支持；並擁有超過30則以上指標性媒體報導。
+除了生鮮芽菜以外，綠藤從2011年起投入寶貝沙拉菜(Baby Leaf)的研發。以嶄新的有機潔淨栽培與營養管理技術，讓消費者可以享受到最具營養與風味的食材。
+此外，綠藤將更多的創新應用在對生活的想像，不只革新市面上的蔬菜風貌，更將芽菜的營養以不一樣的形式來照顧大家的健康。2013年8月，綠藤推出了全世界首見以芽菜萃取為概念的個人清潔保養品牌；我們將成立的初衷與理念延伸至每天使用的清潔保養用品，由內而外得讓大家每一天的生活更好。我們追求成分安全、單純，提供給消費者真正符合需求的有效配方，不迷信「天然」也不取巧迎合市場喜好，而以實事求是的態度- 專注於每一個成分，開發出對得起自己，也安心讓家人使用的產品。
+團隊是綠藤最大的資產，在這裡，來自不同領域、背景的人才，為著同一個夢想和目標前進，。未來，綠藤將持續用創新的力量，從裡到外，重新打造消費者的健康。我們持續建構心目中的A Team，也期待更多的人才的加入，匯聚更多的力量，讓美好的生活發芽。 </desc>
+<other>在綠藤實習最有趣以及難得的地方，在於能夠全方位了解一家新創事業會遇到的各項挑戰，並直接參與第一手產品開發，享受自己的提案或建議，從無到有創造出來的過程。綠藤從研發活體芽菜栽培開始，持續創新生產健康農產品是我們不變的堅持，於2013年暑假與台大合作實習計畫，希望透過此媒合會為綠藤農場招募更多生力軍。
+
+實習內容將會包含農場的農作物栽培管理與生產流程改善計畫，更重要的是，綠藤農場的實習計畫將不是齊頭式製訂，我們將與你詳細討論後針對個人特質與學習動機量身打造，歡迎對創新農業有熱情、想透過自己的手，自己的力量，為台灣這塊土地盡一分心力的同學一起來加入我們的行列。</other>
+<job1type>生管助理</job1type>
+<job1title>學生實習 – 農場新品試種開發及生產管理</job1title>
+<job1duty>在綠藤實習最有趣以及難得的地方，在於能夠全方位了解一家新創事業會遇到的各項挑戰，並直接參與第一線產品生產與開發，享受提出建議，集思廣益從確實解決問題的過程。實習內容將會包含農場的農作物栽培管理與生產流程改善，更重要的是，綠藤農場的實習計畫將不是齊頭式製訂，我們將與你詳細討論後針對個人特質與學習動機量身打造，歡迎對創新農業有熱情、想透過自己的手，自己的力量，為台灣這塊土地盡一分心力的同學一起來加入我們的行列。</job1duty>
+<job1cons>在綠藤農場的實習內容主要為農場中的作物栽培管理與生產流程改善，因此希望實習同學有相關經驗，但歡迎對創新農業有興趣，活潑積極，具有想要為世界帶來正面影響熱情的同學加入我們的行列。</job1cons>
+<job1inter>個人履歷</job1inter>
+<job1hassal>是</job1hassal>
+<job1sal>面議</job1sal>
+<job2type>行銷業務</job2type>
+<job2title>學生實習 – 產品行銷暨營運規劃實習</job2title>
+<job2duty>綠藤相信，在一間新創公司實習的最可貴之處在於能夠全方位去了解經營一家公司所會遇到的各項挑戰，直接參與第一手新創事業產品開發與行銷規畫，從學生時間便開始管理視野。2014年寒假招募實習主要規畫包含下列三個方向，但我們更歡迎你提出想參與的部分，安排量身訂做的實習規劃。
+
+- 新品規劃及行銷策略擬定: 總是在課堂上聽教授講授”Know Your Customer”的重要嗎? 我們將給你最真實的機會來體驗如何將課堂上所學的知識轉化為有實際的應用。2014年綠藤最重要的計劃就是新產品的開發與銷售，在整個籌備過程中，你將會直接參與產品設計與開發、目標客群的訂定以及消費者行為市場調查，有將你最有創意的想法變成真實的商品在市面上銷售。 
+- 網路行銷活動規劃與執行: 2014年綠藤將邁入2.0時代，而芽菜萃取個人清潔保養品上市後，網路行銷將會是新的業務重點。你將會被充分授權的規劃最新的網路行銷活動並執行，感受成功在市場上掀起話題的成就感。
+- 綠藤產品親善大使: 有著最好的產品但不知道怎麼把它介紹給客戶就等於是零！不論是把關全家人飲食與生活健康的媽媽、或是重視新鮮營養的外食族；甚至是想找一瓶安心使用的洗髮精的上班族，在接觸各行各業的人，能將滿懷熱情的將產品推廣出去，是所有行業能成功的根本。透過一連串現場銷售活動的規劃與參與，你將從中發現市場潛在的成長機會，培養自己與人溝通及互動的領袖能力。 </job2duty>
+<job2cons>在綠藤的實習內容主要專注於個人清潔保養產品開發與網路行銷，因此希望實習同學有相關經驗，但歡迎對於個人清潔保養用品領域有高度興趣，具備研究分析能力，活潑積極，具有想要為世界帶來正面影響熱情的同學加入我們的行列。 </job2cons>
+<job2sal>面議</job2sal>
+<job3type>產品研究開發人員</job3type>
+<job3title>正職─清潔保養商品開發專員</job3title>
+<job3duty>
+綠藤相信，在一間新創公司實習的最可貴之處在於能夠全方位去了解經營一家公司所會遇到的各項挑戰，直接參與第一手新創事業產品開發。綠藤邁向2.0時代，跨足清潔保養領域，推出了全世界首見以芽菜萃取為概念的個人清潔保養品牌。綠藤希望開發出對得起自己，也安心讓家人使用的產品，更期待將台灣在地的創新品牌與國際接軌。
+工作職責主要包含：
+-具獨立開發產品配方能力,可快速進入工作狀況
+-負責保養品研發、品質安全等工作
+-保養品新劑型開發
+-熟知化妝品現行法規規範
+-具備保養產品專業知識，化工、生化、化妝品相關科系畢業者尤佳。
+</job3duty>
+<job3cons>
+2014年綠藤將全力投注於個人清潔保養品牌的開發，希望有化工、生化、化妝品相關經驗或科系人才加入綠藤，但歡迎對清潔保養領域有興趣、具溝通協調和市場研究分析能力、並具有想要為世界帶來正面影響熱情的人才加入我們的行列。
+</job3cons>
+<job3sal>面議</job3sal>
+<logo>12.jpg</logo><comment>goo.gl/xjd3eQ</comment></company>
+<company><display>是</display>
+<name>宇宙方塊股份有限公司</name>
+<website>www.weddingday.com.tw</website>
+<address>台北市基隆路一段180號7樓(appworks)</address>
+<type>服務業</type>
+<desc>我們是 appWorks 第六屆的團隊，致力於創造唯一公平公正公開的婚禮資源平台，我們透過與理念相同的婚禮服務專家討論，激發彼此的思維，我們要給新人不一樣的婚禮消費模式。</desc>
+<other>薪資面議
+上下班無須打卡
+不定時點心與下午茶
+無須出差</other>
+<job1type>軟硬體開發</job1type>
+<job1title>網頁前端設計師實習生</job1title>
+<job1duty>1.網站的 UX、視覺風格
+2.使用者流程改善</job1duty>
+<job1cons>熟悉 Photoshop、Illustrator 與 HTML、CSS</job1cons>
+<job1inter>網站demo</job1inter>
+<job1hassal>是</job1hassal>
+<job1sal>109元/hr</job1sal>
+<job2type>軟硬體開發</job2type>
+<logo>13.jpg</logo></company>
+<company><display>是</display>
+<name>視野創異行銷有限公司</name>
+<website>play.niceday.tw</website>
+<address>台北市復興北路2號10樓之3</address>
+<type>媒體出版業</type>
+<desc>「Niceday玩體驗在圓大家的夢想！你有什麼夢想，在Niceday都有可能完成！」團隊專精在告訴大家哪裡好玩，有什麼值得去體驗！目前Niceday玩體驗開站3個多月，我們找到許多優質特殊的體驗，許多客人都說Niceday找到的體驗很特殊很好玩！這就是我們創業三年多以來，最開心的事情！
+
+目前團隊3男3女，大家都屬於樂觀積極的個性，在工作上都很認真，如果有不懂的都會互相Cover討論！當然工作時也會互相開玩笑！目前工作地方是在很歡樂的星聚點跟好逛的微風中間噢！我們工作並不輕鬆，但我們會在工作中找到樂趣，歡迎你跟我們一起發掘夢想！</desc>
+<other>Niceday 玩體驗  http://play.niceday.tw
+Niceday 線上誌  http://niceday.tw
+Niceday 粉絲團  http://www.facebook.com/niceday.tw
+
+待遇：一個月六千元，每週至少20小時</other>
+<job1type>軟硬體開發</job1type>
+<job1title>網頁開發實習生：</job1title>
+<job1duty>用lean startup快速開發的概念，網站每一版製作出來的過程中，會需要不斷的測試修正，並非要達到完美，而是要不能有crash或user認為不應出現的問題發生。
+你可以與我們一起學習到：
+1. 可以了解到網站開發方式, 以及精實創業下的開發過程.
+2. 管理網站issue的專案管理方法
+3. PHP, Symfony, Coffice script, Social network API."
+4. 與PHP大神一起工作的快感
+5. 所有事情沒有標準答案，你願意都可以try！
+6. 請告訴我們，除了程式是你的專職外，你還想再多學什麼？</job1duty>
+<job1cons>1. PHP開發經驗
+2. 對於網頁開發有熱忱！
+3. 與漂亮的設計師工作不會頭暈～</job1cons>
+<job1inter>履歷表,網站demo</job1inter>
+<job1hassal>是</job1hassal>
+<job1sal>6000元/月</job1sal>
+<job2type>客服實習生</job2type>
+<job2title>客服實習生</job2title>
+<job2duty>客人永遠是第一，能搞定客人就代表你的溝通能力與情緒管理能力一等一，但客人百百種，能從客人身上學習的永遠學不完，包含你能建議廠商體驗可以怎麼修正，或是網站流程怎麼改更順暢...等！
+你可以與我們一起學習到：
+1. 面對客人的情緒管理與溝通技巧
+2. 如何處理客人各式各樣的需求，與客人分享快樂
+3. 學習與廠商溝通技巧 (用ㄋㄞ的有時有效)
+4. 學習如何有效管理時間
+5. 所有事情沒有標準答案，你願意都可以try！
+6. 請告訴我們，除了面對客人是你的專職外，你還想再多學什麼？</job2duty>
+<job2cons>1. 甜美開心的聲音
+2. 面對不開心還是會打起精神
+3. 懂得聆聽客人的需求
+4. 會使用Excel表</job2cons>
+<job2inter>履歷,曾經做過的作品</job2inter>
+<job2hassal>是</job2hassal>
+<job2sal>6000元/月</job2sal>
+<logo>14.jpg</logo><comment>goo.gl/kC6iVN</comment></company>
+<company><display>是</display>
+<name>微巨行動科技</name>
+<website>www.pass2u.net</website>
+<address>台北市南京東路2段218號7F</address>
+<type>資通訊產業</type>
+<desc>1. Pass2U電子票券平台：基於Apple Passbook規範的電子票券平台，Pass2U提供製作、發行、收藏、核銷與統計的一站式服務
+2. Smart Channel智慧電視平台：智慧電視上的頻道管理應用
+3. 媒體類的Mobile App</desc>
+<other>待遇：面議
+福利：自由上下班時間、三節獎金、健康檢查、教育訓練補助
+出差：無須出差</other>
+<job1type>軟硬體開發</job1type>
+<job1title>Android軟體工程師</job1title>
+<job1duty>開發智慧電視與App應用</job1duty>
+<job1cons>Android app開發一年以上，熟Open API操作，重視UI，有實際上架作品者優先考慮</job1cons>
+<job1inter>App作品</job1inter>
+<job1hassal>是</job1hassal>
+<job1sal>面議</job1sal>
+<job2type>軟硬體開發</job2type>
+<job2title>iOS軟體工程師</job2title>
+<job2duty>開發Passbook與媒體App應用</job2duty>
+<job2cons>iOS app開發一年以上，熟Open API操作，重視UI，有實際上架作品者優先考慮</job2cons>
+<job2inter>App作品</job2inter>
+<job2hassal>是</job2hassal>
+<job2sal>面議</job2sal>
+<job3type>軟硬體開發</job3type>
+<job3title>Pass2U專案管理師</job3title>
+<job3duty>協調工程師與業務資源並追蹤開發時程、對軟體產品訂規格並驗收</job3duty>
+<job3cons>熱情、溝通能力佳，有軟體專案管理與測試經驗一年以上與英語佳者優先</job3cons>
+<job3inter>協調工程師與業務資源並追蹤開發時程</job3inter>
+<job3hassal>是</job3hassal>
+<job3sal>面議</job3sal>
+<job4type>軟硬體開發</job4type>
+<job4title>Web軟體工程師</job4title>
+<job4duty>基於AWS與Spring framework開發票券與智慧電視應用</job4duty>
+<job4cons>熟Java與Spring framework
+熟AWS
+熟WEB應用</job4cons>
+<job4hassal>是</job4hassal>
+<job4sal>面議</job4sal>
+<logo>15.jpg</logo></company>
+<company><display>是</display>
+<name>TopAdmit</name>
+<website>www.topadmit.com</website>
+<address>基隆路一段178號11樓</address>
+<type>資通訊產業</type>
+<desc>TopAdmit (WritePath Pte. Ltd.) 為新加坡公司，專注利用網路科技，提供超過20個國家學生、教授、以及公司，財務、法律、科技類英語文編輯、翻譯之工作，線上編輯超過百名，每份文件可於24~28小時完成修改美化。TopAdmit 為2013年東南亞最大科技媒體 e27 舉辦之Echelon Japan Satellite 東京冠軍，創辦人並獲得數位時代、PChome、華鴻創投共同發起 AAMA 第二屆搖籃計畫創業家，目前完成新一輪增資，服務將持續擴大至日本、韓國及東南亞市場。</desc>
+<other>www.writepathinc.com
+徵求日、韓等多國語言人才，有出差機會。</other>
+<job1type>軟硬體開發</job1type>
+<job1title>網站開發實習生</job1title>
+<job1duty>協助新產品開發。
+舊產品 writepathinc.com 三網站整合改進。</job1duty>
+<job1cons>PHP、HTML、Javascript</job1cons>
+<job1inter>onwards</job1inter>
+<job1hassal>是</job1hassal>
+<job1sal>130/hr 英文訓練</job1sal>
+<job2type>管理財經</job2type>
+<job2title>財務投資關係intern</job2title>
+<job2duty>對新創募資、投資人關係有興趣</job2duty>
+<job2cons>財務經驗</job2cons>
+<job2hassal>是</job2hassal>
+<job2sal>120/hr</job2sal>
+<job3type>編輯與設計</job3type>
+<job3title>美術intern</job3title>
+<job3duty>網站相關前台設計</job3duty>
+<job3cons>前台語言</job3cons>
+<job3inter>onwards</job3inter>
+<job3hassal>是</job3hassal>
+<job3sal>120/hr</job3sal>
+<logo>16.jpg</logo></company>
+<company><display>是</display>
+<name>歐酷網路股份有限公司</name>
+<website>chocolabs.com</website>
+<address>台北市松山區民生東路三段130巷9號9樓</address>
+<type>行動應用產業</type>
+<desc>CHOCOLABS從台灣經驗出發，利用過往經驗建立App與市場的穩固橋梁，帶領優質的APP走向全世界，成為亞洲第一的發行品牌。
+1) 擁有完整的企劃能量。
+2) 充分的開發經驗。
+3) 準確的行銷整合規劃。
+4) 既有的使用者數據作強力後盾。
+5) 以品牌發行出發，持續發行多元優質的APP。</desc>
+<other>http://chocolabs.com/jobs/</other>
+<job1type>軟硬體開發</job1type>
+<job1title>Android程式設計師</job1title>
+<job1duty>用Java開發一支完整的Android App，包括前端介面調整、後端伺服器的鏈結等，累積自己的作品集同時也享受App在市場上被關注的成就感。</job1duty>
+<job1cons>1. 熟悉Java程式設計
+2. 熟悉Android SDK, Eclipse IDE
+3. 具備獨立開發能力
+【加分條件】
+1. 具App相關開發經驗或相關作品
+2. 熟任何一套後台開發工具(PHP/ROR/Node.js 等)
+3. 熟悉RESTful API
+4. 熟SQL語法</job1cons>
+<job1hassal>是</job1hassal>
+<job2type>軟硬體開發</job2type>
+<job2title>iOS程式設計師</job2title>
+<job2duty>用Object C開發一支完整的iPhone App，包括前端介面調整、後端伺服器的鏈結等，累積自己的作品集同時也享受App在市場上被關注的成就感。</job2duty>
+<job2cons>1. 熟悉Objective-C程式設計
+2. 熟悉xCode開發環境
+3. 具備獨立開發能力
+【加分條件】
+1. 具App相關開發經驗或相關作品
+2. 熟任何一套後台開發工具(PHP/ROR/Node.js 等)
+3. 熟悉RESTful API
+4. 熟SQL語法</job2cons>
+<job2hassal>是</job2hassal>
+<job3type>編輯與設計</job3type>
+<job3duty>1. iOS/Android App UI設計、切版
+2. 網路廣告Banner製作
+3. (optional) HTML+CSS網頁編寫</job3duty>
+<job3cons>1. 具設計背景，熟 Photoshop、Illustrator，並有相關工作經驗及作品
+2. 瞭解App操作動線安排，讓版面設計夠直覺，使用者一看就會操作無需教導，且即便單手也一樣好操作
+3. 美感品味佳，依不同案件需求調整設計風格
+4. 重度iPhone、Android手機使用者，經常研究操作介面者佳</job3cons>
+<job3inter>作品集</job3inter>
+<job3hassal>是</job3hassal>
+<logo>18.jpg</logo><comment>goo.gl/B3yDUP</comment></company>
+<company><display>是</display>
+<name>貓在吃草股份有限公司</name>
+<website>grazingcat.com</website>
+<address>台北市忠孝東路三段48號3樓319室</address>
+<type>資通訊產業</type>
+<desc>公司簡介：
+成立於2012年的牧貓設計，成員由一群敢衝敢玩的7年級生組成，少數兼具前端設計與工程技術的公司。
+我們期待能用自身的能力為轉型中或嘗試創新的企業盡一份心力，提供年輕觀點的設計與完整的資訊系統工程服務，現在加入我們就有機會成為資策會與台灣微軟講師，假日還可以跟營運長一起去跳Swing。
+
+主要營運項目：品牌設計、網站設計、資訊系統開發。
+
+歡迎任何剛畢業的同學，或是有開發過網站經驗的工程師加入，不限背景，只看態度、作品與能力。加分的技術，我們會從頭訓練起，因此不必太擔心不會，只怕你不好好學。
+希望來應徵的同事是渴望學習，讓我們一同成長！</desc>
+<other>加分條件：（不一定要有）
+有物件導向概念
+使用過PHP框架：CI、Yii 、Joomla Framework等等
+實作過MVC模式
+會使用Git
+有實作過第三方 API (Google API/Facebook API)
+有寫過jQuery、Mootools
+熟悉 Linux系統
+
+來信請附上履歷、期望薪資以及程式作品說明
+請Email至bryan@grazingcat.com</other>
+<job1type>軟硬體開發</job1type>
+<job1title>Junior Web Developer</job1title>
+<job1duty>客製化網站建置與開發。
+Joomla!套件開發與維護。
+其它值得挑戰的前、後端技術研究。</job1duty>
+<job1cons>獨立使用PHP開發過任何類型網站，請附上作品說明。
+具有HTML,CSS基礎。
+對 MySQL (or MSSQL)資料庫系統及 SQL 語言有概念，能獨立規劃資料表。
+
+
+我們在尋找有以下特質的人：
+對Web前端與後端有極大興趣。
+具有團隊合作精神與抗壓力。
+邏輯清楚，熱愛探究技術，並且習慣獨立解決問題。
+想要學習系統分析、快速增加網站建置與開發經驗的人。</job1cons>
+<job1inter>網站DEMO</job1inter>
+<job1hassal>是</job1hassal>
+<job1sal>28,000元~40,000元/月</job1sal>
+<logo>19.jpg</logo></company>
+<company><display>是</display>
+<name>一創資訊有限公司（品唄）</name>
+<website>www.pinby.com.tw</website>
+<address>大安捷運站附近的資策會大樓</address>
+<type>網路行銷</type>
+<desc>品唄！口碑行銷媒合平台，與合作對象溝通，並且在品唄的平台上看到合作效益。這樣的方式，可以服務到預算不多的中小企業廠商，以節省成本，也節省品唄原本需要專門安排人力在服務每一家廠商的狀況。透過自助化的營運模式，將人力分散到使用者上，讓使用者可以用較低的成本完成精準行銷，並且讓品唄規模化。
+品唄系統主要有四大特點：1.智慧媒合、2.專案管理、3.效益分析、4.自動化。智慧媒合系統可以運用Data Mining演算法，找到合適的合作對象，專案管理系統可以簡化溝通成本，效益分析系統可以追蹤行銷成效，最重要的是，整個自動化系統可以減少人力成本，以低人力成本服務全世界企業主做社群行銷。</desc>
+<other>www.pinby.com.tw
+
+想要更了解我們？
+就估狗找找品唄的相關資訊吧
+
+福利：
+行銷業務：sales commission
+
+出差：有機會趴趴走（台灣境內）</other>
+<job1type>行銷業務</job1type>
+<job1title>行銷業務實習生</job1title>
+<job1duty>品唄是在做網路達人與品牌媒合做口碑行銷的平台。在品唄工作，實習生必須運用品唄的意見領袖（意領）平台以及網路上的資訊，從意領所分享的內容分析每個意領的特性與強項，從中找到最合適介紹客戶產品的意領，將此資訊提供給客戶，以及促成合作並且幫助客戶做到精準行銷。
+
+行銷業務的職務包含：
+客戶端－開發客戶，了解需求，設計行銷方案，與客戶提案
+意見領袖端－跟意見領袖溝通合作</job1duty>
+<job1cons>開發客戶的前提：
+－要了解品唄的產品，並且了解品唄能夠幫世界創造什麼價值
+－分析品唄的目標客戶並且設計開發這些客戶的策略
+
+喜歡品唄並且愛學新東西（老話一句）</job1cons>
+<job1hassal>是</job1hassal>
+<job1sal>業務獎金</job1sal>
+<job2type>編輯與設計</job2type>
+<job2title>視覺設計實習生</job2title>
+<job2duty>網站視覺設計
+UI / UX design：設計使用者使用網站流程與優化使用體驗
+品牌對外材料設計：如brochure，名片，簡報，海報</job2duty>
+<job2cons>工具：
+HTML
+CSS
+Photoshop</job2cons>
+<job2inter>設計作品集</job2inter>
+<job2hassal>是</job2hassal>
+<job2sal>3000元/月</job2sal>
+<job3type>軟硬體開發</job3type>
+<job3title>程式開發實習生</job3title>
+<job3duty>本網站主要以 Ruby on Rails 開發，
+工作內容主要以程式開發並維護網站程式為主（包含但不限於），也會寫一些相關的 side project。</job3duty>
+<job3cons>Require:
+懂 HTML, CSS, JavaScript
+會 Ruby on Rails (develop under Linux or Mac OS X)
+會一點點 Linux
+對程式有熱情，願意學習
+
+Nice to have:
+用 Mac
+懂 AWS
+會用 git
+懂 Database (SQL)</job3cons>
+<job3hassal>是</job3hassal>
+<job3sal>依能力而定</job3sal>
+<logo>20.jpg</logo><comment>goo.gl/84KBU9</comment></company>
+<company><display>是</display>
+<name>電子豹 (碩富科技股份有限公司)</name>
+<website>www.newsleopard.com</website>
+<address>台北市信義區基隆路一段178號7樓</address>
+<type>資訊服務業</type>
+<desc>電子豹是一專為電商所設計的電子報發送平台，簡易操作立即上手。特色為【智慧會員名單管理】【自動分析會員習慣】【雲端高效率架構】，將信件【在對的時間把對的內容寄給對的人】，提高會員的回購率及品牌忠誠度。
+
+我們致力於為網路行銷人員打造一個不需要技術人員也能輕易使用的電子報發送平台，我們也透過這樣的平台與網路上各式各樣的公司產生了連結，進而深入了解他們真正的需求。如果你和我們一樣對任何事充滿好奇心，又勇於嚐試，對於解決客戶的問題感到成就感，歡迎你加入我們的團隊。</desc>
+<other> 誠徵 Java 工程師 （正職/實習生） 
+
+工作內容
+產品開發
+
+工作經歷
+皆可，有 Web 相關開發經驗佳
+
+工作技能
+J2SE （版本不拘）
+
+加分項目
+1.有 Spring 開發經驗
+2.有 MySQL 規畫經驗
+
+誠徵 行銷人員 （正職/實習生） 
+
+工作內容
+粉絲團經營、文章撰寫、部落格維護
+
+工作經歷
+皆可，有相關經驗佳
+
+工作技能
+1.文案、文章撰寫相關經驗
+2.英文閱讀能力
+
+加分項目
+1.活潑
+2.英文簡報能力</other>
+<job1type>行銷業務</job1type>
+<job1title>行銷企畫(正職或實習)</job1title>
+<job1duty>粉絲團經營、文章撰寫、部落格維護、合作提案、產業分析</job1duty>
+<job1cons>文案、文章撰寫相關經驗
+英文閱讀能力</job1cons>
+<job1inter>自我介紹</job1inter>
+<job1hassal>是</job1hassal>
+<job1sal>月薪根據工作內容面議，有培訓課程</job1sal>
+<job2type>軟硬體開發</job2type>
+<job2title>Java 工程師 (正職/實習生)</job2title>
+<job2duty>產品開發</job2duty>
+<job2cons>工作技能
+J2SE （版本不拘）
+
+加分項目
+1.有 Spring 開發經驗
+2.有 MySQL 規畫經驗</job2cons>
+<job2inter>網站作品</job2inter>
+<job2hassal>是</job2hassal>
+<job2sal>月薪根據工作內容面議，有培訓課程</job2sal>
+<logo>21.jpg</logo></company>
+<company><display>是</display>
+<name>QBit Technology</name>
+<website/>
+<address>11006台北市信義區基隆路一段180號</address>
+<type>資通訊產業</type>
+<desc>QBit 本身是一家以軟硬整合為根基的公司，我們致力於把手機當作一切的控制器，將手機連上一切可能的sensor ，並試圖創造消費者想要的功能，同時我們也致力於將普通的功能軟體遊戲化，讓使用者產生更多的興趣，創造出無限的可能。</desc>
+<other>免打卡， 上下班彈性， 升遷管道暢通 
+產品直接和世界接軌。</other>
+<job1type>軟硬體開發</job1type>
+<job1title>APP軟體開發實習生，正職</job1title>
+<job1duty>使用藍芽控制手機周邊，撰寫APP應用程式並使之遊戲化</job1duty>
+<job1cons>IOS or Android or Unity3D 三者只要有會一個就可以</job1cons>
+<job1hassal>是</job1hassal>
+<job1sal>按件計酬，培訓課程</job1sal>
+<job2type>行銷業務</job2type>
+<job2title>產品行銷企劃intern</job2title>
+<job2duty>智慧運動記錄器市場開發，使用者調查回饋，APP UI/UX系統規劃</job2duty>
+<job2cons>俱有行銷企劃的熱誠 和興趣 有興趣把產品推向全世界
+撰寫企劃書經驗</job2cons>
+<job2hassal>是</job2hassal>
+<job2sal>3000/月</job2sal>
+<job3type>編輯與設計</job3type>
+<job3title>APP 美術intern</job3title>
+<job3duty>APP美術開發，UI/UX 設計美編</job3duty>
+<job3cons>會使用Photoshop, or Illustrator 或相關美術軟體</job3cons>
+<job3inter>繪圖作品集</job3inter>
+<job3hassal>是</job3hassal>
+<job3sal>按件計酬</job3sal>
+<logo>22.jpg</logo></company>
+<company><display>是</display>
+<name>PK Wine九一資訊</name>
+<website>www.facebook.com/PKWine.TW</website>
+<address>台北市信義區基隆路一段180號5樓</address>
+<type>資通訊產業</type>
+<desc>PK Wine 是一個讓喝酒的人們分享美好飲酒經驗的互動平臺，由一群相信世界會更好的人創立! 我們的app協助使用者方便的了解葡萄酒，透過掃描瓶身上的條碼或是搜尋的功能，帶出酒的基本資料、達人推薦和口感評比，同時也可記錄喜愛的酒! 目前致力於推第二版app上線和網站規劃，如果你也想體驗繽紛的飲酒世界，那就加入我們一起創造更寬廣的可能吧！</desc>
+<other>有獨立負責專案與洽談的機會；不需要是酒鬼，但希望對酒不排斥~
+福利: 吃吃喝喝，作息彈性，希望能一周至辦公室1-3天</other>
+<job1type>行銷業務</job1type>
+<job1title>專案管理與業務實習生</job1title>
+<job1duty>合作廠商洽談、專案的規劃和執行</job1duty>
+<job1cons>專案規劃與執行經驗、溝通能力、統籌能力、一顆熱情與樂觀的心</job1cons>
+<job1hassal>是</job1hassal>
+<logo>23.jpg</logo></company>
+<company><display>是</display>
+<name>Fersonal男性專屬形象顧問</name>
+<website>www.facebook.com/fersonal.co</website>
+<address>台北市中正區思源街18號臺大水源校區思源樓4樓</address>
+<type>時尚產業/電子商務</type>
+<desc>【Fersonal 男性專屬形象顧問】是由專屬形象顧問提供男性一對一的形象服務，幫助顧客了解他們的自身的身形、喜好，並推薦適合的服裝讓顧客試穿購買。
+-業務形態-實體結合虛擬。
+我們預計未來會是以Online 2 Offline的方式進行我們的服務。讓顧客不論是使用實體或虛擬的方式都能夠享受到我們提供的【專屬諮詢】、【試穿免費】以及【多樣化高品質商品】服務。
+-發展狀況-我們從8月初成立以來，已服務40幾位男性顧客。除了個人以外，還包括兩場的團體活動，以及一整個團隊（10人）的形象塑造。
+-未來計畫-推廣線上業務。
+我們的網站預計會在近期內正式上線試營運，到時將投注更多的心力在網站服務的推廣以及管理。</desc>
+<other>Fersonal 男性專屬形象顧問 FB :https://www.facebook.com/fersonal.co
+Fersonal 男性專屬形象顧問網址：https://fersonal.com (尚未上線)
+Fersonal 男性專屬形象顧問 Blog:  http://blog.fersonal.com/
+Fersonal 男性專屬形象顧問 預先註冊：http://launch.fersonal.com/</other>
+<job1type>軟硬體開發</job1type>
+<job1title>Web Developer</job1title>
+<job1duty>網站開發、維護以及客群資料分析</job1duty>
+<job1cons>Html5、CSS、Node.js</job1cons>
+<job1inter>網站Demo</job1inter>
+<job1hassal>否</job1hassal>
+<job1sal>免費形象/造型服務（約會、簡報皆可）</job1sal>
+<job2type>軟硬體開發</job2type>
+<job2title>Web Developer</job2title>
+<job2duty>網站開發、維護以及客群資料分析</job2duty>
+<job2cons>Html5、CSS、Node.js</job2cons>
+<job2inter>網站DEMO</job2inter>
+<job2hassal>否</job2hassal>
+<job2sal>免費形象/造型服務（約會、簡報皆可）</job2sal>
+<job3type>形象顧問</job3type>
+<job3title>形象顧問助理</job3title>
+<job3duty>協助形象顧問服務顧客，觀察並學習成為一位形象顧問。</job3duty>
+<job3cons>喜歡時尚</job3cons>
+<job3hassal>否</job3hassal>
+<job3sal>形象顧問培訓課程</job3sal>
+<job4type>形象顧問助理</job4type>
+<job4title>形象顧問助理</job4title>
+<job4duty>協助形象顧問服務顧客，觀察並學習成為一位形象顧問。</job4duty>
+<job4cons>喜愛時尚</job4cons>
+<job4hassal>否</job4hassal>
+<job4sal>培訓課程</job4sal>
+<job5type>編輯與設計</job5type>
+<job5title>平面設計實習生</job5title>
+<job5duty>發想＆執行行銷企劃。</job5duty>
+<job5cons>攝影、Adobe Illustrator、PhotoShop</job5cons>
+<job5inter>作品集</job5inter>
+<job5hassal>否</job5hassal>
+<job5sal>免費形象/造型服務</job5sal>
+<logo>24.jpg</logo></company>
+<company><display>是</display>
+<name>里米斯科技股份有限公司</name>
+<website>www.limitstyle.com</website>
+<address>台北市中山區松江路70巷11號</address>
+<type>文化創意產業</type>
+<desc>LimitStyle新創團隊成員共同為「無中生有」這件事情感到瘋狂，認為看到創意能從紙上，變成能被觸摸的產品，是一件偉大的事情。我們想要尋一起跟我們無中生有的夥伴，一起讓好的創意作品實現成為架上販賣的商品！
+LimitStyle團隊獲得台灣創意設計中心的報導與肯定（http://goo.gl/bOrP8c），平台也於今年7月開始和台灣最大通路特力和樂展開策略合作。</desc>
+<other>http://www.limitstyle.com
+
+LimitStyle團隊獲得台灣創意設計中心的報導與肯定（http://goo.gl/bOrP8c），平台也於今年7月開始和台灣最大通路特力和樂展開策略合作。
+
+LimitStyle也和誠品生活於十月展開實體活動，預計未來將更強產品行銷推廣台灣文創設計！</other>
+<job1type>行銷業務</job1type>
+<job1title>產品行銷實習生</job1title>
+<job1duty>1.了解設計師把作品從零到有的一切過程，並協助產品在量產後如何在市場及通路上推廣。
+2. 撰寫產品行銷企劃案，協助市場分析
+3. 實體活動企劃</job1duty>
+<job1cons>1. 擅長寫作，可以協助編寫產品行銷企劃案（可提供過往作品及企劃）
+2.只要對於產品行銷活動有特別的想法，都歡迎跟我們洽談！</job1cons>
+<job1inter>可提供過往作品及企劃</job1inter>
+<job1hassal>是</job1hassal>
+<job1sal>面議</job1sal>
+<job2type>行銷業務</job2type>
+<job2title>流量駭客</job2title>
+<job2duty>跟我們一起運用數據，分析網站流量！</job2duty>
+<job2cons>1. 對數字敏銳，每週需整理大量的數據資料，並和團隊一起思考如何增加網站流量（有資訊或統計相關背影佳！）</job2cons>
+<job2hassal>是</job2hassal>
+<job2sal>面議</job2sal>
+<job3type>軟硬體開發</job3type>
+<job3title>工業設計實習生</job3title>
+<job3duty>協助外部提案設計師及團隊結構設計師，將設計轉化為可量產的產品</job3duty>
+<job3cons>1.需懂CAD／CAM製圖
+2. 設計及機械相關</job3cons>
+<job3hassal>是</job3hassal>
+<job3sal>面議</job3sal>
+<logo>25.jpg</logo><comment>goo.gl/fPY3Gf</comment></company>
+<company><display>是</display>
+<name>StorySense Computing</name>
+<website>www.storysensecomputing.com/</website>
+<address>台北市大安區仁愛路四段300巷20弄7號1樓</address>
+<type>資通訊產業</type>
+<desc>StorySense 是一家以人工智慧技術為背景的公司。本團隊以“Making Grandpa-Friendly Computers”（創造阿公阿嬤都覺得簡單好用的智慧型軟體）為願景，開發具語言分析及故事理解能力的應用軟體，期許能夠幫助使用者消化整理網路上大量的資料、簡化使用流程，並創造簡單方便的使用經驗。前年發表的WhatsTheNumber手機查號軟體，在Apple及Android兩個App Store供使用者下載，在台灣有八十萬次的下載量，並有美國、英國、香港、日本…等一百多個國家的使用者使用。現在正在開發新的APP－LAIKI，能解決使用者的無聊時光，做出最懂你的活動推薦。
+
+我們的故事：http://www.slideshare.net/StorySense/a-story-of-organizing-worlds-stories</desc>
+<other>一個故事，往往是啟發一個人的重要力量，生活中無所不在。我們喜歡科技，更相信故事，希望讓電腦科技看得懂故事、甚至還可以對你說故事。希望團隊裡的每個人都能有一個愉快的工作環境和平衡豐富的生活。趕快加入我們吧！
+https://www.facebook.com/StorySense</other>
+<job1type>軟硬體開發</job1type>
+<job1title>iOS/Android App 開發工程師</job1title>
+<job1duty>1. iOS/Android App 軟體開發
+2. 使用者經驗設計
+3. 產品功能測試
+4. 協助視覺設計師進行產品視覺設計</job1duty>
+<job1cons>1. 大學電機/資訊相關科系
+2. 1~2年 iOS/Android App 開發經驗
+3. 具良好獨立工作及團隊合作能力
+4. 具良好表達、溝通能力
+5. 主動積極、樂於學習，細心負責有韌性</job1cons>
+<job1inter>iOS/Android App 開發作品集</job1inter>
+<job1hassal>是</job1hassal>
+<job2type>軟硬體開發</job2type>
+<job2title>演算法工程師</job2title>
+<job2duty>Develop core algorithm such as statistical natural language processing, document classification, clustering, topic modeling, information extraction, and other machine learning applications to text.</job2duty>
+<job2cons>1. 大學電機/資訊相關科系
+2. 有自然語言處理或機器學習演算法開發經驗
+3. 有2年以上python/C++ programming開發經驗
+4. 具良好表達、溝通能力
+5. 主動積極、樂於學習，細心負責有韌性</job2cons>
+<job2inter>開發經驗作品集</job2inter>
+<job2hassal>是</job2hassal>
+<job3type>軟硬體開發</job3type>
+<job3title>Lisp演算法工程師</job3title>
+<job3duty>Build core intelligent engine for recommendation from unstructured natural language.</job3duty>
+<job3cons>1. 大學電機/資訊相關科系
+2. 有 python 或 functional programming language (Lisp/Haskell/Clojure) 開發經驗
+3. 有自然語言處理或人工智慧開發經驗
+4. 具良好表達、溝通能力
+5. 主動積極、樂於學習，細心負責有韌性</job3cons>
+<job3inter>開發經驗作品集</job3inter>
+<job3hassal>是</job3hassal>
+<logo>26.jpg</logo><comment>goo.gl/Vbq2iU</comment></company>
+<company><display>是</display>
+<name>QLL Inc. Ltd.</name>
+<website>www.qll.co</website>
+<address>台北市信義路4段415號14F-2</address>
+<type>資通訊產業</type>
+<desc>
+我們是語言學習內容與應用程式APP的製作專家，擁有大量的數位學習內容，目前在 Android Market 與 Apple AppStore 出版超過一百個學習語言的個應用程式，下載量破四百萬，平均4.5顆星，好評超過一萬筆。我們也是美國Corona SDK（App開發工具）的台灣代理商，App是時代的關鍵字，如果你的興趣在App產業跟我們一樣有征服世界的大志向，歡迎你加入我們，具強烈幽默感者先取！
+</desc>
+<other>
+這是我們的網址www.qll.co 我們的部落格在這裡 blog.qll.co 臉書上的粉絲團在這裡 https://www.facebook.com/qll.co?fref=ts 我們公司沒有什麼大福利跟一般公司沒兩樣，工作環境在看得到101的地方還算舒適，上班時間還算彈性想睡覺你可以睡，三不五時會找好吃餐館聚個餐，此外我們很喜歡運動也有很多交朋友的聚會，每周四我們打保齡球，週六騎腳踏車，另外還有乒乓球團，重量訓練團和足球團等等，我們都可以介紹你自由參加。
+</other>
+<job1type>軟硬體開發</job1type>
+<job1title>軟體開發實習生</job1title>
+<job1duty>App 開發，無經驗可</job1duty>
+<job1cons>App 開發，無經驗可</job1cons>
+<job1inter>作品集</job1inter>
+<job1hassal>是</job1hassal>
+<job1sal>110元/hr</job1sal>
+<job2type>編輯與設計</job2type>
+<job2title>軟體UI/UX實習生</job2title>
+<job2duty>App 美術開發</job2duty>
+<job2cons>App 開發，無經驗可</job2cons>
+<job2inter>作品集</job2inter>
+<job2hassal>是</job2hassal>
+<job2sal>110元/hr</job2sal>
+<logo>27.jpg</logo></company>
+<company><display>是</display>
+<name>摩佩科技股份有限公司</name>
+<website>www.blink.com.tw</website>
+<address>台北市南京西路18巷8-2號</address>
+<type>資通訊產業</type>
+<desc>
+摩佩科技股份有限公司，我們是一新創公司
+致力於＂行動支付＂與似金流的＂智慧化交易＂的軟體開發推廣
+透過自行研發、推廣 ＂ ＢＬＩＮＫ ＂ APP應用軟體
+以功能面、便利性、未來發展趨勢為基礎推廣應用
+主要為消費者,ＢＬＩＮＫ,商(店)家間的互動結合
+我們是一獨立的平臺介面，也是未來發展的趨勢
+非常歡迎有目標、有想法、有企圖心、有遠見的朋友一同加入我們的團隊
+</desc>
+<other>技術面，可以跟資深工程師們的切磋學習; 行銷商業面，讓實習生們接觸到新創公司的第一手感受，更安排相關訓練，讓實習生們，把你在學校的學習，實際應用在商業上，完成自己的專案，在大學期間，有更多不同的體驗和學習。</other>
+<job1type>行銷業務</job1type>
+<job1title>行銷實習生</job1title>
+<job1duty>1. 對行銷推廣活動有熱情
+2. 對3C產品/APP 等應用有一定的興趣, 協助市場分析＆資料搜尋
+3. 行銷活動規劃＆實際執行
+4. 對社群行銷有興趣，喜歡與人互動和溝通</job1duty>
+<job1cons>無</job1cons>
+<job1inter>參加＆舉辦過的活動列表</job1inter>
+<job1hassal>是</job1hassal>
+<job1sal>按件計酬</job1sal>
+<job2type>軟硬體開發</job2type>
+<job2title>Android 開發實習生</job2title>
+<job2duty>1. 有Android 開發經驗為佳，但非必要的條件
+2. 強烈的學習慾望
+3. 有責任心，可以完成一獨立專案</job2duty>
+<job2cons>有Android 開發經驗為佳</job2cons>
+<job2inter>Android 相關作品</job2inter>
+<job2hassal>是</job2hassal>
+<job2sal>按件</job2sal>
+<logo>28.jpg</logo><comment>goo.gl/42dokH</comment></company>
+<company><display>是</display>
+<name>映雲科技股份有限公司</name>
+<website>fandora.tw &amp;amp; http://shop.fandora.tw/</website>
+<address>台北市信義區基隆路一段180號七樓(appWorks)</address>
+<type>文化創意產業</type>
+<desc>Fandora是一個插畫家、設計師等等平面藝術創作者分享創作與交流的社群網站。在Fandora，創作者可以恣意分享創作，而愛好者可以收藏他們喜歡的創作、訂閱他們欣賞的創作者新作。在創作者社群經營上我們經常舉辦各式各樣的線上與線下活動讓創作者可以進行各種不同方式的交流。
+
+此外，為了讓人們能夠購買到美好的原創藝術商品，我們號招了Fandora的創作者們成立了fandora shop，這是一個讓民眾實現擁有多元化、獨特、原創設計商品的購物平台。目前可以訂製的有T-shirt、手機保護殼、平板電腦保護殼，今年將拓展到10種品項以上的生活用品。我們希望每個人都能夠在這裡發掘屬於自己的獨特風格，將喜歡的藝術融入到生活中。期許每個人都能因為擁有fandora shop而掌握該屬於自己的小資藝術；創作者得到更多的支持，更專注從事藝術創作，並累積創作能量。
+
+Fandora不需出差，但是希望你會是喜歡藝術跟藝術家的人類。 網站 http://fandora.tw/ 粉絲頁 https://www.facebook.com/ilovefandora 每週都請花一點時間跟我們參加appWorks的課程、演講、happy hour，認識更多跟創業相關的事物。</desc>
+<other>無須出差</other>
+<job1type>編輯與設計</job1type>
+<job1title>編輯部實習生</job1title>
+<job1duty>1. 協助將插畫創作輔以文字襯托
+2. 編輯企劃
+3. 協助管理粉絲頁
+4. 協助製作《Fandora插畫週報》</job1duty>
+<job1cons>文字掌控能力佳，對「插畫」有興趣，同時想要知道如何與「大眾」互動者，歡迎加入我們一同研究。（附上經歷、作品者為佳）</job1cons>
+<job1hassal>是</job1hassal>
+<job1sal>109元/hr</job1sal>
+<job2title>社群部實習生</job2title>
+<job2duty>1. 協助社群運作
+2. 社群組織機制研究
+3. 協助製作《Fandora插畫週報》</job2duty>
+<job2cons>喜愛與人接觸，對「人群／組織」與「插畫創作」極有見解，每週願意花時間接觸插畫創作者，歡迎加入我們。（附上對Fandora的觀察、對於「網路社群」與「非營利組織」的各種見解為佳）</job2cons>
+<job2hassal>是</job2hassal>
+<job2sal>109元/hr</job2sal>
+<logo>29.jpg</logo></company>
+<company><display>是</display>
+<name>粉絲購有限公司</name>
+<website>www.fansbuy.com.tw</website>
+<address>台北市南京東路2段137號14F</address>
+<type>資通訊產業</type>
+<desc>Fans=粉絲團. Buy=無限商機. Fansbuy 帶給你無限商機!.
+讓妳(你)的粉絲不只是粉絲
+而是更貼近消費者的 行動APP !
+使命
+粉絲變消費者更簡單!
+
+簡介
+Fansbuy 為手機APP自動產生器。
+我們透過簡單3步驟 把粉絲團 變身為 APP!
+讓粉絲團能更貼近粉絲行動生活!
+同時使身為粉絲的您 不錯過每個粉絲團第一手消息!
+
+Fansbuy公司期待透過有趣的創意與專業的技術
+提供企業與個人創業者，更好、更有效果的網路行銷方法 
+我們將隨時更新Fansbuy的相關訊息，也將不定期分享關於網路行銷的趨勢與應用
+同時歡迎對於相關主題有興趣或專業的粉絲們留言和我們交流!</desc>
+<other>https://www.facebook.com/fansbuy.com.tw
+待遇面議</other>
+<job1type>軟硬體開發</job1type>
+<job1title>軟體開發實習生</job1title>
+<job1duty>1. 負責軟體之分析、設計以及程式撰寫。
+2. 研發新產品並且修正現有軟體的錯誤，使其適應新SDK或改進其性能。
+3. 分析客戶需要和軟體需求，考量時間及成本的限制條件，以評估計畫的可行性。
+4. 規劃執行軟體架構及模組之設計，並控管軟體設計進度。
+5. 進行軟體之測試與修改。
+6. 協助研發軟體新技術與新工具</job1duty>
+<job1cons>Android/iOS軟體開發經驗
+基本英文能力</job1cons>
+<job1inter>作品集</job1inter>
+<job1hassal>是</job1hassal>
+<job1sal>面議</job1sal>
+<job2type>編輯與設計</job2type>
+<job2title>UI/UX 介面設計師</job2title>
+<job2duty>1. 協助網頁工程師/App工程師, 設計UI/UX、設計icon、美編頁面、切版等
+2. 網頁/App 使用之編修圖片、去背等
+3. 對網頁/App 設計有熱忱</job2duty>
+<job2cons>App/Website 介面設計經驗</job2cons>
+<job2inter>作品集</job2inter>
+<job2hassal>是</job2hassal>
+<job2sal>面議</job2sal>
+<job3type>行銷業務</job3type>
+<job3title>業務專員</job3title>
+<job3duty>職務說明：	喜歡挑戰新事業、對於新型態雲端服務及APP應用程式有高度興趣者，個性外向開朗，善溝通協調。
+1.軟體經銷通路開發優先考慮
+2.APP應用程式銷售與網路行銷
+3.可獨立開發及拜訪客戶
+4.具電話開發及產品簡報能力
+5.個性主動積極, 具企圖心, 負責任
+6.勇於挑戰高薪, 年薪約60~100萬以上
+7.需自備智慧型手機, 平板電腦, 筆記型電腦, 及交通工具</job3duty>
+<job3cons>職務說明：	喜歡挑戰新事業、對於新型態雲端服務及APP應用程式有高度興趣者，個性外向開朗，善溝通協調。
+1.軟體經銷通路開發優先考慮
+2.APP應用程式銷售與網路行銷
+3.可獨立開發及拜訪客戶
+4.具電話開發及產品簡報能力
+5.個性主動積極, 具企圖心, 負責任
+6.勇於挑戰高薪, 年薪約60~100萬以上
+7.需自備智慧型手機, 平板電腦, 筆記型電腦, 及交通工具</job3cons>
+<job3inter>無</job3inter>
+<job3hassal>是</job3hassal>
+<job3sal>面議</job3sal>
+<logo>30.jpg</logo></company>
+<company><display>是</display>
+<name>薄蕾絲股份有限公司</name>
+<website>bosslady.tw</website>
+<address>台北市大安區光復南路102號12樓之2</address>
+<type>服務業</type>
+<desc>內衣在傳統的銷售方式上，總是與實體商場或者親自試穿脫離不了關係。
+透過網路進行內衣市場開發與拓展，是前所未有的創舉，加入Bosslady的團隊，將能夠讓你發揮最大的想像力，開展出嶄新的事業版圖。
+
+Bosslady已經營網路內衣達人長達四年，所積累的能量正要爆發，現在加入Bosslady，也正是切入整個市場開發最精彩的階段。</desc>
+<other>吸引好的實習生當然需要好的公司福利....
+
+※Bosslady陪妳買內衣
+※妳也可以變成內衣達人
+※每月電影情感交流
+※不定期免費網路與激勵課程
+※可觀摩內衣新品秀
+※數不盡的第一手廠商內衣或產品試穿體驗
+※有機會可跟日本人、大陸人、德國人、法國人練習語言
+※常常可以看到大明星
+※公司頂樓觀景101絕佳！跨年可看煙火秀！</other>
+<job1type>編輯與設計</job1type>
+<job1title>文章編輯，產品美術編輯</job1title>
+<job1duty>【工作內容】
+1. 喜愛女性市場或內衣市場研究
+2. 負責網站內容文章發想與撰寫、電子報、
+商品推廣文案撰寫、影片剪輯等
+3. 有部落格、粉絲團、內容或購物平台經營經驗者為佳
+4. 有美工、編輯、排版能力者尤佳。</job1duty>
+<job1cons>會日文尤佳</job1cons>
+<job1inter>如應徵美術編輯請攜作品集</job1inter>
+<job1hassal>是</job1hassal>
+<job1sal>109元/hr</job1sal>
+<logo>31.jpg</logo></company>
+<company><display>是</display>
+<name>DoggyWillie</name>
+<website>www.doggywillie.tw</website>
+<address>新北市新莊區天祥接92巷3號</address>
+<type>一般製造業</type>
+<desc>Doggy Willie 旗下的 “輕寵食”，期望以鮮食的概念來創造單純且簡單的寵物飲食文化。 本公司品牌建立於「以天然、有機原料與嚴格製程」的唯一信念來製作。每一樣產品裡的所有原料成分，均導入原農產地與農作的【生產履歷】。有別於一般寵物食品大多無法追蹤原料及產品內容。也無法在這些資料透明於末端消費者面前。使得產品之特色與專業性在市場上獲得初步認同，「要求原料品質」與「重視寵物健康」的飼主與寵物社團進行聚焦鎖定。
+並透過飼養認知與動物養營養知識等教育宣導來讓品牌與商品得到飼主與寵物的認同和肯定。
+
+本公司具有「商品量產能力」、「產品設計能力」、「品牌建立模式」、「OEM的取捨」、「產品形象之塑造」、「行銷通路的建立」。產業合作的資源與經驗豐富，長期與國內知名的冷凍乾燥食品工廠配合，通過ISO22000及HACCP之食品工廠，有優良的冷凍乾燥技術與相關技術及研發人員。每一樣產品裡的所有原料成分，均導入原農產地與農作的【生產履歷】。擁有 食材企作協力農場 從產地至品管 為一貫作業流程。已具備 食品研發完善的規劃。</desc>
+<other>獎 金 福 利」：加班費、禮品
+「休 假 福 利」：週休二日
+「娛 樂 福 利」：國內旅遊、員工定期聚餐
+「補 助 福 利」：員工在職教育訓練
+「其 他 福 利」：面議</other>
+<job1type>行銷業務</job1type>
+<job1title>行銷企劃 助理</job1title>
+<job1duty>
+◎ 寵物市場的市調及研討。
+◎ 主題企劃 資料蒐集與編譯 採訪與內容整理。
+◎ 品牌推廣活動規劃。
+◎ 行銷策略提案。 販促活動整合。行銷活動及文案撰寫。
+◎ 網路社群媒體經營與管理（facebook、twitter、fiker）
+◎ 熟悉SOLOMO相關行銷工具整合與運用。
+◎ 熟稔網路工具，並掌握網路行銷趨勢。
+◎ 成效分析並提出問題解決方案。
+</job1duty>
+<job1cons>＊擁有良好的簡報撰寫與提案能力。
+＊ 具備處理英文文件的能力。
+＊ 具食品或保健商品領域為佳
+＊能獨立作業者。</job1cons>
+<job1inter>作品集、企劃書</job1inter>
+<job1hassal>是</job1hassal>
+<job1sal>面議</job1sal>
+<logo>32.jpg</logo></company>
+<company><display>是</display>
+<name>開闊科技有限公司</name>
+<website>www.kkdoor.com</website>
+<address>台北市大安區建國南路一段 287 號 5 樓</address>
+<type>資通訊產業</type>
+<desc>公司以親子相關服務為發展核心，已提供的服務包括：kkdoor 網站上的「找活動」、「找點子」、「童年故事」、「童年展覽」（開發中）。
+目前，我們全力推廣「童年展覽」的服務，希望和有志於親子行銷的伙伴合作，推展網站。</desc>
+<other>公司網址：http://www.kkdoor.com/kkdiary/search
+粉絲專頁：小手拉大手
+官方網誌：http://blog.kkdoor.com/</other>
+<job1type>行銷業務</job1type>
+<job1title>行銷企劃實習生</job1title>
+<job1duty>了解親子互動方式，依父母需求提供有價值的資訊，以及推廣 kkdoor 網站的服務。
+將會由此深入了解親子教養、教育及攝影應用~</job1duty>
+<job1cons>喜愛部落格寫作 or 粉絲專頁經營，熱衷親子教養、教育議題者佳~</job1cons>
+<job1hassal>否</job1hassal>
+<job1sal>培訓課程</job1sal>
+<job2type>軟硬體開發</job2type>
+<job2title>軟體開發實習生</job2title>
+<job2duty>依需求調整網站使之維持於最佳體驗狀態（例：優化網站之操作流程）。</job2duty>
+<job2cons>PHP（含 bootstrap）、CSS 等開發經驗</job2cons>
+<job2inter>無</job2inter>
+<job2hassal>否</job2hassal>
+<job2sal>培訓課程</job2sal>
+<logo>33.jpg</logo></company>
+<company><display>是</display>
+<name>justfont 就是字</name>
+<website>www.justfont.com</website>
+<address>AppWorks 7F</address>
+<type>文化創意產業</type>
+<desc>我們是 justfont 「就是字」
+※ 華文"最大"的網路字型 (web font) 服務
+※ 經營「字戀粉絲團」，目前是台灣"最活躍"的字型討論社群
+※ 經營最專業中文文字學 justfont Blog
+※ 最熱門的 「黑與白的饗宴」字型講座
+※ 最高品質中文黑體—「信黑體」台灣代理商</desc>
+<other>關於 web font:
+網路字型是 html5 時代最重要的突破之一。以往在網頁設計，若要使用具有設計感的字體，只能做成圖片。而內文更是只有新細明體等系統字體可以使用。而 web font 就是在網路上直接使用的字型檔：可複製、可搜尋、可無限放大，而且很有設計感。在行動載具時代，這些特性對於電腦、開發人員、行銷人員與使用者，都非常重要。
+
+justfont 是：
+中文字型檔動輒一萬餘字，檔案非常之大，會拖累網路讀取速度。但 justfont 獨家技術卻可讓字體極為快速、準確而美觀地顯示出來，目前實測速度與亞州的所有網路字型服務相比，也是首屈一指的。
+
+公司福利
+- 工時彈性（每周至少可來兩天）
+- 各種零食飲料咖啡免費供應（但是為健康著想，請控制食量）
+- 偏執得令人發噱的團隊文化（但偏執其實是專業的表現）
+- 保證參與（每次都報不到的）字戀小聚、黑與白講座等等聽大師開示的機會
+- 不定期員工旅遊與（吃到撐）的團隊 party</other>
+<job1type>編輯與設計</job1type>
+<job1title>編輯部實習成員</job1title>
+<job1duty>- 深度參與 justfont 旗下各社群媒體經營
+- 加入 justfont blog 作者群，編譯國外字體設計相關文章，或自行創作字體設計相關文章
+
+學習點
+- 從字體基本功著手，重新檢視、學習平面視覺與使用者經驗設計
+- 各種社群媒體平台的操作實務</job1duty>
+<job1cons>要求
+- 對字體與相關平面設計有高度興趣與熱情，這是最重要的
+- 可長期參與，至少半年
+
+加分條件：
+- 具中文文字能力
+- 對網路、新媒體環境有基本認識（不一定要會 coding）
+- 中等程度以上英語閱讀理解、翻譯能力
+- 熟悉 illustrator, photoshop, wordpress 等軟體</job1cons>
+<job1hassal>是</job1hassal>
+<job1sal>以文章計酬</job1sal>
+<job2title>手寫字撰寫</job2title>
+<job2duty>撰寫手寫字型，會將您的手寫字型置作成字型檔案</job2duty>
+<job2cons>- 寫字有獨特有個性者
+- 自己能有 ipad 者佳
+- 熟悉 illastrator 者佳</job2cons>
+<job2hassal>是</job2hassal>
+<job2sal>120元/hr , 或採合作方式</job2sal>
+<logo>34.jpg</logo></company>
+<company><display>是</display>
+<name>隔壁老王實驗室</name>
+<website>www.rawant.com</website>
+<address>NTU garage</address>
+<type>文化創意產業</type>
+<desc>讓使用者可以將自己天馬行空的產品點子投遞上來，經由一系列投票選拔過程，我們會負責將這個產品評估並分析，最後可能會進入量產階段
+並將所得之利潤分給原始提案者</desc>
+<other>詳情請參考網址http://www.rawant.com
+待遇:依能力給薪
+福利:自由上班時間
+出差:沒有這回事 要也是我去</other>
+<job1type>編輯與設計</job1type>
+<job1title>產品設計/平面設計實習生</job1title>
+<job1duty>協助本團隊工業設計師進行產品開發
+並與團隊一同進行brainstorming</job1duty>
+<job1cons>CAD圖繪製能力，若有產品量產經驗更好</job1cons>
+<job1inter>作品集</job1inter>
+<job1hassal>是</job1hassal>
+<job1sal>面議</job1sal>
+<job2type>行銷業務</job2type>
+<job2title>社群行銷實習生</job2title>
+<job2duty>利用現今的社群網路行銷及宣傳網站</job2duty>
+<job2cons>嘴砲技能點滿</job2cons>
+<job2inter>來跟我嘴跑</job2inter>
+<job2hassal>是</job2hassal>
+<job2sal>面議</job2sal>
+<logo>35.jpg</logo></company>
+<company><display>是</display>
+<name>食我部落</name>
+<website>eatme.tw   https://www.facebook.com/eatme.tw</website>
+<address>台北市和平東路一段104巷6號</address>
+<type>資通訊產業</type>
+<desc>食我卡是全台最大的餐廳美食優惠卡，讓消費者一卡通行全台超過1200家的優惠餐廳。目前卡友超過20000人，專用APP《食我吃什麼》下載量也超過10萬次。新計劃《食我餐飲學院》也正在推行中，預計每個月舉辦兩場實體活動，邀請餐飲經營者來分享自己開餐廳的經驗。我們專注在餐飲業的行銷與經營，若您有興趣，歡迎加入我們。</desc>
+<other>我們的工作室在古亭站師大球場旁的《混_Co Working Space》是個很酷很小像個咖啡館的空間，歡迎先來這裡找我們聊聊天！
+
+相關的內容可以參考：http://blog.eatme.tw/2013/07/wewantyou/</other>
+<job1type>行銷業務</job1type>
+<job1title>餐廳簽約開發專員</job1title>
+<job1duty>尋找餐廳、開發合作、合約簽訂、上架宣傳</job1duty>
+<job1cons>1. 能言善道
+2. 活潑開朗
+3. 認真負責</job1cons>
+<job1inter>履歷表</job1inter>
+<job1hassal>是</job1hassal>
+<job1sal>論件記酬</job1sal>
+<job2type>編輯與設計</job2type>
+<job2title>社群內容編輯實習生</job2title>
+<job2duty>編輯食我部落粉絲團上相關餐廳宣傳與用餐和美食資訊...等內容</job2duty>
+<job2cons>1. 文字表達能力強
+2. 會使用photoshop
+3. 對facebook操作熟悉</job2cons>
+<job2inter>履歷表</job2inter>
+<job2hassal>是</job2hassal>
+<job2sal>面議</job2sal>
+<logo>36.jpg</logo></company>
+<company><display>是</display>
+<name>創業家兄弟股份有限公司</name>
+<website>www.kuobrothers.com/</website>
+<address>台北市南港區三重路19之11號E棟4樓之453(南港軟體科學園區)</address>
+<type>電子商務</type>
+<desc>我們是Groupon Taiwan和地圖日記的創辦團隊，從2007年到2012年，我們帶領團隊成員共同打造了台灣團購市場市佔率第一名的Groupon，和全台灣前二十大網站的地圖日記，今天，我們重新以「創業家兄弟」為出發點，重新踏上創業這條路，過去的歷史或許您來不及參與，但現在我們誠摯邀請您和我們一起打造台灣網路界的傳奇。目前營運以下網站:
+敗衣網 - http://www.buy365.com.tw
+好魚網 - http://www.fish123.com.tw
+主廚嚴選 - http://www.food123.com.tw
+生活市集 -http://www.buy123.com.tw</desc>
+<other>加入新創公司是很好玩的，加入網路產業是刺激的，只要你夠熱血，喜歡接受挑戰，想要一個比別人更大的舞台，加入我們準沒錯。
+由於我們還是一個新的創業團隊，因此我們期待每個成員在公司裡都扮演比較多元的角色，而不會是一個很限定的job description，也因此你可以在我們團隊接觸到多面相的工作內容，歡迎加入我們。</other>
+<job1type>行銷業務</job1type>
+<job1title>專案管理實習生</job1title>
+<job1duty>我們為一個發展快速的新創團隊，在這邊工作，我們預期您要具備非常高的速度和彈性。您將會負責以下非常多元的工作內容:
+- 您將會負責以上4個網站功能/機制的改善及開發，您會與團隊的工程師及設計師密切的合作，於最短時間讓新機制上線。
+- 您將會負責規劃團隊的行銷活動，並規劃如何宣傳。
+- 您將會負責團隊的PR，連絡新聞媒體，讓團隊得到最多的新聞曝光。
+- 您將會負責洽談公司對外的各種異業合作。</job1duty>
+<job1cons>您需要有的能力:
+- 我們需要您有基本的網路經驗，對網路行銷有基本的了解。
+- 由於工作需要與外部洽談，因此需要您有很好的溝通能力。
+- 我們需要您有非常高的熱情，並且能有很高的彈性。
+- 若您並沒有任何的工作經驗，但您相信您在學校曾有類似的經驗，也歡迎您來爭取這個機會。
+- 您需要實際設計網頁(規劃layout，實際的implementation會有工程師及設計師進行)，因此您需要有很好的UI概念和感覺。
+
+由於我們還是一個很小的創業團隊，因此我們期待每個成員在公司裡都扮演比較多元的角色，而不會是一個很限定的job description。
+
+若您想更了解我們的創業理念，您可參考http://www.kuobrothers.com/blog</job1cons>
+<job1inter>熱情</job1inter>
+<job1hassal>是</job1hassal>
+<job1sal>待公司內部討論後再回覆</job1sal>
+<job2type>編輯與設計</job2type>
+<job2title>美工設計實習生</job2title>
+<job2duty>我們徵求對電子商務/網路公司感興趣的大學同學，利用寒假時間，實際出與公司美工設計工作。每日我們新上檔數十款商品，您需要為這些新檔次合圖以及製作廣告banner。</job2duty>
+<job2cons>您需要有好的photoshop修圖、編圖、合圖能力。能獨立工作，並且能在圖片上傳達出每個商品的賣點和概念。
+
+我們對於這個實習機會的期望，是直接融入團隊參與每日工作。並與正職員工一起合作完成工作所設定的目標。</job2cons>
+<job2inter>相關作品</job2inter>
+<job2hassal>是</job2hassal>
+<job2sal>待公司內部討論後再回覆</job2sal>
+<job3type>管理財經</job3type>
+<job3title>客服部實習</job3title>
+<job3duty>對於我們來說，能帶給消費者最好的消費經驗是整個營運很重要的一部份。因此本職務還需要協助團隊其他業務，例如整合消費者的反應協助維護網站內容、商品統計管理、整理報表資料等，接觸面多元，我們歡迎對電子商務有想法有熱情的您一同加入我們。</job3duty>
+<job3cons>耐心與良好溝通能力，並注重細節</job3cons>
+<job3inter>想法</job3inter>
+<job3hassal>是</job3hassal>
+<job3sal>待公司內部討論後再回覆</job3sal>
+<job4title>PHP軟體工程師</job4title>
+<job4duty>成為團隊的一員，您將會:
+- 開發新網站，持續調整網站，直至找到對的business model。
+- 維護目前現有的網站，了解電子商務網站的程式架構。
+- 看到新創團隊的全貌，由於我們還是個早期的新創公司，因此您可以看到新創團隊如何用最短的時間和有限的資源，讓公司成長。</job4duty>
+<job4cons>您需要具備的條件:
+1. 熟悉Php、MySQL、HTML、CSS等程式語言。
+2. 具有獨立網站架設能力。
+3. 良好溝通能力及團隊合作能力。
+4. 有良好的「彈性」及「速度」。並認同新創網站快速開發的理念(請先看過這篇文章 http://www.kuobrothers.com/article-124.htm)</job4cons>
+<job4inter>相關作品</job4inter>
+<job4hassal>是</job4hassal>
+<job4sal>待公司內部討論後再回覆</job4sal>
+<job5type>行銷業務</job5type>
+<job5title>營運部實習生</job5title>
+<job5duty>我們正計畫擴充我們的商品開發團隊，積極延攬優秀的業務人才加入我們。除了開發最好的供應商與我們合作外，也設計好的產品價格價值達到最好的銷售。
+若您有好的業務開發能力，並且對開發商品有興驗，您可能會是這個團隊目前正在尋找的人選。</job5duty>
+<job5cons>積極、熱情、勇於挑戰，並有良好溝通能力</job5cons>
+<job5hassal>是</job5hassal>
+<job5sal>待公司內部討論後再回覆</job5sal>
+<logo>37.jpg</logo></company>
+<company><display>是</display>
+<name>藝寶匯國際有限公司</name>
+<website>art-bao.com</website>
+<address>新竹縣芎林鄉上山村164-1號</address>
+<type>文化創意產業</type>
+<desc>藝寶匯Art-bao.com匯集豐富的藝術品、設計、創作家、藝術社群之藝術商城，開發國際商務平台、社群行銷與3D技術，推出 免費下載的「藝術商城」 APP，同步於 國際兩大平台iOS與Android同步發表，貼心提供藝術愛好者在任何地方，透過智慧型手機即可擁有自己的行動藝廊。協助新藝術家行銷作品與建立品牌，能夠不受經濟困擾、專注創作與提升知名度，在畢業前找到「藝術伯樂」，增加收入機會，專注創作下去，證明自己的理想。孕育下一批台灣之光，藝寶匯邀您一起「挺藝術」！</desc>
+<other>新聞:
+全國首創「藝術商城」APP上線http://www.nownews.com/2013/10/07/11867-2993409.htm?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+nownews%2Fit+(Nownews%E7%A7%91%E6%8A%80%E6%96%B0%E8%81%9E)
+藝寶匯與台藝大攜手力挺校園藝術家
+http://www.cdnews.com.tw/cdnews_site/docDetail.jsp?coluid=121&amp;amp;docid=102486330
+2013《數位時代》創業小聚年會
+http://www.bnext.com.tw/edm/meet/30/booth.htm
+2013 資策會 IDEAS SHOW網路創意展
+http://tw.news.yahoo.com/%E7%B6%B2%E8%B7%AF%E5%89%B5%E6%A5%AD%E8%80%85-%E6%94%BE%E7%9C%BC%E4%B8%96%E7%95%8C%E5%B8%82%E5%A0%B4-072800748.html</other>
+<job1type>軟硬體開發</job1type>
+<job1title>網站開發實習生</job1title>
+<job1duty>PHP網站新功能開發 與 版面改版</job1duty>
+<job1cons>PHP,MySQL,JS,CSS, Banner Design..</job1cons>
+<job1inter>PHP網站設計作品集與程式能力證明,</job1inter>
+<job1hassal>是</job1hassal>
+<job1sal>按件計酬, 創業培訓</job1sal>
+<job2type>行銷業務</job2type>
+<job2title>行銷開發實習生</job2title>
+<job2duty>網站行銷編輯, 行銷合作洽談, 活動企劃..</job2duty>
+<job2cons>行銷與業務具有強烈興趣, 具備藝術 行銷相關經驗或人脈</job2cons>
+<job2inter>行銷與業務相關能力證明</job2inter>
+<job2hassal>是</job2hassal>
+<job2sal>按件計酬, 創業培訓</job2sal>
+<job3type>編輯與設計</job3type>
+<job3title>藝術經紀與設計實習生</job3title>
+<job3duty>藝術家採訪 微電影 新聞稿  與 網站廣宣..等美術設計</job3duty>
+<job3cons>藝術家採訪(新聞稿)撰寫能力   微電影拍攝經驗與剪輯能力  美術設計與插畫能力</job3cons>
+<job3inter>藝術設計作品集, 文字採訪能力證明..</job3inter>
+<job3hassal>是</job3hassal>
+<job3sal>按件計酬, 創業培訓</job3sal>
+<logo>38.jpg</logo></company>
+<company><display>是</display>
+<name>旅知網</name>
+<website>tripnotice.com</website>
+<address>台北市南港區三重路19-11號軟體園區E棟3樓348室</address>
+<type>資通訊產業</type>
+<desc>不同於充滿雜亂資料的傳統旅遊網站，旅知網的定位是「旅遊搜尋引擎」，以愛旅遊的您的角度出發，幫您分析旅遊景點、價格、評價等資料，直接告訴您現在最超值的自由行，並串接訂位系統，讓您點幾下就能出發，省錢省時環遊世界。
+
+旅知網目前有 8 名成員，主要為台大、柏克萊、哈佛等校校友，平均年齡 27 歲，男女比例為 1:1，歡迎大家加入。
+
+公司簡介：http://tripnotice.com/about/</desc>
+<other>旅知網官網　http://tripnotice.com 
+旅知網粉絲團　http://facebook.com/TripNoticeTW
+旅知網辦公室位於南港軟體園區，近板南線「南港展覽館」，詳細地點：http://tripnotice.com/blog/tw/career/
+
+待遇：按時計酬
+福利：大樓有免費健身房、桌球室及瑜珈課程，公司有免費零食</other>
+<job1type>軟硬體開發</job1type>
+<job1title>網站開發實習生</job1title>
+<job1duty>前後台都歡迎。
+我們目前使用的語言有 PHP/CodeIgniter/MySQL/JavaScript/jQuery</job1duty>
+<job1cons>希望對寫網站、網路行銷、旅遊有濃厚興趣，無經驗可，但要有學習熱誠。</job1cons>
+<job1inter>有網站作品大加分，但非必要</job1inter>
+<job1hassal>是</job1hassal>
+<job1sal>120-180/hr</job1sal>
+<job2type>行銷業務</job2type>
+<job2title>旅遊內容編輯</job2title>
+<job2duty>整理、撰寫旅遊資料。</job2duty>
+<job2cons>中、英文讀寫有信心，喜歡旅遊。</job2cons>
+<job2inter>有旅行筆記加分，但非必要。</job2inter>
+<job2hassal>是</job2hassal>
+<job2sal>120/hr</job2sal>
+<logo>39.jpg</logo></company>
+<company><display>是</display>
+<name>原騰整合行銷有限公司</name>
+<website>www.o-turn.com/web/index</website>
+<address>台北市大安區臨江街99之1號4樓</address>
+<type>服務業</type>
+<desc>回歸「原」始，莫忘初衷；策馬奔「騰」，實踐理想。原騰的成立初衷就是要成為掌握『新媒體』、『新行銷』的品牌公關公司。致力於網路行銷與網路媒體整合操作，引進國際優秀案例，致力於客戶網路品牌建立與電子商務營收提升，同時創造絕佳消費者體驗。
+
+原騰認為每一次與業主的溝通，都必須聆聽並導引業主回到最初的需求點，並運用行銷工具分析行銷癥結點，擬定策略及落實方針，搭配相關執行配套，並精準執行。原騰善於引導顧客回歸到原始的需求面，每一次的創意發想，都來自於深入的了解，並在多次溝通後，給予客戶跳出本位的全新思維。</desc>
+<other>勞健保
+週休二日
+每月餐聚
+每月看電影
+不定期下午茶
+更多訊息：http://www.o-turn.com/web/index</other>
+<job1type>行銷業務</job1type>
+<job1title>行銷企劃</job1title>
+<job1duty>具有整合性思維，擅長專案執行、活動專案管理
+@具有獨立完成專案者佳 
+@具有推廣、行銷、活動策劃</job1duty>
+<job1cons>1.負責行銷企劃案的撰寫、規劃，籌備、執行公司對外的行銷活動與媒體活動（如：展覽、促銷活動），並對其效益進行分析與建議。
+2.建立、推廣、經營與管理現有品牌、產品以及公司整體的形象，並負責相關文宣資料的規劃與製作。
+3.負責媒體雜誌宣傳及新聞稿撰寫等相關事務。
+4.負責各類活動的規劃、安排與執行（如：年度活動、公關活動、節慶活動、通路活動、產品推廣活動、公司形象活動及企業品牌活動）。
+5.負責活動現場的統籌、監督管理與執行。
+6.負責公司行銷商品企劃。
+7.負責網站內容招募、提案與執行。
+8.進行網路行銷及服務的成效追蹤。</job1cons>
+<job1hassal>是</job1hassal>
+<job1sal>面議</job1sal>
+<job2type>軟硬體開發</job2type>
+<job2title>開發工程師</job2title>
+<job2duty>1.參與和體驗產品開發的樂趣
+2.融入市場進行產品功能開發
+3.開拓新客戶與市場展現服務熱情
+4.與設計師合作設計使用者介面
+5.能獨立架設網站（包含前端與後端）及系統管理
+6.設計、開發新的網路程式及界面</job2duty>
+<job2cons>1.程式開發
+2.獨立思考與執行能力
+3.有瘋狂且創新的點子
+4.對使用者介面及用戶體驗有極大興趣</job2cons>
+<job2hassal>面議</job2hassal>
+<logo>40.jpg</logo></company>
+<company><display>是</display>
+<name>帆船科技</name>
+<website>www.sailstech.com</website>
+<address>台北市中正區懷寧街110號6樓</address>
+<type>資通訊產業</type>
+<desc>帆船科技成立於2012年2月，為台灣首家手機室內定位商業應用化公司，提供消費者精準的室內定位導航並提供業者精準的購物行銷。此外，帆船科技亦有完整的軟體開發套件(SDK)提供給APP製作廠商快速開發室内定位資訊服務(indoor LBS)的應用程式。帆船科技不僅在軟體的定位引擎上有卓越的性能表現，且定位硬體設備皆為自行開發，並擁有定位演算法美國專利。
+</desc>
+<other>想要成為室內圖資高高手嗎？把室内地圖變成大富翁一樣有趣好玩是你的責任，現在就開始經營你的另類社交版圖吧！
+想要成為頂尖的後台開發人員嗎？我們這裡有超多任務可以給你完成，跟你一起打怪！
+
+
+徵  室内地圖版主 熱情、外向、細心、會用不是很好用的工具  (part time)
+徵  前後台工程師   需熟js node.js  (part time/full time皆可，可在家上班)
+
+
+待遇
+依專案大小與效率
+
+
+出差
+製作定位圖資需出差到該地點，公司補助車馬與伙食。
+
+
+定期團隊聚餐
+</other>
+<job1type>軟硬體開發</job1type>
+<job1title>前後台工程師</job1title>
+<job1duty>協助開發帆船科技前後台程式</job1duty>
+<job1cons>熟js node.js程式</job1cons>
+<job1inter>網站demo</job1inter>
+<job1hassal>是</job1hassal>
+<job1sal>按件計酬, 參加研討會補助(需整理成報告並與團隊分享內容)</job1sal>
+<job2type>行銷業務</job2type>
+<job2title>室內地圖版主</job2title>
+<job2duty>把室內地圖變成大富翁一樣有趣好玩是你的責任!
+現在就開始經營你的另類社交版圖吧！
+有什麼鬼點子快跟我們分享~</job2duty>
+<job2cons>熱情、外向、細心、會用不是很好用的工具 
+有 撰寫企畫書經驗或美術天分者為佳</job2cons>
+<job2hassal>是</job2hassal>
+<job2sal>按件計酬</job2sal>
+<logo>41.jpg</logo></company>
+<company><display>是</display>
+<name>美盛醫電股份有限公司</name>
+<website>www.medsense.com.tw</website>
+<address>新竹縣竹北市嘉豐11路一段100號12F-8</address>
+<type>生醫生農產業</type>
+<desc>美盛醫電 (MedSense Inc.) 成立於2012年6月，是一家專注於「行動醫療電子設備/服務」的設計公司。3位創辦人皆走過台灣電子業從興起、飽合、到困境的歷程，深知台灣科技製造業所背負的結構問題，所以從一開始就打算以矽谷的規格來創業——產品價值優先，然後是商業模式，最後才是技術，並且不遺餘力從國內外找來各個領域的領袖，組成顧問團隊 (包括心臟手術權威魏崢醫師、國家實驗研究院陳良基院長)。他們認為：做對的事情，比把事情做對更重要。
+
+而在人口老化的時代背景下，醫療產業便是一件對的事。配合上智慧手機的成熟，行動醫療產業變成一件對上加對的事。醫療產業是少數幾個尚未好好網路化基礎產業。跟眾多竭盡心力討好消費者的產業相比，以醫院為中心的醫療結構，病人卻只能選擇接受。但行動通訊的普及，讓以人為本的醫療照護變得實際可行。這正是矽谷醫療界目前最熱門的投資方向，也是美盛醫電在成立之初便獲得「經濟部工業局最佳投資潛力獎」的原因。
+
+公司坐落於竹北高鐵站前廣場旁，一側是中央公園、一側是公有免費停車場，並與未來的竹北生醫園區隔高鐵站相望，步行至高鐵站/台鐵六家站約5~8分鐘。竹北高鐵站週邊是新興的住宅區及商辦區，環境清新，綠地充足，102年台灣燈會便選擇在竹北高鐵站前廣場舉辦。
+
+如果你自認有一身好功夫，又願意加入新創公司冒一點點險，以追尋更深刻的回報，歡迎到美盛來聊聊各自的價值觀！</desc>
+<other>福利制度
+醫療電子相比於消費電子，有一個特色：小量多樣單價高，也就是產業本身具有利基市場的性質。我們認為，一個需求穩定而毛利較高的產業，長遠來說對員工就是最大的福利。除此之外，我們也有：
+
+◎彈性上下班時間
+◎員工旅遊/慶生會/尾牙餐會
+◎教育訓練
+◎員工認股權
+◎專利提案獎金
+◎每年一次免費健康檢查
+◎健身房
+◎研磨式咖啡機
+◎勞保/健保/團險/國外出差旅平險/住院慰問金
+◎年終獎金/三節禮金/生日禮金
+◎週休二日/優於勞基法之特休假/女性生理假/男性陪產假
+◎結婚禮金/生育禮金</other>
+<job1type>軟硬體開發</job1type>
+<job1title>韌體/演算法工程師</job1title>
+<job1duty>1. Design OS-less F/W architecture and implement it
+2. Write technical document
+3. Perform unit test and integration test
+4. Develop test tools on Microsoft Windows
+5. Communicate with H/W group
+6. Communicate with production department
+7. Other un-predefined but related tasks
+8. Better if familiar with USB driver
+9. Better if familiar with communication with Bluetooth module
+10. Better if familiar with signal processing or data mining
+11. Transfer to iPhone app development later if interested
+12. Transfer to clould service development later if interested</job1duty>
+<job1cons>1. Design OS-less F/W architecture and implement it
+2. Write technical document
+3. Perform unit test and integration test
+4. Develop test tools on Microsoft Windows
+5. Communicate with H/W group
+6. Communicate with production department
+7. Other un-predefined but related tasks
+8. Better if familiar with USB driver
+9. Better if familiar with communication with Bluetooth module
+10. Better if familiar with signal processing or data mining
+11. Transfer to iPhone app development later if interested
+12. Transfer to clould service development later if interested</job1cons>
+<job1hassal>是</job1hassal>
+<job1sal>面議</job1sal>
+<job2type>管理財經</job2type>
+<job2title>生產暨品管工程師</job2title>
+<job2duty>1. 製程規劃、SOP撰寫、量產製程流程維護
+2. 原物料進料、製程半成品/成品及客訴異常解析對策及處置
+3. 生產夾治具設計設計製作改善
+4. 工時成本掌控改善
+5. 產品測試改善
+6. BOM表維護
+7. 製造批次規劃紀錄
+8. OPQC、FQC
+9. 主管交辦事項</job2duty>
+<job2cons>1. 製程規劃、SOP撰寫、量產製程流程維護
+2. 原物料進料、製程半成品/成品及客訴異常解析對策及處置
+3. 生產夾治具設計設計製作改善
+4. 工時成本掌控改善
+5. 產品測試改善
+6. BOM表維護
+7. 製造批次規劃紀錄
+8. OPQC、FQC
+9. 主管交辦事項</job2cons>
+<job2hassal>是</job2hassal>
+<job2sal>面議</job2sal>
+<job3type>軟硬體開發</job3type>
+<job3title>機構工程師</job3title>
+<job3duty>1.負責產品機構設計與結構評估。
+2.負責機構材料的測試與選用。
+3.繪製機構設計圖面。
+4.負責模具設計、開模、試模，並檢討、修改模具。</job3duty>
+<job3cons>1.負責產品機構設計與結構評估。
+2.負責機構材料的測試與選用。
+3.繪製機構設計圖面。
+4.負責模具設計、開模、試模，並檢討、修改模具。</job3cons>
+<job3hassal>是</job3hassal>
+<job3sal>面議</job3sal>
+<job4type>管理財經</job4type>
+<job4hassal>是</job4hassal>
+<job4sal>面議</job4sal>
+<logo>42.jpg</logo></company>
+<company><display>是</display>
+<name>京浩科技股份有限公司</name>
+<website>www.qlync.com</website>
+<address>台北市思源街18號A棟406室</address>
+<type>資通訊產業</type>
+<desc>本公司位於台灣大學創新育成中心內, 自2011年開始投入國際貿易的領域,自行設計/研發產品並行銷全球, 為一個純粹軟體設計的雲端服務平台的方案商公司。長期的合作夥伴及客戶遍布世界各地。至今仍持續全球化之佈局。
+
+本公司自2011年以來開發雲端點對點連線之穿牆技術以來，在數位家庭監控，數位智能以及行動裝置上提供中下游硬體廠商雲端服務平台的整合研發。
+
+靠著堅強的研發與業務行銷團隊, 京浩科技投入雲端點對點服務平台才數年的時間，產品已經廣受國內外客戶的肯定以及協助客戶獲得世界大獎的肯定，使他們陸續成為京浩的合作夥伴。但京浩並不以此為滿足，站在現在這個穩健的立足點上，我們仍不斷的創新與進步。期盼優秀的您能加入我們，與我們一起邁向未來，共創卓越</desc>
+<other>◆ 獎金/禮品類
+1.年終獎金
+2.三節獎金/禮品
+◆ 保險類
+1.勞保、健保、勞工退休金
+2.員工團保
+◆ 休閒類
+1.不定時聚餐
+◆ 請 / 休假制度
+1.週休二日、彈性上下班
+2.特休/年假(優於勞基法)
+3.訂婚假
+4.陪產假
+5.家庭照顧假
+6.女性同仁生理假
+7.女性同仁育嬰假
+◆ 其他
+1.健康檢查
+◆ 補助類
+1.結婚禮金
+2.喜慶假禮金
+3.喪假奠儀</other>
+<job1type>軟硬體開發</job1type>
+<job1title>軟體開發 / 測試開發實習生</job1title>
+<job1duty>1. 雲端應用程式平台，新功能開發及系統維護，新系統整合升級。 2. 雲端應用程式平台，前端及後端整合開發</job1duty>
+<job1cons>IOS / ANDROID / JAVA 擇一可</job1cons>
+<job1inter>產品DEMO</job1inter>
+<job1hassal>是</job1hassal>
+<job1sal>120/hr</job1sal>
+<logo>43.jpg</logo></company>
+<company><display>是</display>
+<name>嗨映音樂(Hiin Music)</name>
+<website>www.facebook.com/hiinmusic</website>
+<address>台北市中正區(近師大夜市)</address>
+<type>資通訊產業</type>
+<desc>Hiin音樂想要傳達的理念是，在無際的音樂之海，Hiin海浪將載你一路探索你和他人的音樂故事與回憶，創造無數意外驚喜和感動。Hiin音樂致力於發展音樂推薦平台，規劃提供網站與APP介面供使用者使用，是第一個將個人情感、情緒、感受、經歷等描述放入音樂描述的音樂服務平台，在第一階段的音樂探索計畫中，Hiin將紀錄每個人的音樂故事，紀載每個人對音樂的個人情感和獨特的故事，讓你和你的朋友能夠透過搜尋找到更多符合情境的故事和音樂。</desc>
+<other>工作時間與地點彈性，徵求對數位音樂內容以及網站、APP開發有興趣的同學。
+待遇：面談
+出差：否</other>
+<job1type>軟硬體開發</job1type>
+<job1title>軟體開發實習生</job1title>
+<job1duty>開發音樂服務網站功能</job1duty>
+<job1cons>熟悉PHP(具備MVC概念)、MySql等網站開發工具
+對學習新技術具有熱忱(搜尋引擎、nosql等)</job1cons>
+<job1inter>網站demo</job1inter>
+<job1hassal>是</job1hassal>
+<job1sal>培訓課程</job1sal>
+<job2type>編輯與設計</job2type>
+<job2title>網站前端設計實習生</job2title>
+<job2duty>網頁視覺效果設計</job2duty>
+<job2cons>具有網站設計思維者
+熟悉html網頁設計、平面設計，具備jquery撰寫經驗
+具有使用者研究經驗者佳</job2cons>
+<job2inter>平面設計作品、網頁設計作品、繪圖作品等</job2inter>
+<job2hassal>是</job2hassal>
+<job2sal>按件計酬、培訓課程</job2sal>
+<job3type>資料分析(資料庫內容建置、分類)</job3type>
+<job3title>資料分析實習生</job3title>
+<job3duty>音樂描述資料整理、資料庫欄位設計與分類</job3duty>
+<job3cons>對數位音樂抱有熱忱
+熟悉excel、google doc，具有資料庫(SQL)概念者佳
+擅長蒐集網路資料、電腦操作技巧熟悉者</job3cons>
+<job3hassal>是</job3hassal>
+<job3sal>培訓課程</job3sal>
+<job4type>使用者經驗研究</job4type>
+<job4title>UX分析實習生</job4title>
+<job4duty>針對現有網站平台進行使用者經驗研究，提出具體改進方法</job4duty>
+<job4cons>具有使用者行為研究經驗者佳
+熟悉excel、ptt、google doc等基本文書處理工具
+熱愛與人交談、收集非結構資料
+善於質化、量化分析</job4cons>
+<job4inter>相關研究作品</job4inter>
+<job4hassal>是</job4hassal>
+<job4sal>培訓課程</job4sal>
+<job5type>行銷業務</job5type>
+<job5title>業務助理實習</job5title>
+<job5duty>開發與蒐集客戶名單，協助洽公與談案</job5duty>
+<job5cons>擅長與人溝通、個性開朗樂觀
+對數位音樂產業抱有熱忱
+對業務工作有興趣者</job5cons>
+<job5hassal>是</job5hassal>
+<job5sal>培訓課程、車馬費與誤餐費補貼</job5sal>
+<logo>44.jpg</logo></company>
+<company><display>是</display>
+<name>方白科技</name>
+<website>www.facebook.com/finebind.tv</website>
+<address>政大創新育成中心(暫定)</address>
+<type>資通訊產業</type>
+<desc>我們是一個覺得「有趣」比較重要的團隊，目前有3隻開發APP的經驗，其中2隻曾榮登Google Play首頁，而「電視美食」也曾榮獲：
+1. Google Play不分類冠軍
+2. App Store熱門不分類亞軍
+3. 節目《麻辣天后宮》主動推薦（http://bit.ly/GYMBTT）
+4. 電信公司、上市公司及許多廣告商主動洽談合作事宜
+5. 上架（去年五月）累計至今已超過100萬下載量
+
+我們希望帶給世界更有趣的生活體驗，改變人們生活方式是我們最終的目標！目前正在計劃進行新的2隻APP開發， Global的LBS應用及台灣文創生活相關產品。</desc>
+<other>我們以為實習生是「夥伴」，不是「工讀生」或「免費人力」，實習生有$120的時薪，且有參加重要的討論、合作廠商洽談的機會。
+
+1. 教育訓練：提供2~3天教育訓練（期間亦有薪水）。
+2. 工作獎金：依照平日工作量額外補助獎金。
+3. 工作時間：以平日晚上及週六為主，一週2~3次，方便配合其他實習或學校課業。
+4. 工作期間：我們希望建立較長期的團隊關係，預計期間為2~3個月。
+5. 結業證書：提供實習證書乙份。</other>
+<job1type>行政、行銷</job1type>
+<job1title>Marketing &amp;amp; Administrative Associate</job1title>
+<job1duty>1. 粉絲團網路行銷：產品粉絲團PO文、設計與進行行銷活動
+2. 市場調查：協助整理、分析相關產業產品資訊
+3. 協助顧客問題處理：回應顧客意見及問題
+4. 資料維護：系統資料整理、更新</job1duty>
+<job1cons>1. 不畏懼與人溝通，有耐性能整理資料
+2. 富創意
+3. 有以下裝置之一：Android智慧手機或平板、iPhone、iPad、iPod</job1cons>
+<job1inter>一顆熱情的心，如果可以的話，也可以介紹一下你覺得比較好的Facebook粉絲團以及你常用的APP程式，他們為何如此吸引你？ 另外我們也很好奇你的未來求職規劃：)</job1inter>
+<job1hassal>是</job1hassal>
+<job1sal>120元/hr</job1sal>
+<job2type>編輯與設計</job2type>
+<job2title>Associate Designer</job2title>
+<job2duty>只期望做到下列工作之一：
+1. APP美工設計
+2. APP官方網站美工設計</job2duty>
+<job2cons>1. 非常希望有APP美術設計經驗者
+2. 有以下裝置之一：Android智慧手機或平板、iPhone、iPad、iPod</job2cons>
+<job2inter>一顆富有品味的心，如果可以的話，請想一下什麼樣的APP（或網站）設計風格是你喜歡的？當然如果你有自己的設計作品那就可以更具體呈現你的想法囉！ 另外我們也很好奇你的未來求職規劃：)</job2inter>
+<job2hassal>是</job2hassal>
+<job2sal>120元/hr</job2sal>
+<job3type>軟硬體開發</job3type>
+<job3title>Associate Software Engineer</job3title>
+<job3duty>只期望做到下列工作之一：
+1. 手機APP開發：Android或iOS（看情況、專長分配工作）
+2. 應用網站開發：就是APP的官方網站
+3. 系統後臺維護：寫API提供手機程式存取</job3duty>
+<job3cons>1. 能做到職責工作之一，最好是第1項或第2項
+2. 有以下裝置之一：Android智慧手機或平板、iPhone、iPad、iPod</job3cons>
+<job3inter>一顆不畏艱難的心，如果有作品的話我們想要觀摩觀摩，另外我們也很好奇你的未來求職規劃：)</job3inter>
+<job3hassal>是</job3hassal>
+<job3sal>120元/hr</job3sal>
+<logo>45.jpg</logo></company>
+<company><display>是</display>
+<name>勝義科技股份有限公司</name>
+<website>www.hyxen.com/index.php?lang=tw</website>
+<address>新北市231新店區寶橋路88號10樓</address>
+<type>資通訊產業</type>
+<desc>HyXen Technology (勝義科技股份有限公司) 于2009年正式成立，致力於在行動裝置上提供適地性服務（Location-Based Service, LBS）整合的資訊科技公司，為大中華地區領先的LBS解決方案提供商。LBS應用來服務于廣大的行動網路用戶，不論是行動娛樂、行動商務服務，HyXen所提供的全方位LBS服務，更貼近你我的生活。
+MobileLocusTM混合式位置計算平臺為主要核心，來整合行動裝置端的作業系統軟體平臺和雲端伺服器端的應用服務軟體平臺。
+現今主要業務為開發與LBS結合的APP，推廣MobileLocusTM技術。</desc>
+<other>人才招募說明網頁：http://www.hyxen.com/index.php?option=com_content&amp;amp;view=article&amp;amp;id=2&amp;amp;Itemid=104&amp;amp;lang=tw
+詳細待遇可面議，福利包含勞健保與定期公司出遊、聚餐，歡迎喜歡共同工作的夥伴。</other>
+<job1type>軟硬體開發</job1type>
+<job1title>智慧型手持裝置研發工程師,軟體開發實習生</job1title>
+<job1duty>協助專案開發,對新的API做研究</job1duty>
+<job1cons>智慧型手持裝置開發
+1. 熟悉iPhone, Android, Windows Phone 7平台程式設計。
+2. 熟悉物件導向程式設計。
+3. 團隊溝通能力、獨立工作能力。</job1cons>
+<job1inter>履歷,成績單,專案</job1inter>
+<job1hassal>是</job1hassal>
+<job1sal>詳細待遇可面議</job1sal>
+<job2type>軟硬體開發</job2type>
+<job2title>Cloud Engineer</job2title>
+<job2duty>協助web service 開發, PHP程式撰寫</job2duty>
+<job2cons>Cloud Engineer
+- Familiar jQuery
+- Creative with HTML5/CSS3</job2cons>
+<job2inter>履歷,成績單,專案</job2inter>
+<job2hassal>是</job2hassal>
+<job2sal>詳細待遇可面議</job2sal>
+<logo>46.jpg</logo></company>
+<company><display>是</display>
+<name>艾特網路股份有限公司</name>
+<website>www.aite.com.tw</website>
+<address>台北市內湖區洲子街12號2樓（台北創新實驗室）</address>
+<type>資訊服務業</type>
+<desc>我們產品 spotme 是質化的商場名片/人脈/職涯網路社交服務。
+類似模式在美國有Linkedin、歐洲有Viadeo、大陸除了被前者併購的天际网外還有优士网。
+艾特網路欲將此商業社交平台模式移植至台灣。 提供以下服務價值：
+承接適性的工作/案件
+經營個人商務品牌
+整合管理商務人脈
+獲得適合的人才/夥伴
+推廣商務服務/產品
+並期望spotme成長的過程中，能同時提升企業品牌知名度、人才品質，進而刺激產業轉型、增進社會競爭力。</desc>
+<other>特殊需求...希望是想要改變世界的瘋子</other>
+<job1type>軟硬體開發</job1type>
+<job1title>前端工程實習生</job1title>
+<job1duty>工作內容
+研究和討論公司平台產品
+平台前端網頁開發
+需與後端調協Protocol及流程</job1duty>
+<job1cons>熟悉 Javascript, Jquery, html
+願意學習, 主動負責
+程式相關工作經驗 0-5年
+
+加分條件
+有使用過前端開發 framework 佳
+有使用過 Bootstrap 佳
+有UX經驗設計者 佳
+有後台開發經驗者(不限語言) 佳
+有linux平台操作經驗 佳</job1cons>
+<job1inter>簡歷（含作品集）</job1inter>
+<job1hassal>是</job1hassal>
+<job1sal>目前有實習生薪資超過150元/hr</job1sal>
+<job2type>行銷業務</job2type>
+<job2title>行銷企劃實習生</job2title>
+<job2duty>規劃撰寫專案行銷案
+執行數位行銷工具（ＥＸ：經營ＦＢ粉絲團）
+執行實體社群活動</job2duty>
+<job2cons>熱情、邏輯強、不怕生
+規劃撰寫企劃書能力
+基礎文書、美工處理
+
+加分條件：
+有數位行銷執行經驗 佳
+有實體活動執行經驗 佳
+有專案管理實際經驗 佳</job2cons>
+<job2inter>簡歷（含作品集）</job2inter>
+<job2hassal>是</job2hassal>
+<job2sal>目前有實習生薪資超過150元/hr</job2sal>
+<logo>47.jpg</logo><comment>goo.gl/565NWB</comment></company>
+<company><display>是</display>
+<name>iChannels 通路王 (歐易亞科技)</name>
+<website>www.oeya.com/</website>
+<address>台北市羅斯福路二段100號25樓(古亭捷運9號出口)</address>
+<type>網際網路相關業</type>
+<desc>oeya!歐易亞科技由超過60位來自台灣和大陸熱愛網路的優秀人才組成，從2002年即持續專注在網路行銷與廣告系統的創新研發。
+所有技術完全自主研發，也獲得經濟部SBIR及資策會等專案獎勵計畫，是一個技術與行銷實力堅強的網路團隊。 
+
+oeya!歐易亞旗下有全國最大的聯盟行銷平台---iChannels通路王，合作廠商包括博客來網路書店、7net、數位時代、遠雄房屋、Time時代雜誌等數百家企業。
+------------------------------------------------------------------ 
+oeya!榮獲2010年電子商務年鑑評選為年度全球10大電子商務創新案例,
+營運模式成為台大與政大的專題研究，及東森電視，中天新聞，華視，工商時報，中國時報，IThome等媒體大幅報導！
+
+歡迎熱愛網路的優秀人才加入，我們將提供你盡情揮灑的舞台。</desc>
+<other>我們提供給您： 
+1. 彈性上班時間 09:00- 10:00，彈性下班時間 18:00~19:00。
+2. 優於勞基法之休假制度:新人到職第一年，按在職日數折算，即享有0~7天的年假
+3. 週休二日
+4. 擁有絕佳的辦公環境
+
+◆完整的薪資制度 
+1. 以績效為依歸的薪酬獎勵措施，依據績效表現發放年終獎金 
+2. 具競爭力的薪資水準
+3. 業務底薪高於同業平均，另享有4個月-16個月績效獎金
+
+◆貼心的福利措施
+1. 婚喪喜慶、住院慰問等各項補助
+2. 年終尾牙晚會
+3. 勞健保、勞退
+4. 業務人員交通費補助
+
+◆全方位學習與發展 
+1. 新進同仁教育訓練 
+2. 個人職能訓練、管理職能訓練、專業技能訓練
+3. 為培育優秀之人才，配合組織需要與個人志向進行不同部門或職務輪調，以培養第二專長</other>
+<job1type>軟硬體開發</job1type>
+<job1title>技術服務串接測試實習生</job1title>
+<job1duty>活動網頁研發串接測試</job1duty>
+<job1cons>有團隊精神，對網路行銷、程式撰寫有工作熱誠。</job1cons>
+<job1inter>專案作業</job1inter>
+<job1hassal>是</job1hassal>
+<job1sal>120/hr，培訓課程</job1sal>
+<logo>48.jpg</logo></company>
+<company><display>是</display>
+<name>PositiveGrid LLC.</name>
+<website>www.positivegrid.com/</website>
+<address>work at home</address>
+<type>資通訊產業</type>
+<desc>Positive Grid 共同創辦團隊畢業於美國史丹佛大學，總部位於美國加州，是專業音樂軟體、行動音訊軟體工具的領導品牌公司。我們的目標是建立一個分享平台，連接全球專業的音樂愛好者，打造一份全新的音樂創作共享經驗。</desc>
+<other>說明網址 http://www.positivegrid.com/jobs_tw/
+資深工程師待遇，月薪6萬到8萬，年薪保証14個月，紅利由營收決定。
+無出差須求。</other>
+<job1type>軟硬體開發</job1type>
+<job1title>iOS資深軟體工程師</job1title>
+<job1duty>參與mobile音訊處理軟體的架構設計及開發。
+依照軟體規格文件開發出可運行之軟體。
+參與敏捷式開發及Scrum會議，與產品經理及客戶緊密配合，提供快速測試原型。
+使用專業軟體開發的系統和流程，包括版本控制，Bug Tracking，測試流程等。</job1duty>
+<job1cons>3年以上的商業軟體開發經驗。
+實際參與過至少一個可展示、已在販售的行動裝置App開發，且須為主要開發者。
+豐富的iOS，iPhone/ iPad使用經驗，熟悉Xcode，Objective-C及Cocoa Touch的開發環境。
+熟悉記憶體管理和最佳化，Multi-Thread，物件導向設計技巧。
+熟悉C，C++。
+熟悉網路相關技術，如JavaScript，JSON及XML。
+熟悉行動裝置與後端伺服器API串接互動的細節。
+卓越的軟體最佳化能力。
+熟悉軟體系統結構，資料結構和電腦科學的基礎知識。
+具備自我學習，自我管理，及良好的溝通能力。
+願意在新創公司工作，遵照短產品發布週期，在任何時間轉換到不同的專案項目。
+資訊工程、資訊科學、電機工程、數學或相關專業學士學位以上學歷。
+
+熟悉以下一項或以上的技術：
+
+In App Purchase
+Dispatch Queue
+AudioSession/AudioUnit/RemoteIO
+iPod Library access
+Instrument performance measurement
+DSP/MIDI</job1cons>
+<job1inter>iOS App demo</job1inter>
+<job1hassal>是</job1hassal>
+<job1sal>6萬~8萬/月</job1sal>
+<job2type>軟硬體開發</job2type>
+<job2title>Windows and Mac 資深軟體工程師</job2title>
+<job2duty>開發專業PC/Mac平台上的音訊處理軟體。
+依照軟體規格文件開發出可運行之軟體。
+參與敏捷式開發及Scrum會議，和產品經理及客戶緊密合作，提供快速測試原型。
+使用專業軟體開發的系統和流程，包括版本控制，Bug Tracking，測試流程等。</job2duty>
+<job2cons>至少3年以上的商業軟體開發經驗。
+實際參與過至少一個可展示、PC/Mac平台軟體開發，且須為主要開發者。
+豐富的HTML/Javascript/Visual C++/Objective-C/Xcode經驗。
+熟悉記憶體管理和最佳化，Multi-Thread，物件導向設計技巧。
+熟悉網路相關技術，如JavaScript，JSON及XML。
+熟悉行動裝置與後端伺服器API串接互動的細節。
+卓越的軟體最佳化能力。
+熟悉軟體系統結構，資料結構和計算機科學的基礎知識。
+具備自我學習，自我管理，及良好的溝通能力。
+願意在新創公司工作，遵照短產品發布週期，在任何時間轉換到不同的專案項目。
+資訊工程、資訊科學，數學或相關專業學士學位以上學歷。
+音訊/語音處理，VST/AU/RTAS，Chrome embedded framework 經驗尤佳。</job2cons>
+<job2inter>程式作品demo</job2inter>
+<job2hassal>是</job2hassal>
+<job2sal>6萬~8萬/月</job2sal>
+<job3type>軟硬體開發</job3type>
+<job3title>Embedded 軟體工程師</job3title>
+<job3duty>參與專業音樂訊號產品開發，軟體系統結構和驅動程式開發工作。
+參與嵌入式系統開發，將概念及規格開發成為商品。
+與產品經理，硬體工程師及DSP工程師合作開發。
+使用專業軟體開發的系統和流程，包括版本控制，Bug Tracking，測試流程等。</job3duty>
+<job3cons>3年以上嵌入式開發經驗（如DSP平台，微處理器等）。
+3年以上RTOS，C/C++語言及嵌入式軟體工程師經驗。
+熟悉ARM架構知識。
+了解RTOS的概念，記憶體管理，
+熟悉I2S知識，熟悉GPIO，快閃記憶體，記憶體，顯示器的開發。
+Multi-Thread 架構開發經驗。
+資訊工程、資訊科學或電子工程學士或以上學位。
+即時嵌入式軟體開發經驗
+具有分析和解決問題的能力。了解基本的數位和類比硬體知識，包括看懂線路圖。</job3cons>
+<job3inter>作品demo</job3inter>
+<job3hassal>是</job3hassal>
+<job3sal>6萬~8萬/月</job3sal>
+<job4type>軟硬體開發</job4type>
+<job4title>DSP 工程師</job4title>
+<job4duty>負責數位訊號處理演算法的設計，開發和除錯。
+使用敏捷Scrum方法進行軟件開發。
+設計開發及除錯，以C或C ++開發嵌入式DSP處理器、PC、Mac平台可運行的程式碼。
+開發PC工具，產生係數表，控制嵌入式處理器等...
+撰寫演算法文件。
+觀察當前趨勢和技術的變化。</job4duty>
+<job4cons>電機工程，資訊工程，資訊科學，數學或相關領域學士或以上學位，3年以上相關工作經驗。
+熟悉DSP的原理及應用。 （FFT，Z變換，雙線性變換）
+熟悉Assembly，C，C ++。</job4cons>
+<job4inter>作品demo</job4inter>
+<job4hassal>是</job4hassal>
+<job4sal>6萬~8萬/月</job4sal>
+<logo>49.jpg</logo></company>
+<company><display>是</display>
+<name>大豐資訊股份有限公司 X-Selecting Co.</name>
+<website>www.facebook.com/we.selecting</website>
+<address>台北市內湖區新湖二路146巷33號3樓</address>
+<type>服務業</type>
+<desc>X-Selecting是獲得Shell殼牌油品台灣總代理大豐集團TFG投資的電子商務新創公司，辦公室位於台北內湖。團隊前身為頂新國際集團的電子商務團隊、除了頂新於行銷通路的專業DNA之外、團隊成立之初更延攬了來自Yahoo奇摩的網路業務及廣告專才、橫跨Web/APP實戰經驗豐富的程式設計、網頁設計及多媒體設計各領域高手，以平均年齡28歲的創業精神、截然不同的業務定位，和具策略性的整合式服務，活躍於台灣90%以上的網購平台。創業兩年時間已成為年度營業額9位數字的團隊。</desc>
+<other>薪資待遇面議</other>
+<job1type>行銷業務</job1type>
+<job1title>網路行銷 專案企劃</job1title>
+<job1duty>1.為品牌發想創意相關工作、文案撰寫。
+2.為品牌、消費者進行創意提案並執行任務。
+3.配合業務、企劃等相關人員執行專案展開、整合。
+4.協助美化編輯各類型圖稿。
+5.設計電子報與社群網站管理，電子報、EDM及各種宣傳文案規劃。</job1duty>
+<job1cons>1.熟悉Photoshop 等美工軟體。
+2.操作過Wordpress或有經營部落格經驗者為佳。
+3.略懂Html, CSS為佳。</job1cons>
+<job1inter>有作品為佳</job1inter>
+<job1hassal>是</job1hassal>
+<job1sal>基本薪資面議/另有專案達成bonus</job1sal>
+<job2type>行銷業務</job2type>
+<job2title>網路行銷 業務代表</job2title>
+<job2duty>1. 重視團隊精神，溝通協調好、具整合資源能力。
+2. 每月負責定期新廠商開發拜訪。
+3. 負責網路通路(Yahoo/Pchome等...)行銷活動策劃、操作、活動資源整合與協商。
+4. 掌握網友網站使用介面，對消費者需求變化敏感。</job2duty>
+<job2cons>1.具優秀文字能力及版面配置設計概念。
+2.思考清晰、獨立作業，邏輯概念好並具解決問題與執行的能力。</job2cons>
+<job2inter>有作品更佳</job2inter>
+<job2hassal>是</job2hassal>
+<job2sal>基本薪資面議/另有專案達成bonus</job2sal>
+<logo>50.jpg</logo><comment>goo.gl/a5eUrc</comment></company>
+<company><display>是</display>
+<name>IOH（Innovation Open House）</name>
+<website>ioh.tw/</website>
+<address>台北市文山區羅斯福路五段150巷27號4樓</address>
+<type>資通訊產業</type>
+<desc>IOH（Innovation Open House）開放經驗平台，創立於2012年10月，為一跨地域領域，提供海外留學與創新創業線上分享平台， 開啓台灣學子一個看世界的窗口，讓在台灣沒有資源或人脈了解在海外求學與工作經驗的人，可以透過IOH去了解世界，讓他們敢於作夢，不被環境所受限。
+
+創辦人莊智超，畢業於MIT Media Lab。
+
+IOH於2012年榮獲Johnny Walker夢想資助計畫贊助。
+繼IOH之後，我們希望能為台灣與世界做更多有意義的事，於是，另一個可以在美國開創的startup:Mimi Open正如火如荼展開，亟力徵求跟我們一起勇於做夢與開疆闢土的夥伴，加入我們的行列！</desc>
+<other>IOH：http://ioh.tw
+MIMI OPEN:http://signup.mimiopen.com
+
+MimiOpen is looking for a web developer to join our young startup team. We are energetic and passionate about helping young people making important decisions in their lives. Our first target market is the US. Our team is distributed between US and Taiwan. 
+
+待遇：面議。
+共同福利：
+1.免費供餐！公司還有免費喝到飽Cama CAFE!
+2.各大講座參與，與各界講者名人獨家接洽，拓展海內外的人脈網絡！
+3.出差交通費另計。
+4.舒適的英文溝通學習環境！</other>
+<job1type>軟硬體開發</job1type>
+<job1title>軟體開發實習生</job1title>
+<job1duty>Responsibilities: 
+1.Collaborate with everyone at MimiOpen and contribute to improve  
+our startup daily on both the business and the product
+2.Implement the MimiOpen product and unit test individual work
+3.Communicate status and progress timely
+4.Interested in creating a killer product</job1duty>
+<job1cons>Requirements: 
+1.Excellent knowledge in computer science, engineering or an  
+equivalent field of study related to web technology; relevant    
+interesting project and work experience is a bonus
+2.Excellent implementation skills. Interested in or has experience in  
+HTML/CSS, Javascript/JQuery, Rails, and database management. 3.Knowing Linux and system administration is a bonus. 
+4.Excellent communication skills. 
+5.Enjoy working in a distributed team environment that's fun and has 
+new challenges every day; has a do-whatever-it-takes attitude. 
+6.Self-directed and show leadership outside of technical work
+7.Working at our studio is much preferred over working remotely
+8.Speaking English is a bonus</job1cons>
+<job1inter>相關能力證明皆可</job1inter>
+<job1hassal>是</job1hassal>
+<job1sal>面議</job1sal>
+<job2type>行銷業務</job2type>
+<job2title>行銷企劃實習生</job2title>
+<job2inter>相關能力證明皆可</job2inter>
+<logo>51.jpg</logo><comment>goo.gl/VH88M3</comment></company>
+<company><display>是</display>
+<name>資廚管理顧問股份有限公司</name>
+<website>www.ichef.com.tw</website>
+<address>台北市中山北路六段90號4樓</address>
+<type>資通訊產業</type>
+<desc>資廚管理顧問股份有限公司是由統一超商集團前總經理、商業發展研究院董事長 徐重仁董事長投資並擔任董事長的科技顧問公司。
+
+資廚團隊專注於提升台灣中小型店家的經營績效，招募專業設計師與海外技術專家，開發簡單有效的行動POS系統。
+
+目前已開發出iCHEF與i發票等以iPad為基礎、直覺式設計、並徹底整合電子發票的行動POS APP。目前已有數十家中小型商家導入資廚的解決方案並開立電子發票。
+
+資廚管理顧問股份有限公司也是財政部授權之電子發票資訊服務業者、財政部推薦的十大電子發票解決方案提供商、以及台北市政府地方產業創新研發推動計畫（SBIR）的輔導企業。</desc>
+<other>行銷實習生主要工作內容：
+1. 協助資廚完成消費者調查事項，工作內容包含規劃調查事項、餐飲現場觀察與統計、餐廳業主訪談、調查資料分析與整理、分析報告彙整等工作。
+2. 實習生會與公司設計師與企劃人員合作完成任務，期間需於台北市、新北市、或其他外縣市進行田野調查，並針對調查結果提出報告。
+3. 計劃進行時間一個月，實際工時依現場執行時數計算，每小時120/hr。</other>
+<job1type>行銷業務</job1type>
+<job1title>行銷實習生</job1title>
+<job1duty>行銷實習生主要工作內容：
+1. 協助資廚完成消費者調查事項，工作內容包含規劃調查事項、餐飲現場觀察與統計、餐廳業主訪談、調查資料分析與整理、分析報告彙整等工作。
+2. 實習生會與公司設計師與企劃人員合作完成任務，期間需於台北市、新北市、或其他外縣市進行田野調查，並針對調查結果提出報告。
+3. 計劃進行時間一個月，實際工時依現場執行時數計算。</job1duty>
+<job1cons>1. 有良好溝通能力，需要與現場餐廳服務生溝通。
+2. 觀察細微，能注意到餐廳營運現場的非語言訊息。
+3. 能依照約訪對象，彈性調整工作時間。</job1cons>
+<job1hassal>是</job1hassal>
+<job1sal>120元/hr</job1sal>
+<job2type>編輯與設計</job2type>
+<job2title>美術編輯實習生</job2title>
+<job2duty>1. 執行公司美術文案編輯，DM、網站素材、活動海報等。</job2duty>
+<job2cons>1. adobe illustrator、photoshop能非常熟練地使用。</job2cons>
+<job2inter>繪圖作品集</job2inter>
+<job2hassal>是</job2hassal>
+<job2sal>125元/hr</job2sal>
+<job3type>軟硬體開發</job3type>
+<job3title>軟體開發實習生</job3title>
+<job3duty>1. 與公司業務與營運部門合作讓公司營運流程系統化。
+2. 達成設計師要求的界面呈現與UX最佳化。
+3. 克服技術長提出的專業挑戰，寫出具體程式。</job3duty>
+<job3cons>1. 精通Javascript, jQuery
+2. 精通Python。
+3. 了解 AWS架構，有使用EC2-RDS-S3 經驗者佳。</job3cons>
+<job3inter>網站DEMO、作品集</job3inter>
+<job3hassal>是</job3hassal>
+<job3sal>依照工作表現及時數計酬，3~5萬月 不等</job3sal>
+<logo>52.jpg</logo></company>
+<company><display>是</display>
+<name>物聯智慧股份有限公司</name>
+<website>www.tutk.com</website>
+<address>台北市南港區南港路一段364號9樓</address>
+<type>資通訊產業</type>
+<desc>物聯智慧股份有限公司是一個專業的物聯網連線平台的專業研發製造公司。我們以獨特的P2P (Point to Point)專利技術提供完整的P2P連線服務。源自於多年來在推展P2P 連線應用於 IP cam 過程中，因解決各種不同路由器在多變的網路環境所造成的連線問題所得到寶貴實務經驗，加上創新的商業模式，在這物聯網時代之際，提供客戶可快速開發快速導入的跨平台P2P連線服務整體解決方案，為客戶創造最高的價值以及產品競爭力。 我們正在創造一個新的物聯網(Internet Of Things)的新世代，如果您找的是一個具有爆發性成長並且引領全世界科技潮流的公司，歡迎加入我們。</desc>
+<other>對TUTK來說，員工是最重要的資產，為了讓同仁身心平衡，我們提供以下福利制度:  
+每年提撥固定盈餘比例，作為員工季績效獎金及年度績效獎金  
+公司規劃上櫃，提供員工股票選擇權共享公司經營成果  
+較彈性自由之工作時間  
+升遷、發展機會多，管道暢通  
+每月不定期舉辦戶外團康活動，讓您的身心達到平衡  
+每週固定運動社團活動，費用全額公司補助  
+可攜眷之國內外員工旅遊  
+辦公室提供點心、咖啡供員工享用  
+勞保、健保，員工團體保險，教育訓練，週休二日</other>
+<job1type>軟硬體開發</job1type>
+<job1title>Android 軟體研發實習生</job1title>
+<job1duty>1.學習，設計與實作網路相關程式 
+2.設計 Android 網路相關 App 
+3.與第三方協同開發 App</job1duty>
+<job1cons>1. 資訊工程相關科系 
+2. 有 Android 開發經驗 
+3. 有相關 Android 作品可以展示
+4. 熟悉 codec 者為佳</job1cons>
+<job1hassal>是</job1hassal>
+<job1sal>面議</job1sal>
+<job2type>軟硬體開發</job2type>
+<job2title>iOS 軟體研發實習生</job2title>
+<job2duty>1.學習，設計與實作網路相關程式 
+2.設計 iOS 網路相關 App 
+3.與第三方協同開發 App</job2duty>
+<job2cons>1. 資訊工程相關科系 
+2. 有 iOS 開發經驗 
+3. 有相關 iOS 作品可以展示 
+4. 熟悉 codec 者為佳</job2cons>
+<job2hassal>是</job2hassal>
+<job2sal>面議</job2sal>
+<job3type>軟硬體開發</job3type>
+<job3title>網頁技術研發實習生</job3title>
+<job3duty>1.負責開發P2P Cam網頁程式及往後Web端應用需求。
+2.網頁程式設計。</job3duty>
+<job3cons>1. 資訊工程相關科系。
+2. 熟悉MS Active X元件使用或有實作經驗。
+3.基本繪圖軟體操作。
+4.有相關作品可以展示</job3cons>
+<job3hassal>是</job3hassal>
+<job3sal>面議</job3sal>
+<logo>53.jpg</logo></company>
+<company><display>是</display>
+<name>玄米設計</name>
+<website>www.sharmedesign.com/</website>
+<address>台北市基隆路一段180號7樓</address>
+<type>網路App服務</type>
+<desc>玄米設計是一個專精於網路服務以及App設計開發的公司。並結合"創意" 與 "社群"，並投入對設計的熱情與專業，致力於開創出令人wow的產品，並注重整體使用者經驗為目標。
+
+目前上架的服務包括：
+1. Picaca（用照片來記帳ios app：被apple store選為Featured精選, 及最佳台灣製造 ）
+2. PicValue（ 文青的標價相機 ）
+3. WaSong ( 你唱我猜歌--社群遊戲 )
+4. 香蕉你的蛋糕 ---  甜點社群平台</desc>
+<other>http://www.sharmedesign.com/jobs.html
+
+福利：免費咖啡，下午茶，甜點，作息彈性 無需出差，一周至辦公室1-3天
+待遇：給薪～</other>
+<job1type>行銷業務</job1type>
+<job1title>行銷活動實習生</job1title>
+<job1duty>協助即將上架3款手機app推廣
+（撰寫新聞稿, 常逛 ptt 或各大電子網站,媒體 , 文筆佳, 有舉辦活動能力者佳）
+
+請搜尋：
+Picaca 相關報導
+及
+www.picaca.org</job1duty>
+<job1cons>活潑開朗 ,有社團經驗 ,熱心 ,有行銷活動 ,或號召能力</job1cons>
+<job1inter>任何能展現自己的作品</job1inter>
+<job1hassal>是</job1hassal>
+<job2type>編輯與設計</job2type>
+<job2title>甜點文章撰寫實習生</job2title>
+<job2duty>香蕉你的蛋糕, 
+甜點文章撰寫 及 粉絲團經營
+
+請參考
+https://www.facebook.com/banana.in.cake
+www.littlehappiness.tw</job2duty>
+<job2cons>對甜點製作,或對烘培有基本理解
+對甜點主題有自己獨立的觀點
+擅英文文章閱讀
+文筆佳</job2cons>
+<job2inter>寫過的文章作品, 或任何文字創作</job2inter>
+<job2hassal>是</job2hassal>
+<job3type>編輯與設計</job3type>
+<job3title>App UI/UX 設計實習生</job3title>
+<job3duty>協助設計師完成UI/UX 規劃及實做
+
+請參考：
+www.sharmedesign.com
+www.picaca.org</job3duty>
+<job3cons>熟悉photoshop
+熟悉illustrator 
+基本css
+基礎設計概念</job3cons>
+<job3inter>設計作品集</job3inter>
+<job3hassal>是</job3hassal>
+<logo>54.jpg</logo></company>
+<company><display>是</display>
+<name>ARPP studio</name>
+<website>arpp-studio.com/</website>
+<address>台灣台北市信義區基隆路一段180號</address>
+<type>旅遊文化產業</type>
+<desc>ARPP studio 是個充滿活力的跨界創意團隊，背景涵括專案企畫、研發和介面設計為appWorks之初創投的創業團隊。六顆不同的腦袋致力於共同的信念：提供「深刻生活」的好服務，讓使用者每天都精彩不留白！ 
+
+ARPP studio專注於在地旅遊應用服務與商品開發，除了解決國人對國內在地旅遊的需求之外，未來會持續努力把台灣這塊美麗的島嶼介紹給全世界看到，讓更多人可以體驗到更在地、更個人化的在地旅遊服務及商品。</desc>
+<other>定期team building出遊
+團隊聚餐
+上班時間彈性
+薪水：面議
+
+參考網頁: 
+http://we-student.com/2013/05/27/arpp-studio-2/</other>
+<job1type>編輯與設計</job1type>
+<job1title>行銷企劃與文化編輯</job1title>
+<job1duty>- 在地文化商品之品牌形象設計
+- 在地文化商品企劃提案
+- 在地服務業者採訪與故事編輯
+- 商品行銷與銷售</job1duty>
+<job1cons>- 行銷與企劃經驗者
+- 對台灣在地文化具有熱情者
+- 對於故事文化採訪與編輯有熱情者
+- 商品銷售經驗尤佳 
+- 獨立思考的能力</job1cons>
+<job1inter>任何形式內容的作品集</job1inter>
+<job1hassal>是</job1hassal>
+<job1sal>面議</job1sal>
+<job2type>軟硬體開發</job2type>
+<job2title>Web開發工程師</job2title>
+<job2duty>- 與業界designer/UX合作 協同開發產品網頁
+- 以lean startup的方法 快速開發產品服務及形象頁面</job2duty>
+<job2cons>- 熟悉ruby/php/其他網頁開發技術 (擇一)
+- 團隊溝通能力 
+- 獨立作業能力
+- 良好自學能力
+- 具備網頁開發經驗者尤佳
+- 具備CSS, html經驗者尤佳</job2cons>
+<job2inter>任何形式內容的作品集</job2inter>
+<job2hassal>是</job2hassal>
+<job2sal>面議</job2sal>
+<job3title>app開發工程師</job3title>
+<job3duty>- 與業界designer/UX合作 協同開發IOS/android native app (擇一)
+- 以lean startup的方法 快速開發mobile app</job3duty>
+<job3cons>- 熟悉IOS/Android native app開發 (擇一)
+- 團隊溝通能力 
+- 獨立作業能力
+- 良好自學能力
+- 具備app開發經驗者尤佳</job3cons>
+<logo>55.jpg</logo><comment>goo.gl/1Ata4j</comment></company>
+<company><display>是</display>
+<name>創炎資訊科技有限公司</name>
+<website/>
+<address>桃園縣桃園市南豐街230之3號4樓</address>
+<type>資通訊產業</type>
+<desc>　　我們公司專攻旅遊產業相關的資訊技術，目前核心產品「TRAIWAN出來玩」民宿網路行銷管理專家，目的提供全世界旅客24小時不中斷、即時預訂、即時付款成功的民宿線上訂房服務。同時，本系統連結多個民宿銷售通路，讓民宿主人有效率地一次更新所有通路上之空房資訊、房價資訊，降低處理網路行銷所耗費的時間。上線不到1年，已經有超過120間民宿與我們簽約，民宿透過本平台處理的訂單已高達40,000筆。
+　　隨著來台海外旅客自由行旅客加速成長，特別是來自香港與大陸旅客快速增加，透過線上訂房及海外行銷提供這些旅客更透明、更快速、更便利的預訂與付款方式已勢在必行，而我們希望透過這個簡單、好用的系統，協助台灣民宿成功轉型資訊化，提升在網路行銷的競爭力。</desc>
+<other>我們這次提供的寒假實習計畫，不是在陰雨的台北，而是在晴空萬里的墾丁！我們將安排行銷企劃的實習生，免費在寒假3個禮拜內1天住1間民宿（換句話說，在這趟實習中一個人可以免費住到15間以上的民宿！），深度體驗恆春與墾丁民宿特色之美，並用照片、文字或是影像（歡迎各種新穎創新的行銷方式）向海內外的旅客分享住民宿的體驗，以及恆春墾丁不同的風貌！</other>
+<job1type>行銷業務</job1type>
+<job1title>行銷企畫實習生</job1title>
+<job1duty>我們這次提供的寒假實習計畫，不是在陰雨的台北，而是在晴空萬里的墾丁！我們將安排行銷企劃的實習生，免費在寒假3個禮拜內一天住一間民宿（換句話說，在這趟實習中一個人可以住到15間以上的民宿！），深度體驗恆春與墾丁民宿特色之美，並用照片、文字或是影像（歡迎各種新穎創新的行銷方式）向海內外的旅客分享住民宿的體驗，以及恆春墾丁不同的風貌！</job1duty>
+<job1cons>1. 需要自備相機（能把風景、美食拍的美美的單眼更加分）
+2. 文字寫作流暢
+3. 喜歡跟人聊天、不怕生
+4. 要會使用社群媒體與朋友分享生活點滴（會多樣社群媒體更加分）</job1cons>
+<job1inter>文字作品集（部落格、日記...等可）</job1inter>
+<job1hassal>是</job1hassal>
+<job1sal>提供免費住宿，並且有膳食津貼</job1sal>
+<job2type>行銷業務</job2type>
+<job2title>業務推廣實習生</job2title>
+<job2duty>協助我們拜訪民宿、簽約，進行民宿管理系統教育訓練，並適時協助民宿解決資訊化上的問題</job2duty>
+<job2cons>1. 喜歡跟人聊天、不怕生
+2. 有耐心、細心
+3. 會台語者加分</job2cons>
+<job2inter>無</job2inter>
+<job2hassal>是</job2hassal>
+<job2sal>提供免費住宿，並且有膳食津貼</job2sal>
+<job3type>軟硬體開發</job3type>
+<job3title>網站開發實習生</job3title>
+<job3duty>協助網站系統開發，包含伺服端程式與客戶端程式撰寫，實習結束後，將具備獨立開發網站之能力。我們最大的優勢在於，我們有完整的網站開發訓練課程，具備程式基礎的人，一週內能具備紮實的網站程式能力。</job3duty>
+<job3cons>1. 具備PHP, SQL, Javascript, HTML, CSS開發能力
+2. 熟悉AJAX與jQuery
+3. 若無以上能力，具備基礎程式能力，學習力強，面試過關後，須參加網站開發培訓課程（課程結訓後會具備以上能力）。</job3cons>
+<job3inter>網站作品demo</job3inter>
+<job3hassal>是</job3hassal>
+<job3sal>提供免費住宿，並且有膳食津貼</job3sal>
+<logo>56.jpg</logo></company>
+<company><display>是</display>
+<name>雲深創新 Cloudeep Innovation, Inc.</name>
+<website>www.cloudeep.com.tw/</website>
+<address>台北市和平東路一段192號6樓</address>
+<type>資通訊產業</type>
+<desc>雲深創新成立於 2012 年初，團隊成員皆為台清交資訊工程碩士以上學歷，具備分散式計算、即時平行運算相關背景，曾囊獲各大程式比賽冠軍，並於相關領域擁有十年以上工作經驗。雲深創新專注於資訊技術深耕，應用與國際接軌之前瞻自由軟體 (Open Source) 為客戶提供海量資料 (Big Data) 資料分析服務，以及雲端建置顧問方案。 不僅是客置化服務，雲深創新更開發「推薦引擎」產品協助擁有海量資料的企業客戶，探勘其使用者之活動歷程，進而將「資料」轉化為更有意義的「知識」，增添使用者對企業客戶服務的黏著率以及返回率，為企業客戶帶來實質收益。</desc>
+<other>尋求愛寫程式的朋友，待遇及福利可議，無需出差。</other>
+<job1type>軟硬體開發</job1type>
+<job1title>軟體開發</job1title>
+<job1duty>來這裡學習、開發程式，將應用能力發揮到極致。</job1duty>
+<job1cons>任何愛寫程式的高手，我們相信高手學任何技術都很快，所以不一定要已經具備雲深所使用的技術。</job1cons>
+<job1inter>簡歷、愉快地心</job1inter>
+<job1hassal>是</job1hassal>
+<job1sal>面議</job1sal>
+<job2type>軟硬體開發</job2type>
+<logo>57.jpg</logo></company>
+<company><display>是</display>
+<name>隆中網絡股份有限公司</name>
+<website>www.pubgame.tw/</website>
+<address>新北市新店區建國路276號9樓</address>
+<type>資通訊產業</type>
+<desc>隆中網絡目前經營 http://www.pubgame.tw 跨平台(Web+iOS+Android)網遊聯運平台，提供遊戲發行商/開發商一個整合行銷、營運、客服、金流的雲端服務平台，讓遊戲開發商可以快速進入市場，即時回饋訊息，確保遊戲可以獲取最佳營運績效。</desc>
+<other>每季一次聚餐、每半年一次員工旅遊、工作第一年十天特休、優於勞基法。</other>
+<job1type>行銷業務</job1type>
+<job1title>遊戲營運行銷實習生</job1title>
+<job1duty>遊戲營運推廣與客服，了解遊戲發行產業全貌。</job1duty>
+<job1cons>大四(含)以上，科系、性別不拘，有遊戲經驗者佳。</job1cons>
+<job1hassal>是</job1hassal>
+<job1sal>比照勞基法</job1sal>
+<job2type>軟硬體開發</job2type>
+<job2title>iOS APP 工程師</job2title>
+<job2duty>協助iOS SDK開發與遊戲廠商協同遊戲串接相關事宜，及iOS相關問題解決等。</job2duty>
+<job2cons>1. iOS APP 開發實務經驗 1 年以上
+2. 熟悉 Objective-c 
+3. iOS SDK 開發經驗
+4. 需求分析及程式架構設計能力
+5. 良好的程式撰寫習慣，具備發現問題解決問題的能力</job2cons>
+<job2hassal>是</job2hassal>
+<job2sal>面議</job2sal>
+<job3type>軟硬體開發</job3type>
+<job3title>Android APP 工程師</job3title>
+<job3duty>協助Android SDK開發與遊戲廠商協同遊戲串接相關事宜，及Android相關問題解決等。</job3duty>
+<job3cons>1. Android 開發實務經驗 1 年以上
+2. 有在 Google Play 上架過軟體的經驗
+3. 需求分析及程式架構設計能力
+4. 良好的程式撰寫習慣，具備發現問題解決問題的能力</job3cons>
+<job3hassal>是</job3hassal>
+<job3sal>面議</job3sal>
+<job4type>軟硬體開發</job4type>
+<job4title>網頁遊戲營運平台Java工程師</job4title>
+<job4duty>網頁遊戲營運平台Java工程師</job4duty>
+<job4cons>1. 數理，資訊相關科系
+2. 具備MVC觀念，熟悉Java語言及其相關Framework技術
+3. 瞭解資料庫相關技術
+4. 了解Linux系統，能夠在Linux環境下進行簡單操作
+5. 良好的程式撰寫習慣，具備發現問題解決問題的能力</job4cons>
+<job4hassal>是</job4hassal>
+<job4sal>面議</job4sal>
+<logo>58.jpg</logo></company>
+<company><display>否</display>
+<name>BizAbroad Xpress</name>
+<website>www.bizabroadxpress.com/</website>
+<address>台北市信義區</address>
+<type>服務業</type>
+<desc>創業構想及特別處：BX在每個國家以及每個大城市建立優質的工商服務業者網絡（例如法律事務所、會計師事務所等）。BX讓在該國家或該城市拓展疆土的跨國企業取得的工商服務（例如公司註冊、稅籍登記等）及相關訊息更便利、更迅速、更劃算。以不用寫email及不用打電話為設計重點，BX將使用工商服務過程中的痛點利用網路科技、通過流程線上化，減到最低。BX要大幅度改變工商服務業者提供服務的方式。
+
+目前狀況：Alpha版本在開發中。</desc>
+<other>待遇：Co-founder
+出差：無</other>
+<email>lingdecklee@gmail.com</email>
+<job1type>軟硬體開發</job1type>
+<job1title>Front-end Engineer</job1title>
+<job1duty>與合作夥伴（律師、會計師等）溝通合作。
+設計及改善網站平台的UI/UX。</job1duty>
+<job1cons>熟悉JavaScript。
+熟悉jQuerry。
+熟悉HTML5。
+熟悉CSS3。
+具跨瀏覽器相容的實作經驗。
+
+自我要求、有時限觀念。
+有解決問題的精神和能力。
+英語能力非常強。
+喜歡研究國內外的新創網站。
+對法律/會計服務產業有些許概念。</job1cons>
+<job1hassal>否</job1hassal>
+<job2type>軟硬體開發</job2type>
+<job2title>Back-end Engineer</job2title>
+<job2duty>負責所有後端的建構。
+設計資料結構並分析數據。</job2duty>
+<job2cons>熟悉Web程式開發。
+熟悉MVC開發架構。
+熟悉SQL以及資料結構設計。
+熟悉社群網路分析以及相關的演算法。
+
+自我要求、有時限觀念。
+有解決問題的精神和能力。
+英語能力非常強。
+喜歡研究國內外的新創網站。
+對法律/會計服務產業有些許概念。</job2cons>
+<job2hassal>否</job2hassal>
+<logo>59.jpg</logo></company>
+<company><display>否</display>
+<name>方桌科技股份有限公司</name>
+<website/>
+<address>台北市信義區</address>
+<type>資通訊產業</type>
+<desc>我們是一個台大學生所創立的初創團隊SquareTable，有兩位成員(一位為台大應屆畢業生、一位為台大大五在校生，兩位成員年齡皆為23歲)，目前是appWorks第七屆育成團隊，曾做過最好的產品為Muphin，一套chrome的Facebook貼圖插件，官網為muph.in，目前正在開發一個匿名社交平台「悄悄」，會是appWorks Demo day產品。</desc>
+<other>我們這個團隊也全是學生，但對於創業已經有相當的經驗(將近一年半)，對於iOS、Android、Web熟悉，目前要開發的「悄悄」社交平台，是針對大學與高中校園的社交平台，希望尋找有熱情的大學生，一起集思廣益、思想碰撞，用我們學生最有活力的力量，打造一個台灣製造的社交平台。
+尋找實習生，無薪水，工作部分為對App和Web的UI提出意見，以及進行校園的行銷推廣，有無經驗都可以。
+尋找正職，薪水詳談，可能入股成為合夥人。</other>
+<email>appdevoney@gmail.com</email>
+<job1type>行銷業務</job1type>
+<job1title>行銷企劃實習生</job1title>
+<job1duty>對App和Web的UI提供意見(無須寫code)
+校園推廣行銷企劃與執行
+粉絲頁的經營管理
+部分文宣的平面設計</job1duty>
+<job1cons>無需任何能力，有辦過學校社團活動的經驗即可，讓我們像在學校玩活動來一場激烈的創業吧!!</job1cons>
+<job1inter>無</job1inter>
+<job1hassal>否</job1hassal>
+<job1sal>無薪水，可能偶爾創辦人請喝飲料XP</job1sal>
+<job2type>軟硬體開發</job2type>
+<job2title>iOS或Android或Web開發正職或實習</job2title>
+<job2duty>有基本的程式基礎即可，無須會iOS或Android，我們團隊可以帶領你學會這兩大行動平台的開發，之後一起打造「悄悄」社交平台</job2duty>
+<job2cons>有程式基礎佳。
+沒有程式基礎的話，只要有一顆想學Coding的心即可！</job2cons>
+<job2inter>無</job2inter>
+<job2hassal>是</job2hassal>
+<job2sal>詳談</job2sal>
+<job3type>編輯與設計</job3type>
+<job3title>App與網站設計、平面設計</job3title>
+<job3duty>對於App與網站設計有想法，或對於文宣平面設計有興趣，可以對這些設計提供想法，由我們來實現。</job3duty>
+<job3cons>無需任何能力，但常觀察網路設計者佳，有設計基礎更好。</job3cons>
+<job3inter>無</job3inter>
+<job3hassal>否</job3hassal>
+<logo>60.jpg</logo></company>
+<company><display>否</display>
+<name>有物報告</name>
+<website>yowureport.com</website>
+<address>台北市信義區</address>
+<type>資通訊產業</type>
+<desc>有物報告是一個著重深入、菁英、高品質的內容媒體。目前我們專注於科技、財經兩個領域，並有30多位業內專家作者貢獻。在台灣網路媒體 聲譽卓著。</desc>
+<other>＊實習期間無薪。實習之後有可能會提供全職 offer。
+＊半年一期。希望能每週進辦公室至少兩天（可組合上午、下午），比較有團隊凝聚力。外縣市或海外者另外討論。
+＊每週開會，老闆請吃飯。
+＊實習結束者，可幫忙修改英文履歷、提供推薦信等。我們30幾位作者幾乎都有留學經驗，並橫跨海內外各大科技公司。</other>
+<email>chouchinhua@yowureport.com</email>
+<job1type>編輯與設計</job1type>
+<job1title>有物內容實習生</job1title>
+<job1duty>產業分析、新聞分析、採訪、書評、綜合整理等。簡單的說就是提出深入、有邏輯、有說服力的內容。</job1duty>
+<job1cons>必備
+＊外語能力
+＊寫作經驗
+＊對商業行為有興趣
+＊喜愛優美的文字
+＊看過有物報告
+
+選配
+＊對特定產業（科技、傳產、媒體、財經等等）有明確興趣尤佳</job1cons>
+<job1inter>履歷。有 writing sample 尤佳。</job1inter>
+<job1hassal>否</job1hassal>
+<job2type>軟硬體開發</job2type>
+<job2title>使用者體驗實習生</job2title>
+<job2duty>提昇內容「之外」的使用者體驗。包括網站設計、行動端閱讀設計、UI、UX，開發網站功能等。</job2duty>
+<job2cons>必備
+＊對新媒體有興趣
+＊程設能力
+＊對使用者體驗敏感
+
+選配
+＊熟悉 wordpress 等部落格平台介面尤佳
+＊對創業有興趣尤佳</job2cons>
+<job2inter>履歷。有 portfolio 尤佳。</job2inter>
+<job2hassal>否</job2hassal>
+<job3type>行銷業務</job3type>
+<job3title>專案企劃實習生</job3title>
+<job3duty>舉辦論壇、企劃行銷活動、招攬廣告等，結合線上與線下的方式推廣有物報告。</job3duty>
+<job3cons>必備
+＊舉辦活動經驗
+＊勇於跟陌生人接觸，接洽不同單位
+＊享受腎上腺素分泌的感覺，能達成 deadline
+＊細心</job3cons>
+<job3inter>履歷</job3inter>
+<job3hassal>否</job3hassal>
+<logo>61.jpg</logo></company>
+<company><display>否</display>
+<name>恩克斯網路科技股份有限公司</name>
+<website>bhuntr.com/</website>
+<address>台北市大安區</address>
+<type>文化創意產業</type>
+<desc>獎金獵人- 全國最大比賽平台，提供平面、商品、程式設計、文學、電影、攝影、美術、音樂等所有最新比賽資訊。
+
+目前新開發產品- 免費比賽網站建置系統，已經蓄勢待發。
+
+公司年鑑
+2009年- 成立
+2010年- 紅緋魚獎 世界新創科技公司前100強
+2011年- 網站酒館升級，個人化頁面推出; 辦公室版圖擴張
+2012年- 大型合作單位: 台灣暴雪Blizzard
+2013年- 大型委託案件: 台灣Google- Google AdWords Challenge
+              新產品研發推出: 免費比賽建置平台
+
+目前: 進軍美國 500 startups ，挑戰國際創投。
+
+尋找有想法、有熱情、有創意，並且肯嘗試、肯吃苦的你，加入獎金獵人行列，一同邁向偉大的航程!</desc>
+<other>獎金獵人網站: http://bhuntr.com/
+獎金獵人粉絲團: https://www.facebook.com/bhuntr?fref=ts</other>
+<email>olivia@bhuntr.com</email>
+<job1type>行銷業務</job1type>
+<job1title>行銷企劃實習生</job1title>
+<job1duty>協助各專案的開發與執行</job1duty>
+<job1cons>基本文書工具操作
+電話溝通能力</job1cons>
+<job1hassal>否</job1hassal>
+<job2type>編輯與設計</job2type>
+<job2title>美術設計實習生</job2title>
+<job2duty>協助Banner、海報設計; 網頁切版</job2duty>
+<job2inter>繪圖作品集</job2inter>
+<job2hassal>否</job2hassal>
+<job3type>行銷業務</job3type>
+<job3title>社群經營實習生</job3title>
+<job3duty>FB粉絲團、FB社團經營
+網路活動企劃執行</job3duty>
+<job3cons>基本活動執行能力
+有創意</job3cons>
+<job3hassal>否</job3hassal>
+<logo>62.jpg</logo></company>
+<company><display>否</display>
+<name>動心文創股份有限公司</name>
+<website>dearbnb.com / https://www.facebook.com/dearbnb</website>
+<address>台北市大安區</address>
+<type>資通訊產業</type>
+<desc>Dear b&amp;b 是台灣第一個從使用者角度出發的精緻旅宿指南，透過親身探訪與獨特的三心允諾評鑑機制，遴選全台優質民宿與旅店。  
+
+由兩個熱愛旅行的女生所共同創辦，因為無法忍受在既有設計錯雜煩亂、佈滿廣告的傳統民宿入口網尋找旅宿，也不想再浪費時間瀏覽部落客夾雜其中的自拍照或不相干的訊息；於是，懷抱著對生活的熱情與使命感，決定結束多年在行銷業務領域的工作，全心投入 Dear b&amp;b。
+
+我們堅持不做收費報導，堅持實地採訪嚴選全台旅宿，堅持完美呈現每個細節。2012年12月28日上線後，目前已採訪全台超過132間旅店民宿，上線105間，每週配合ISSUE固定上線2~3間新旅宿；更在2013年7月改版，推出進階搜尋與旅宿顧問服務，精選指南只是第一步，未來我們想做的，比現在多更多。</desc>
+<other>礙於採訪將共同住宿，請容許我們限定北部在學女學生，大學、研究所皆可。一週可空出兩天，但每次採訪都會配合彼此的時間，不定期前往台灣各地採訪優質民宿，每週約兩到三天，每月約兩次。其中實習行銷公關每週需固定meeting一次。
+
+全程食宿交通將由Dear b&amp;b負擔。</other>
+<email>rae@dearbnb.com</email>
+<job1type>編輯與設計</job1type>
+<job1title>實習採訪</job1title>
+<job1duty>採訪台灣各地旅宿、撰寫採訪文稿、建立資料</job1duty>
+<job1cons>我們期待妳感情充沛、樂於說故事，文字具巧思，最好還能角色扮演，寫出屬於每間民宿真正的個性。</job1cons>
+<job1inter>履歷,文字作品(旅行類作品優先)</job1inter>
+<job1hassal>否</job1hassal>
+<job1sal>採訪全程食宿交通由公司負擔</job1sal>
+<job2type>編輯與設計</job2type>
+<job2title>實習採訪撰稿兼 實習攝影</job2title>
+<job2duty>採訪台灣各地旅宿、撰寫採訪文稿、建立資料，並拍攝民宿環境照片</job2duty>
+<job2cons>不只文字能力，我們期待妳還有天生的美感，喜歡玩弄色彩和光影，能自我要求細節，需自備相機和修圖能力</job2cons>
+<job2inter>履歷,文字作品(旅行類作品優先)、攝影作品集(適合Dear b&amp;b風格較佳)</job2inter>
+<job2hassal>否</job2hassal>
+<job2sal>採訪全程食宿交通由公司負擔</job2sal>
+<job3type>編輯與設計</job3type>
+<job3title>實習採訪撰稿兼 實習行銷公關</job3title>
+<job3duty>和團隊一起採訪台灣各地旅宿、撰寫採訪文稿，並協助操作社群、媒體公關等事宜</job3duty>
+<job3cons>不只文字能力，我們期待妳還有與組織架構的邏輯思考，善於蒐集整理資料並整理歸納，更能延伸發想新鮮熱情的創意；歡迎妳參與產品規劃、社群行銷操作、公關媒體經營。</job3cons>
+<job3inter>履歷,文字作品(旅行類作品優先)、活動經驗、社群操作經驗資料</job3inter>
+<job3hassal>否</job3hassal>
+<job3sal>採訪全程食宿交通由公司負擔</job3sal>
+<job4type>軟硬體開發</job4type>
+<job4title>軟體開發實習生</job4title>
+<job4duty>協助開發APP、網頁改版等事宜</job4duty>
+<job4cons>具備獨立開發能力，有下列技術經驗
+1. 熟悉 Linux，nginx 與 Apache
+2. 可以使用 Django+PostgreSQL 進行開發（是的，我們的開發語言是 Python）
+3. 了解 AWS，知道如何將網站規模化與維運能力
+4. 具備前端開發與後端整合的全端思維能力  
+
+除了技術之外，我們也希望可以具備以下軟實力 
+1. 參與了解使用者的需求，進行訪談
+2. 快速將需求轉化為可行性的 prototype 進行實驗
+3. 具創新與邏輯思考、主動關注最新技術並精進、善於聆聽溝通</job4cons>
+<job4inter>履歷,作品集</job4inter>
+<job4hassal>否</job4hassal>
+<job4sal>程式開發培訓課程</job4sal>
+<logo>63.jpg</logo></company>
+<company><display>否</display>
+<name>默任股份有限公司</name>
+<website>www.abcense.com</website>
+<address>台北市士林區</address>
+<type>服裝配件類 鞋類</type>
+<desc>abcense 品牌主要策略在於形塑具競爭力的前衛時尚品牌，在產品設計層面首重質感的呈現，
+以精湛的製作工藝，並藉由實驗性質的設計細節融入商品，創造產品及品牌的獨特性。
+
+abcense於2013年5月首次發表，參加新加坡設計商展，7月參加義大利與英國二個商展，9月更在巴黎時裝周亮相。
+
+除了受到媒體矚目，更實質上取得指標性客戶的訂單：
+
+如法國精品百貨龍頭Lafayette、新加坡精品百貨Robinsons、美國最大的獨特設計師品牌網站sole struck...等 .</desc>
+<other>www.abcense.com</other>
+<email>jhuosan@abcense.com</email>
+<job1type>行銷業務</job1type>
+<job1title>品牌行銷公關實習生</job1title>
+<job1duty>幫助主管執行品牌行銷管理、異業合作規劃與執行、行銷宣傳、行銷策略擬定、品牌知名度推廣、顧客關係管理、公關新聞稿撰寫與報導、傳播媒體採購規劃、廣告企劃案╱文案撰寫、廣告創意發想與提案、國外業務開發......等工作</job1duty>
+<job1cons>英文說、聽、讀、寫流利 佳
+
+對時尚產業有濃厚興趣
+
+須具進取、積極、主動之精神</job1cons>
+<job1hassal>否</job1hassal>
+<job2type>編輯與設計</job2type>
+<logo>64.jpg</logo></company>
+<company><display>否</display>
+<name>iBeengo</name>
+<website>www.ibeengo.com</website>
+<address>台北市信義區</address>
+<type>旅遊業</type>
+<desc>iBeengo成立於2011年，由一群熱愛旅遊的年輕人所組成的團隊。
+願景是透過網路和行動科技，讓彼此分享自己的旅遊經驗，協助他人規劃他們的夢想行程。另外iBeengo在2012年10月成立經營國際青年文化交流協會，定期舉辦踏青(walking tour)及派對活動。目前已接待過1000多位來台讀書的交換生或留學生。iBeengo以企劃聯誼，參訪，旅遊活動等方式來推廣台灣寶島的美及本土的文化特色。讓海內外青年更深度地認識台灣，更愛上台灣。</desc>
+<other>iBeengo網站:  http://www.ibeengo.com
+iBeengo社團網站:  http://www.ibeengo.org 
+iBeengo 淘寶網站:  http://aiyoutaiwan.taobao.com</other>
+<email>rontseng@ibeengo.com</email>
+<job1type>行銷業務</job1type>
+<job1title>活動行銷企劃</job1title>
+<job1duty>1. 規劃團隊所要策劃的交流活動，企劃確定後開始執行，並可帶領交流的對象到處上山下海。體會台灣人文風情、台灣的獨特文化。讓他們認識台灣，並且愛上台灣。
+2. 協助海外朋友規劃來台灣的旅遊行程</job1duty>
+<job1cons>- 具有寫作的技巧, 口才條理清晰
+- 關心時事和世界的動態
+- 有導遊領隊資格更是加分
+- 善用美編軟體製作文宣更是加分</job1cons>
+<job1hassal>否</job1hassal>
+<logo>65.jpg</logo></company>
+<company><display>否</display>
+<name>數到五科技</name>
+<website>www.facebook.com/Coolist</website>
+<address>台北市大安區</address>
+<type>資通訊產業</type>
+<desc>「酷集點」是一款提供使用者集點兌換各式商品的App，我們的主要業務是行動網路廣告以及商家合作。
+
+在酷集點團隊中，無論是行銷、業務、設計、研發團隊，甚至連實習生都會參與我們每一個重大決策。</desc>
+<other>這會是一份非常有挑戰性的工作，當然一定也會很辛苦，但無論如何，收穫最多的一定是你！</other>
+<email>xoxrebornxox@gmail.com</email>
+<job1type>行銷業務</job1type>
+<job1title>行銷業務實習生</job1title>
+<job1duty>主動開發適合的廣告主並擬定行銷提案，並開發指定區域的商家與我們合作，此外也要協助擴大使用者群，與我們一同擬定酷集點的推廣策略。</job1duty>
+<job1cons>具備行銷業務相關經驗者優先，在學經歷豐富者亦可。最重要的就是有一顆熱血的心！</job1cons>
+<job1hassal>否</job1hassal>
+<logo>66.jpg</logo></company>
+<company><display>否</display>
+<name>ae Plasma Co.</name>
+<website/>
+<address>其他</address>
+<type>一般製造業</type>
+<desc>首創一台全球創新的先端設備，把尖端光電半導體及奈米技術，應用到民生科技，讓窗戶玻璃與汽車外體再也不會沾污，大幅減少清潔的不便與水的使用。而使用到的技術是全球唯一的創新綠色製造技術，大氣壓電漿鍍膜技術。</desc>
+<other>無</other>
+<email>c3@itri.org.tw</email>
+<job1type>行銷業務</job1type>
+<job1title>ae Plasma Co.</job1title>
+<job1duty>負責市場DD及BP規劃</job1duty>
+<job1cons>撰寫企畫書經驗尤佳，主動性強，熱情</job1cons>
+<job1hassal>否</job1hassal>
+<logo>67.jpg</logo></company>
+<company><display>否</display>
+<name>厚米科技有限公司</name>
+<website>www.microfilm.com.tw/</website>
+<address>台北市</address>
+<type>文化創意產業</type>
+<desc>我們公司雖然組織很小，但工作氣氛很幽默愉快，在工作目標的達成也非常任性，我們致力在將藝術一詞氾濫的現在，重新抓回藝術本質與價值，從藝術家繪製作品、多媒材、短片影像拍攝等範圍中，將真正的藝術品價值提昇至藝廊等級，讓台灣藝術創作能往國家外擴張與發展。目前團隊與線上藝術家、台灣電影製片有密切合作，現在望你加入！ 目前徵求Wordpress Developer中，希望有Wordpress 架設相關經驗、實際承接過網頁製作案例。</desc>
+<other>https://www.facebook.com/microfilm.com.tw</other>
+<email>horusbug@gmail.com</email>
+<job1type>軟硬體開發</job1type>
+<job1title>軟體開發實習生</job1title>
+<job1duty>目前徵求Wordpress Developer中，希望有Wordpress 架設相關經驗、實際承接過網頁製作案例。希望能負責本公司的Wordpress 建置，新功能開發，並有好相處的個性，以及和我們一同學習的毅力。</job1duty>
+<job1cons>Wordpress 架設相關經驗、實際承接過網頁製作案例</job1cons>
+<job1inter>網站demo、作品集</job1inter>
+<job1hassal>是</job1hassal>
+<job1sal>110/hr</job1sal>
+<logo>68.jpg</logo></company>
+<company><display>否</display>
+<name>玩奕資訊有限公司</name>
+<website>www.gadgetapp.net</website>
+<address>台北市大安區信義路三段153號3樓</address>
+<type>資通訊產業</type>
+<desc>玩奕資訊成立於2012年，是由一群富有創造力與行動力的年輕人所組成。致力將生活趣味化，於日常生活中創造不同的體驗。
+目前公司的主要產品為麻吉大聲公，適合於婚禮、活動餐會等場所。透過我們的技術，並結合創意的應用。參加的來賓可以即時於現場進行互動。本團隊亦於2013年，入選台北市產發局的原創商品開發計畫輔導團隊，顯示我們的產品具有不同凡響的潛質和創意。
+未來，本公司會繼續秉持生活趣味化的原創精神，開發更多互動的多媒體應用。讓平凡規律的生活，具有遊戲裡令人著迷瘋狂的元素。也將發揮年輕人熱情且樂群的精神，把生活中許多美好的體驗與大家分享。</desc>
+<other>網址
+※ http://www.gadgetapp.net
+
+福利說明 	
+※不定期國內外進修/研習
+※貼心下午茶
+※公司聚餐
+※Project完成後提供成果推薦函
+※名片, 公司正式e-mail帳號</other>
+<email>louis@gadgetapp.net</email>
+<job1type>行銷業務</job1type>
+<job1title>行銷企畫實習生</job1title>
+<job1duty>負責麻吉大聲公行銷業務的推廣及企劃。
+
+工作內容
+1.此應用適合許多產業, 婚禮, 公關業者, 演講會, 尾牙等, 針對客群商品/需求做提案及報價
+2.與協力廠商合作簽約
+3.協助客戶使用APP
+
+實習訓練規劃
+※APP介紹
+※如何找尋＆接洽客戶
+※銷售技巧
+※網路行銷
+※談判實務
+
+工作時間
+彈性工時，每周有固定的Office metting，其他時間可由自己規劃。</job1duty>
+<job1cons>口條清晰, 幽默反應快, 喜歡與人接觸, 邏輯好, 細心, 熱情。</job1cons>
+<job1hassal>是</job1hassal>
+<job1sal>按件計酬 不定期的國內外培訓課程</job1sal>
+<logo>69.jpg</logo></company>
+<company><display>否</display>
+<name>樂吾老</name>
+<website>www.6565.com.tw</website>
+<address>台北市基隆路一段180號7樓</address>
+<type>銀髮與資訊產業</type>
+<desc>樂吾老於民國99年成立，專注於銀髮族生活照護，目前業務為生產販售銀髮族精緻生活用品，居家無障礙設施，國內採電子商務平台聯盟販售，國外則開放代理與對外貿易。 102年度將方向定位為銀髮族生活資訊平台，除了提供生活用品，預計將銀髮族生活相關的資訊與更好的服務整合至平台當中，成為華人銀髮族的生活出入口網。</desc>
+<other>軟硬體開發：網站開發實習生/兼職	
+跟著UXUI設計師們一起打造更適合中高齡使用的網站。	
+需要具備：PHP or Python Django
+	
+市場營銷：行銷企劃實習生	(市場訪談)
+跟著我們一起去做市場訪談，實際去了解TA(銀髮族與消費族群)的生活型態，對於產品與品牌去執行營銷	
+需要具備：耐吃苦與喜歡與人互動的心 (訪談技巧別擔心，我們會教唷)
+
+市場營銷：行銷企劃實習生	(文案撰寫&amp;翻譯)
+文字是很有力量的工具，透過構思與編組，能創造強大的影響力並深入每個人的心中。想要讓銀髮族閱讀到優質內容，需要借用你的文字來創造。
+
+有興趣踏上一個產業興起的浪潮，參與一個公司的起飛，累積實戰經驗，也有機會打開眼就跟找尋未來方向，找到一個有興趣的新創公司來實習，絕對會是超酷的決定！(我們平均年齡26歲？！)，年輕熱血喜歡挑戰的你，樂吾老期待你的加入。讓我們成為一夥吧！</other>
+<email>charm@6565.com.tw</email>
+<job1type>軟硬體開發</job1type>
+<job1title>網站開發實習生/兼職</job1title>
+<job1duty>跟著UXUI設計師們一起打造更適合中高齡使用的網站。</job1duty>
+<job1cons>PHP or Python Django，後端開發能力</job1cons>
+<job1inter>網站DEMO，作品</job1inter>
+<job1hassal>是</job1hassal>
+<job1sal>按件計酬</job1sal>
+<job2type>行銷業務</job2type>
+<job2title>行銷企劃實習生(市場訪談)</job2title>
+<job2duty>跟著我們一起去做市場訪談，實際去了解TA(銀髮族與消費族群)的生活型態，對於產品與品牌去執行營銷</job2duty>
+<job2cons>耐吃苦與喜歡與人互動的心 (訪談技巧別擔心，我們會教唷)</job2cons>
+<job2inter>訪談爸媽爺爺奶奶的發現</job2inter>
+<job2hassal>是</job2hassal>
+<job2sal>培訓課程，車馬餐費，小驚喜</job2sal>
+<job3type>行銷業務</job3type>
+<job3title>行銷企劃實習生(文案撰寫&amp;翻譯)</job3title>
+<job3duty>文字是很有力量的工具，透過構思與編組，能創造強大的影響力並深入每個人的心中。想要讓銀髮族閱讀到優質內容，需要借用你的文字來創造。</job3duty>
+<job3cons>英語 or 日語能力，文章編譯撰寫能力</job3cons>
+<job3inter>編譯作品，BLOG</job3inter>
+<job3hassal>是</job3hassal>
+<job3sal>培訓課程，車馬餐費，小驚喜</job3sal>
+<logo>70.jpg</logo></company>
+<company><display>否</display>
+<name>幸福果食股份有限公司</name>
+<website>www.facebook.com/love2fruit</website>
+<address>台北、宜蘭或任一農村。</address>
+<type>創意行銷、農村文化體驗、顧問</type>
+<desc>幸福果食團隊簡介：
+稻田裡的餐桌計畫開始於2012.10
+幸福果食股份有限公司 成立於2013.06
+這是一個以農村、土地為主要展演舞台的團隊，透過行銷、品牌、商業模式的建立，來創造農村與土地的新價值，幸福果食也是一個策展團隊，以自然環境為基底素材，每個參與的人為主要成員，創造一份具生活美感的畫面，是一場生活行動劇，劇中的每個人都是主角，親近土地、親近自然，喚醒內心最純真的一面，透過商業行為來達到這個目的。
+幸福果食理念很簡單，就是好玩、幸福、有價值。</desc>
+<other>時薪：150元。
+彈性工作時數。
+福利就是出差，跟著我們一起下鄉瞭解台灣這片土地的種種。
+特殊需求：有照相與攝影器材。
+工作需求，需要一個側面記錄團隊運作過程的人，可以用照片與影片記錄。</other>
+<email>love2fruit@gmail.com</email>
+<job1type>編輯與設計</job1type>
+<job1title>幸福果食 影像記錄者。</job1title>
+<job1duty>透過照片、影片，記錄幸福果食團隊，實際運作的過程。
+參與稻田裡的餐會執行。</job1duty>
+<job1cons>喜愛農村與人文關懷，透過不同方式展現出來特質的人。</job1cons>
+<job1inter>影片記錄編輯</job1inter>
+<job1hassal>是</job1hassal>
+<job1sal>150元/hr ,6,000元/月</job1sal>
+<logo>71.jpg</logo></company>
+<company><display>否</display>
+<name>華安彩虹花卉有限公司</name>
+<website>www.facebook.com/pages/%E8%8F%AF%E5%AE%89-%E5%BD%A9%E8%99%B9%E8%8A%B1%E5%8D%89/195228047276500?id=195228047276500&amp;sk=info</website>
+<address>台北市信義區和平東路三段435巷7弄2號4樓</address>
+<type>文化創意產業</type>
+<desc>本公司為台灣唯一技術且獨步世界(原創荷蘭要兩~三天)12小時內染製完成此"縮短的製程法"乃是保證"全球原創"。
+花是生命體
+每一朵花都是獨一無二
+每一次的用心工藝每一片花瓣都是再無法複製的呈現
+彩虹花
+國外原創業者不算前後製作業.光染製的時間就需要2~3天
+本公司一開始就朝如何讓脆弱的玫瑰花在染製後依然照正常花期存活不影響壽命的方向去研發.不斷實驗研究失敗又失敗
+掌握了花體的脾性.生長特性.了解了喜怒哀樂後
+成功開發出的縮短染製法
+從切花入手到染製包裝好出貨整個流程只要12小時.
+使用過台灣所有的品種後.還針對不同品種調整製法
+因此幾乎台灣淺色系玫瑰花都可以製作.
+比國外業者限定品種更多了一項優勢
+不用仰賴進口既貴又難以確認經過海空運後的品質
+非噴塗.專業染製法隨花期開花可現內在層層不同色澤花瓣</desc>
+<other/>
+<email>行銷業務</email>
+<job1type>行銷業務</job1type>
+<job1title>行銷本公司之產品</job1title>
+<job1duty>肯吃苦</job1duty>
+<job1inter>是</job1inter>
+<job1hassal>按件計酬</job1hassal>
+<job1sal>編輯與設計</job1sal>
+<job2type>產品設計人員</job2type>
+<job2title>公司產品相關設計、包裝</job2title>
+<job2duty>商業或工業設計經驗</job2duty>
+<job2cons>曾設計之作品</job2cons>
+<job2inter>是</job2inter>
+<job2hassal>按件計酬</job2hassal>
+<logo>72.jpg</logo></company>
+
+</companys>
+
