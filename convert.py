@@ -119,6 +119,7 @@ _LOGO_DICT = {
 43.:'43.png',
 44.:'44.jpg',
 46.:'46.jpg',
+51.:'51.jpg',
 5.:'5.jpg',
 9.:'9.jpg',
 }
@@ -151,7 +152,7 @@ def main():
  #   for x in sh.row(0):
  #       print i,x.value
  #       i+=1
-    max_range=58
+    max_range=59
     temp_ary=[]
     #len_ary=[]
     for i in range(1,max_range+1):
